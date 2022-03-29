@@ -1,82 +1,123 @@
-import argparse
-import string
+from itertools import count
+import json
 
 import requests
 from bs4 import BeautifulSoup
 
 from beer import Beer
 
-parser = argparse.ArgumentParser()
-beerStoreUrl = "https://www.thebeerstore.ca/beers/"
 
-headers = {
-	'User-Agent': '',
-	'Cookie': 'beer_home_store=3256',
-}
-# Dougall = 3256
-# Lakefield = 4709
+if __name__ == '__main__':
+	beerstore_url = 'https://www.thebeerstore.ca/beers/'
+	json_stores: dict
+	json_beers: dict
+	out_msg: str
 
-parser.add_argument("beer")
+	# Search and select store
+	with open('store_ids.json', 'r') as infile:
+		json_stores = json.load(infile)
 
-args = parser.parse_args()
-beerArg = args.beer
+	selected_store = input('Search for preferred store: ')
+	searched_stores = dict()
+	
+	counter = 1
+	for store in json_stores.values():
+		if selected_store.lower() in store[0].lower() or selected_store.lower() in store[1].lower():
+			searched_stores.update({counter: store})
+			print(f'{counter}. {store[1]}')
+			counter += 1
 
-reqData = requests.get(beerStoreUrl + beerArg, headers=headers)
-status = reqData.status_code
-soup = BeautifulSoup(reqData.content, 'html.parser')
+	selected_store = input('Select a store by number: ')
+	selected_store = searched_stores.get(int(selected_store))[2]
 
-beerName = string.capwords(soup.find("div", class_="desc").find(
-	"h1", class_="capitalize").contents[0])
+	print(f'Store {json_stores.get(str(selected_store))[0]}, at {json_stores.get(str(selected_store))[1]} selected!\n')
+	##############################################################
+	
+	# Search and select beer
+	with open('beer_ids.json', 'r') as infile:
+		json_beers = json.load(infile)
 
-htmlBeerFormats = soup.findAll("div", class_="total_cans")
-htmlAllBeer = []
-allBeer = []
+	selected_beer = input('Search for a beer: ')
+	searched_beers = dict()
 
-for beerType in htmlBeerFormats:
-	for beer in beerType.findAll("li", class_="d-column d-row option _cart"):
-		htmlAllBeer.append(beer)
+	counter = 1
+	for beer in json_beers.values():
+		if selected_beer.lower() in beer.get('name').lower() or selected_beer.lower() in beer.get('company').lower():
+			searched_beers.update({counter: beer})
+			print(f'{counter}. {beer.get("name")}')
+			counter += 1
 
-for beer in htmlAllBeer:
-	quanTypeStr = str(
-		beer.find("div", class_="col_1 first col_same").contents[2]).strip()
+	selected_beer = input('Select a beer by number: ')
+	selected_beer = searched_beers.get(int(selected_beer)).get('link')
 
-	stock = 0
-	if (len(beer.find("div", class_="col_2 second col_same").contents) == 3):
-		stock = int(
-			str(beer.find("div", class_="col_2 second col_same").contents[2]).strip())
-	elif (beer.find("div", class_="col_2 second col_same").find("span", class_="outStock")):
+	print(f'Beer {json_beers.get(selected_beer).get("name")} selected!\n')
+	##############################################################
+
+	headers = {
+		'User-Agent': '',
+		'Cookie': f'beer_home_store={selected_store}',
+	}
+
+
+	request = requests.get(beerstore_url + selected_beer, headers=headers)
+	status = request.status_code
+	soup = BeautifulSoup(request.content, 'html.parser')
+
+	beer_name = soup.find('div', class_='desc').find('h1', class_='capitalize').contents[0]
+
+	html_beer_formats = soup.findAll('div', class_='total_cans')
+	html_all_beer = []
+	all_beer = []
+
+	for beer_type in html_beer_formats:
+		for beer in beer_type.findAll('li', class_='d-column d-row option _cart'):
+			html_all_beer.append(beer)
+
+	for beer in html_all_beer:
+		str_quan_type = str(beer.find('div', class_='col_1 first col_same').contents[2]).strip().split(" ")
+		quantity = int(str_quan_type[0])
+		type = str_quan_type[2]
+		serving = str_quan_type[3]
+
 		stock = 0
+		if (len(beer.find('div', class_='col_2 second col_same').contents) == 3):
+			stock = int(str(beer.find('div', class_='col_2 second col_same').contents[2]).strip())
+		elif (beer.find('div', class_='col_2 second col_same').find('span', class_='outStock')):
+			stock = 0
+		else:
+			stock = 'Packup'
+
+		sale_price = float(str(beer.find('span', class_='sale_price').contents[0]).strip()[1::])
+		on_sale = True if beer.find('span', class_='sale_badge') else False
+
+		all_beer.append(Beer(beer_name, quantity, type, serving, sale_price, stock, on_sale))
+
+	all_beer.sort(key=Beer.sortBy, reverse=True)
+
+	# for beer in all_beer:
+	# 	print(
+	# 		'\n'
+	# 		f'{beer_name}{" (On Sale)" if beer.onSale else ""}\n'
+	# 		f'{beer.quantity} {beer.type} \u00d7 {beer.serving}ml at ${beer.price:.2f}\n'
+	# 		f'{beer.mlPerDollar:.4f}ml/$\n'
+	# 	)
+
+	bestOption: Beer
+	for beer in all_beer:
+		if (beer.__inStock__):
+			bestOption = beer
+			break
+
+	try:
+		bestOption
+	except NameError:
+		out_msg = f'There was no {beer_name} in stock, looks like you\'ll have to try another beer.'
 	else:
-		stock = "Packup"
+		out_msg = (
+			'\n'
+			f'{beer_name}{" (On Sale)" if bestOption.onSale else ""}\n'
+			f'Best: {bestOption.quantity} {bestOption.type} \u00d7 {bestOption.serving}ml at ${bestOption.price:.2f}\n'
+			f'{bestOption.mlPerDollar:.2f}ml/$\n'
+		)
 
-	salePrice = float(
-		str(beer.find("span", class_="sale_price").contents[0]).strip()[1::])
-	onSale = True if beer.find("span", class_="sale_badge") else False
-
-	allBeer.append(Beer(beerName, quanTypeStr, salePrice, stock, onSale))
-
-allBeer.sort(key=Beer.sortBy, reverse=True)
-
-# for beer in allBeer:
-#     print("""
-# {}{}
-# {} {} × {}ml at ${:.2f}
-# {:.4f}ml/$
-#     """.format(beerName, " (On Sale)" if beer.onSale else "", beer.quantity, beer.type, beer.serving, beer.price, beer.mlPerDollar))
-
-bestOption: Beer
-for beer in allBeer:
-	if (beer.inStock):
-		bestOption = beer
-		break
-
-try:
-	bestOption
-except NameError:
-	print("There was no {} in stock, looks like you'll have to try another beer.".format(beerName))
-else:
-	print("""
-{}{}
-Best: {} {} \u00d7 {}ml at ${:.2f}
-	  {:.4f}ml/$
-	""".format(beerName, " (On Sale)" if bestOption.onSale else "", bestOption.quantity, bestOption.type, bestOption.serving, bestOption.price, bestOption.mlPerDollar))
+print(out_msg)
