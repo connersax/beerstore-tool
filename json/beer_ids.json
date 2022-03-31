@@ -1,0 +1,4592 @@
+{
+    "1792-english-ale": {
+        "name": "1792 ENGLISH ALE",
+        "company": "SONS OF KENT",
+        "link": "1792-english-ale"
+    },
+    "4est-brewery-lager": {
+        "name": "4EST BREWERY LAGER",
+        "company": "4EST BREWERY",
+        "link": "4est-brewery-lager"
+    },
+    "5-oclock-shadow-pale-ale": {
+        "name": "5 OCLOCK SHADOW PALE ALE",
+        "company": "FULL BEARD BREWING",
+        "link": "5-oclock-shadow-pale-ale"
+    },
+    "5-paddles-brewing-home-sweet-home": {
+        "name": "5 PADDLES BREWING HOME SWEET HOME",
+        "company": "5 PADDLES BREWING COMPANY",
+        "link": "5-paddles-brewing-home-sweet-home"
+    },
+    "5-paddles-brewing-in-your-face-ipa": {
+        "name": "5 PADDLES BREWING IN YOUR FACE IPA",
+        "company": "5 PADDLES BREWING COMPANY",
+        "link": "5-paddles-brewing-in-your-face-ipa"
+    },
+    "8-6-extreme": {
+        "name": "8.6 EXTREME",
+        "company": "BAVARIA",
+        "link": "8-6-extreme"
+    },
+    "8-6-india-pale-lager": {
+        "name": "8.6 INDIA PALE LAGER",
+        "company": "BAVARIA",
+        "link": "8-6-india-pale-lager"
+    },
+    "8-track-ipa": {
+        "name": "8 TRACK IPA",
+        "company": "RADICAL ROAD BREWING COMPANY",
+        "link": "8-track-ipa"
+    },
+    "abandoned-at-the-altar-raspberry-sour": {
+        "name": "ABANDONED AT THE ALTAR RASPBERRY SOUR",
+        "company": "HERITAGE HOPS BREW CO. INC.",
+        "link": "abandoned-at-the-altar-raspberry-sour"
+    },
+    "ace-hill-grapefruit-radler": {
+        "name": "ACE HILL GRAPEFRUIT RADLER",
+        "company": "ACE HILL BEER COMPANY INC.",
+        "link": "ace-hill-grapefruit-radler"
+    },
+    "ace-hill-mexican-lager": {
+        "name": "ACE HILL MEXICAN LAGER",
+        "company": "ACE HILL BEER COMPANY INC.",
+        "link": "ace-hill-mexican-lager"
+    },
+    "ace-hill-pilsner": {
+        "name": "ACE HILL PILSNER",
+        "company": "ACE HILL BEER COMPANY INC.",
+        "link": "ace-hill-pilsner"
+    },
+    "ace-hill-vienna-lager": {
+        "name": "ACE HILL VIENNA LAGER",
+        "company": "ACE HILL BEER COMPANY INC.",
+        "link": "ace-hill-vienna-lager"
+    },
+    "across-the-pond-english-special-ale": {
+        "name": "ACROSS THE POND ENGLISH SPECIAL ALE",
+        "company": "HIGH PARK BREWERY LTD.",
+        "link": "across-the-pond-english-special-ale"
+    },
+    "alberta-genuine-draft": {
+        "name": "ALBERTA GENUINE DRAFT",
+        "company": "BIG ROCK BREWERY",
+        "link": "alberta-genuine-draft"
+    },
+    "alexander-keiths-ipa": {
+        "name": "ALEXANDER KEITHS IPA",
+        "company": "KEITHS BREWERY",
+        "link": "alexander-keiths-ipa"
+    },
+    "alexander-keiths-red": {
+        "name": "ALEXANDER KEITHS RED",
+        "company": "KEITHS BREWERY",
+        "link": "alexander-keiths-red"
+    },
+    "all-or-nothing-hustle-over-hype-pale-wheat": {
+        "name": "ALL OR NOTHING HUSTLE OVER HYPE PALE WHEAT",
+        "company": "ALL OR NOTHING BREWHOUSE",
+        "link": "all-or-nothing-hustle-over-hype-pale-wheat"
+    },
+    "all-or-nothing-think-bigger-cream-ale": {
+        "name": "ALL OR NOTHING THINK BIGGER CREAM ALE",
+        "company": "ALL OR NOTHING BREWHOUSE",
+        "link": "all-or-nothing-think-bigger-cream-ale"
+    },
+    "alpine-lager": {
+        "name": "ALPINE LAGER",
+        "company": "MOOSEHEAD BREWERIES LIMITED",
+        "link": "alpine-lager"
+    },
+    "amber-of-the-north": {
+        "name": "AMBER OF THE NORTH",
+        "company": "SPEARHEAD BREWING",
+        "link": "amber-of-the-north"
+    },
+    "amstel-light": {
+        "name": "AMSTEL LIGHT",
+        "company": "HEINEKEN BROUWERIJEN BV",
+        "link": "amstel-light"
+    },
+    "amsterdam-3-speed-lager": {
+        "name": "AMSTERDAM 3 SPEED LAGER",
+        "company": "AMSTERDAM BREWING COMPANY",
+        "link": "amsterdam-3-speed-lager"
+    },
+    "amsterdam-blonde": {
+        "name": "AMSTERDAM BLONDE",
+        "company": "AMSTERDAM BREWING COMPANY",
+        "link": "amsterdam-blonde"
+    },
+    "amsterdam-boneshaker-ipa": {
+        "name": "AMSTERDAM BONESHAKER IPA",
+        "company": "AMSTERDAM BREWING COMPANY",
+        "link": "amsterdam-boneshaker-ipa"
+    },
+    "amsterdam-fria-cerveza-especial": {
+        "name": "AMSTERDAM FRIA CERVEZA ESPECIAL",
+        "company": "AMSTERDAM BREWING COMPANY",
+        "link": "amsterdam-fria-cerveza-especial"
+    },
+    "amsterdam-space-invader-ipa": {
+        "name": "AMSTERDAM SPACE INVADER IPA",
+        "company": "AMSTERDAM BREWING COMPANY",
+        "link": "amsterdam-space-invader-ipa"
+    },
+    "amsterdam-sweetwater-squeeze-seltzer-variety": {
+        "name": "AMSTERDAM SWEETWATER SQUEEZE SELTZER VARIETY",
+        "company": "AMSTERDAM BREWING COMPANY",
+        "link": "amsterdam-sweetwater-squeeze-seltzer-variety"
+    },
+    "anderson-amber-ale": {
+        "name": "ANDERSON AMBER ALE",
+        "company": "ANDERSON CRAFT ALES",
+        "link": "anderson-amber-ale"
+    },
+    "anderson-cream-ale": {
+        "name": "ANDERSON CREAM ALE",
+        "company": "ANDERSON CRAFT ALES",
+        "link": "anderson-cream-ale"
+    },
+    "anderson-gold-lager": {
+        "name": "ANDERSON GOLD LAGER",
+        "company": "ANDERSON CRAFT ALES",
+        "link": "anderson-gold-lager"
+    },
+    "anderson-ipa": {
+        "name": "ANDERSON IPA",
+        "company": "ANDERSON CRAFT ALES",
+        "link": "anderson-ipa"
+    },
+    "another-hazy-beer": {
+        "name": "ANOTHER HAZY BEER",
+        "company": "KENSINGTON BREWING COMPANY INC",
+        "link": "another-hazy-beer"
+    },
+    "aria-ipa": {
+        "name": "ARIA IPA",
+        "company": "PERSIAN EMPIRE BREWERY",
+        "link": "aria-ipa"
+    },
+    "aria-lager": {
+        "name": "ARIA LAGER",
+        "company": "PERSIAN EMPIRE BREWERY",
+        "link": "aria-lager"
+    },
+    "aria-porter": {
+        "name": "ARIA PORTER",
+        "company": "PERSIAN EMPIRE BREWERY",
+        "link": "aria-porter"
+    },
+    "aria-safron": {
+        "name": "ARIA SAFRON",
+        "company": "PERSIAN EMPIRE BREWERY",
+        "link": "aria-safron"
+    },
+    "arizona-hard-lemon-ice-tea": {
+        "name": "ARIZONA HARD LEMON ICE TEA",
+        "company": "MOLSON",
+        "link": "arizona-hard-lemon-ice-tea"
+    },
+    "arizona-hard-m-green-tea": {
+        "name": "ARIZONA HARD M GREEN TEA",
+        "company": "MOLSON",
+        "link": "arizona-hard-m-green-tea"
+    },
+    "asahi-super-dry": {
+        "name": "ASAHI SUPER DRY",
+        "company": "ASAHI BREWERIES LTD",
+        "link": "asahi-super-dry"
+    },
+    "ashton-brewing-company-blueberry-wheat": {
+        "name": "ASHTON BREWING COMPANY BLUEBERRY WHEAT",
+        "company": "ASHTON BREWING COMPANY",
+        "link": "ashton-brewing-company-blueberry-wheat"
+    },
+    "ashton-brewing-company-cream-ale": {
+        "name": "ASHTON BREWING COMPANY CREAM ALE",
+        "company": "ASHTON BREWING COMPANY",
+        "link": "ashton-brewing-company-cream-ale"
+    },
+    "atwater-pogolicious-ipa": {
+        "name": "ATWATER POG'O'LICIOUS IPA",
+        "company": "ATWATER BREWERY",
+        "link": "atwater-pogolicious-ipa"
+    },
+    "atwater-vanilla-java-porter": {
+        "name": "ATWATER VANILLA JAVA PORTER",
+        "company": "ATWATER BREWERY",
+        "link": "atwater-vanilla-java-porter"
+    },
+    "averbode-abbey-ale": {
+        "name": "AVERBODE ABBEY ALE",
+        "company": "BREWERY HUYGHE",
+        "link": "averbode-abbey-ale"
+    },
+    "backpaddle-bonde-ale": {
+        "name": "BACKPADDLE BONDE ALE",
+        "company": "UPPER THAMES BREWING COMPANY",
+        "link": "backpaddle-bonde-ale"
+    },
+    "badger-fursty-ferret": {
+        "name": "BADGER FURSTY FERRET",
+        "company": "BADGER ALES LIMITED",
+        "link": "badger-fursty-ferret"
+    },
+    "bangarang-blue-raspberry-hard-seltzer": {
+        "name": "BANGARANG BLUE RASPBERRY HARD SELTZER",
+        "company": "BANGARANG BEVERAGE CO.",
+        "link": "bangarang-blue-raspberry-hard-seltzer"
+    },
+    "bangarang-hard-seltzer-mixer-pack": {
+        "name": "BANGARANG HARD SELTZER - MIXER PACK",
+        "company": "BANGARANG BEVERAGE CO.",
+        "link": "bangarang-hard-seltzer-mixer-pack"
+    },
+    "bangarang-mango-hard-seltzer": {
+        "name": "BANGARANG MANGO HARD SELTZER",
+        "company": "BANGARANG BEVERAGE CO.",
+        "link": "bangarang-mango-hard-seltzer"
+    },
+    "bangarang-pink-lemonade-hard-seltzer": {
+        "name": "BANGARANG PINK LEMONADE HARD SELTZER",
+        "company": "BANGARANG BEVERAGE CO.",
+        "link": "bangarang-pink-lemonade-hard-seltzer"
+    },
+    "bangarang-watermelon-hard-seltzer": {
+        "name": "BANGARANG WATERMELON HARD SELTZER",
+        "company": "BANGARANG BEVERAGE CO.",
+        "link": "bangarang-watermelon-hard-seltzer"
+    },
+    "bangkok-crosswalk-north-east-pale-ale": {
+        "name": "BANGKOK CROSSWALK - NORTH EAST PALE ALE",
+        "company": "OVERFLOW BREWING COMPANY",
+        "link": "bangkok-crosswalk-north-east-pale-ale"
+    },
+    "bavaria-8-6-red": {
+        "name": "BAVARIA 8.6 RED",
+        "company": "BAVARIA",
+        "link": "bavaria-8-6-red"
+    },
+    "bavaria-8-6": {
+        "name": "BAVARIA 8.6",
+        "company": "BAVARIA",
+        "link": "bavaria-8-6"
+    },
+    "bavaria-premium-beer": {
+        "name": "BAVARIA PREMIUM BEER",
+        "company": "BAVARIA",
+        "link": "bavaria-premium-beer"
+    },
+    "bayside-brewing-bronzeback-dark-ale": {
+        "name": "BAYSIDE BREWING BRONZEBACK DARK ALE",
+        "company": "BAYSIDE BREWING CO. LIMITED",
+        "link": "bayside-brewing-bronzeback-dark-ale"
+    },
+    "bayside-brewing-honey-cream-ale": {
+        "name": "BAYSIDE BREWING HONEY CREAM ALE",
+        "company": "BAYSIDE BREWING CO. LIMITED",
+        "link": "bayside-brewing-honey-cream-ale"
+    },
+    "bayside-brewing-long-pond-lager": {
+        "name": "BAYSIDE BREWING LONG POND LAGER",
+        "company": "BAYSIDE BREWING CO. LIMITED",
+        "link": "bayside-brewing-long-pond-lager"
+    },
+    "beach-chair-lager": {
+        "name": "BEACH CHAIR LAGER",
+        "company": "PRINCE EDWARD ISLAND BREWING",
+        "link": "beach-chair-lager"
+    },
+    "beach-day-every-day-berry-beach": {
+        "name": "BEACH DAY EVERY DAY BERRY BEACH",
+        "company": "LABATT",
+        "link": "beach-day-every-day-berry-beach"
+    },
+    "beach-day-every-day-fruit-punch": {
+        "name": "BEACH DAY EVERY DAY FRUIT PUNCH",
+        "company": "LABATT",
+        "link": "beach-day-every-day-fruit-punch"
+    },
+    "beach-day-every-day-mixer-pack": {
+        "name": "BEACH DAY EVERY DAY MIXER PACK",
+        "company": "LABATT",
+        "link": "beach-day-every-day-mixer-pack"
+    },
+    "bear-runner-blonde-ale": {
+        "name": "BEAR RUNNER BLONDE ALE",
+        "company": "NEW ONTARIO BREWING",
+        "link": "bear-runner-blonde-ale"
+    },
+    "bearded-prospector-cream-ale": {
+        "name": "BEARDED PROSPECTOR CREAM ALE",
+        "company": "FULL BEARD BREWING",
+        "link": "bearded-prospector-cream-ale"
+    },
+    "beaus-country-vibes-amber-lagered-ale": {
+        "name": "BEAUS COUNTRY VIBES AMBER LAGERED ALE",
+        "company": "BEAUS ALL NATURAL BREWING CO",
+        "link": "beaus-country-vibes-amber-lagered-ale"
+    },
+    "beaus-feed-the-jukebox-milkshake-ipa": {
+        "name": "BEAUS FEED THE JUKEBOX MILKSHAKE IPA",
+        "company": "BEAUS ALL NATURAL BREWING CO",
+        "link": "beaus-feed-the-jukebox-milkshake-ipa"
+    },
+    "beaus-full-time-ipa": {
+        "name": "BEAUS FULL TIME IPA",
+        "company": "BEAUS ALL NATURAL BREWING CO",
+        "link": "beaus-full-time-ipa"
+    },
+    "beaus-good-time-session-ipa": {
+        "name": "BEAUS GOOD TIME SESSION IPA",
+        "company": "BEAUS ALL NATURAL BREWING CO",
+        "link": "beaus-good-time-session-ipa"
+    },
+    "beaus-local-organic": {
+        "name": "BEAU'S LOCAL ORGANIC",
+        "company": "BEAUS ALL NATURAL BREWING CO",
+        "link": "beaus-local-organic"
+    },
+    "beaus-lug-2-5-lagered-ale": {
+        "name": "BEAUS LUG 2.5 LAGERED ALE",
+        "company": "BEAUS ALL NATURAL BREWING CO",
+        "link": "beaus-lug-2-5-lagered-ale"
+    },
+    "beaus-lug-tread-lagered-ale": {
+        "name": "BEAUS LUG-TREAD LAGERED ALE",
+        "company": "BEAUS ALL NATURAL BREWING CO",
+        "link": "beaus-lug-tread-lagered-ale"
+    },
+    "beaus-night-marzen": {
+        "name": "BEAUS NIGHT MARZEN",
+        "company": "BEAUS ALL NATURAL BREWING CO",
+        "link": "beaus-night-marzen"
+    },
+    "beaus-porter-porter": {
+        "name": "BEAUS PORTER PORTER",
+        "company": "BEAUS ALL NATURAL BREWING CO",
+        "link": "beaus-porter-porter"
+    },
+    "beaus-wag-the-wolf-white-ipa": {
+        "name": "BEAUS WAG THE WOLF WHITE IPA",
+        "company": "BEAUS ALL NATURAL BREWING CO",
+        "link": "beaus-wag-the-wolf-white-ipa"
+    },
+    "becks-non-alcoholic-0-0": {
+        "name": "BECKS NON ALCOHOLIC 0.0",
+        "company": "LABATT",
+        "link": "becks-non-alcoholic-0-0"
+    },
+    "becks": {
+        "name": "BECKS",
+        "company": "BRAUEREI BECK & COMPANY",
+        "link": "becks"
+    },
+    "beer-devil-ipa": {
+        "name": "BEER DEVIL IPA",
+        "company": "NIAGARA BREWING COMPANY",
+        "link": "beer-devil-ipa"
+    },
+    "belgian-moon-light-sky": {
+        "name": "BELGIAN MOON LIGHT SKY",
+        "company": "MOLSON",
+        "link": "belgian-moon-light-sky"
+    },
+    "belgian-moon-share-pack": {
+        "name": "BELGIAN MOON SHARE PACK",
+        "company": "MOLSON",
+        "link": "belgian-moon-share-pack"
+    },
+    "belgian-moon": {
+        "name": "BELGIAN MOON",
+        "company": "MOLSON",
+        "link": "belgian-moon"
+    },
+    "belhaven-black-scot-stout": {
+        "name": "BELHAVEN BLACK SCOT STOUT",
+        "company": "GREENE KING PLC",
+        "link": "belhaven-black-scot-stout"
+    },
+    "bell-city-elijahs-real-mccoy-lager": {
+        "name": "BELL CITY ELIJAHS REAL MCCOY LAGER",
+        "company": "BELL CITY BREWING",
+        "link": "bell-city-elijahs-real-mccoy-lager"
+    },
+    "bell-city-too-wound-down-new-england-session-ipa": {
+        "name": "BELL CITY TOO WOUND DOWN NEW ENGLAND SESSION IPA",
+        "company": "BELL CITY BREWING",
+        "link": "bell-city-too-wound-down-new-england-session-ipa"
+    },
+    "belle-gueule": {
+        "name": "BELLE GUEULE",
+        "company": "RJ BREWERS",
+        "link": "belle-gueule"
+    },
+    "bellwoods-brewery-jelly-king-dry-hopped-sour": {
+        "name": "BELLWOODS BREWERY JELLY KING DRY HOPPED SOUR",
+        "company": "BELLWOODS BREWERY INC.",
+        "link": "bellwoods-brewery-jelly-king-dry-hopped-sour"
+    },
+    "bellwoods-brewery-jutsu-pale-ale": {
+        "name": "BELLWOODS BREWERY JUTSU PALE ALE",
+        "company": "BELLWOODS BREWERY INC.",
+        "link": "bellwoods-brewery-jutsu-pale-ale"
+    },
+    "bench-brewing-balls-fall-session-ipa": {
+        "name": "BENCH BREWING BALL'S FALL SESSION IPA",
+        "company": "BENCH BREWING COMPANY",
+        "link": "bench-brewing-balls-fall-session-ipa"
+    },
+    "bench-brewing-jordan-harbour-belgian-pale-ale": {
+        "name": "BENCH BREWING JORDAN HARBOUR BELGIAN PALE ALE",
+        "company": "BENCH BREWING COMPANY",
+        "link": "bench-brewing-jordan-harbour-belgian-pale-ale"
+    },
+    "bench-brewing-lincoln-lager": {
+        "name": "BENCH BREWING LINCOLN LAGER",
+        "company": "BENCH BREWING COMPANY",
+        "link": "bench-brewing-lincoln-lager"
+    },
+    "bench-brewing-short-hills-hazy-ipa": {
+        "name": "BENCH BREWING SHORT HILLS HAZY IPA",
+        "company": "BENCH BREWING COMPANY",
+        "link": "bench-brewing-short-hills-hazy-ipa"
+    },
+    "benediktiner-hell": {
+        "name": "BENEDIKTINER HELL",
+        "company": "BITBURGER BRAUGRUPPE GMBH",
+        "link": "benediktiner-hell"
+    },
+    "benediktiner-weissbier": {
+        "name": "BENEDIKTINER WEISSBIER",
+        "company": "BITBURGER BRAUGRUPPE GMBH",
+        "link": "benediktiner-weissbier"
+    },
+    "beyond-the-pale-aromatherapy": {
+        "name": "BEYOND THE PALE AROMATHERAPY",
+        "company": "BEYOND THE PALE BREWING COMPANY",
+        "link": "beyond-the-pale-aromatherapy"
+    },
+    "beyond-the-pale-clean-cut": {
+        "name": "BEYOND THE PALE CLEAN CUT",
+        "company": "BEYOND THE PALE BREWING COMPANY",
+        "link": "beyond-the-pale-clean-cut"
+    },
+    "beyond-the-pale-pink-fuzz": {
+        "name": "BEYOND THE PALE PINK FUZZ",
+        "company": "BEYOND THE PALE BREWING COMPANY",
+        "link": "beyond-the-pale-pink-fuzz"
+    },
+    "beyond-the-pale-yummy": {
+        "name": "BEYOND THE PALE YUMMY",
+        "company": "BEYOND THE PALE BREWING COMPANY",
+        "link": "beyond-the-pale-yummy"
+    },
+    "bicycle-craft-velocipede-india-pale-ale": {
+        "name": "BICYCLE CRAFT VELOCIPEDE INDIA PALE ALE",
+        "company": "BICYCLE CRAFT BREWERY INC.",
+        "link": "bicycle-craft-velocipede-india-pale-ale"
+    },
+    "big-rig-alpha-bomb-ipa": {
+        "name": "BIG RIG ALPHA BOMB IPA",
+        "company": "BIG RIG BREWERY",
+        "link": "big-rig-alpha-bomb-ipa"
+    },
+    "big-rig-black-ipa-release-the-hounds": {
+        "name": "BIG RIG BLACK IPA RELEASE THE HOUNDS",
+        "company": "BIG RIG BREWERY",
+        "link": "big-rig-black-ipa-release-the-hounds"
+    },
+    "big-rig-canadian-amber": {
+        "name": "BIG RIG CANADIAN AMBER",
+        "company": "BIG RIG BREWERY",
+        "link": "big-rig-canadian-amber"
+    },
+    "big-rig-gold": {
+        "name": "BIG RIG GOLD",
+        "company": "BIG RIG BREWERY",
+        "link": "big-rig-gold"
+    },
+    "big-rig-premium": {
+        "name": "BIG RIG PREMIUM",
+        "company": "BIG RIG BREWERY",
+        "link": "big-rig-premium"
+    },
+    "big-rig-shakedown-apa": {
+        "name": "BIG RIG SHAKEDOWN APA",
+        "company": "BIG RIG BREWERY",
+        "link": "big-rig-shakedown-apa"
+    },
+    "big-rock-bow-valley-lager": {
+        "name": "BIG ROCK BOW VALLEY LAGER",
+        "company": "BIG ROCK BREWERY",
+        "link": "big-rock-bow-valley-lager"
+    },
+    "big-rock-citradelic-ipa": {
+        "name": "BIG ROCK CITRADELIC IPA",
+        "company": "BIG ROCK BREWERY",
+        "link": "big-rock-citradelic-ipa"
+    },
+    "big-rock-grasshopper-kristallweizen": {
+        "name": "BIG ROCK GRASSHOPPER KRISTALLWEIZEN",
+        "company": "BIG ROCK BREWERY",
+        "link": "big-rock-grasshopper-kristallweizen"
+    },
+    "big-rock-pilsner": {
+        "name": "BIG ROCK PILSNER",
+        "company": "BIG ROCK BREWERY",
+        "link": "big-rock-pilsner"
+    },
+    "big-rock-signature-variety-pack": {
+        "name": "BIG ROCK SIGNATURE VARIETY PACK",
+        "company": "BIG ROCK BREWERY",
+        "link": "big-rock-signature-variety-pack"
+    },
+    "big-rock-traditional-ale": {
+        "name": "BIG ROCK TRADITIONAL ALE",
+        "company": "BIG ROCK BREWERY",
+        "link": "big-rock-traditional-ale"
+    },
+    "big-rock-warthog-ale": {
+        "name": "BIG ROCK WARTHOG ALE",
+        "company": "BIG ROCK BREWERY",
+        "link": "big-rock-warthog-ale"
+    },
+    "birra-castello": {
+        "name": "BIRRA CASTELLO",
+        "company": "BIRRA CASTELLO SPA",
+        "link": "birra-castello"
+    },
+    "birra-dolomiti": {
+        "name": "BIRRA DOLOMITI",
+        "company": "BIRRA CASTELLO SPA",
+        "link": "birra-dolomiti"
+    },
+    "birra-moretti": {
+        "name": "BIRRA MORETTI",
+        "company": "BIRRA MORETTI SPA",
+        "link": "birra-moretti"
+    },
+    "bitburger": {
+        "name": "BITBURGER",
+        "company": "BITBURGER BRAUGRUPPE GMBH",
+        "link": "bitburger"
+    },
+    "black-bellows-el-9-wye": {
+        "name": "BLACK BELLOWS EL 9 WYE",
+        "company": "BLACK BELLOWS BREWING CO.",
+        "link": "black-bellows-el-9-wye"
+    },
+    "black-bellows-white-witbier": {
+        "name": "BLACK BELLOWS WHITE WITBIER",
+        "company": "BLACK BELLOWS BREWING CO.",
+        "link": "black-bellows-white-witbier"
+    },
+    "black-creek-porter": {
+        "name": "BLACK CREEK PORTER",
+        "company": "PIONEER BREWERY LTD",
+        "link": "black-creek-porter"
+    },
+    "black-ice": {
+        "name": "BLACK ICE",
+        "company": "MOLSON",
+        "link": "black-ice"
+    },
+    "black-label": {
+        "name": "BLACK LABEL",
+        "company": "MOLSON",
+        "link": "black-label"
+    },
+    "black-oak-10-bitter-years-imperial-ipa": {
+        "name": "BLACK OAK 10 BITTER YEARS IMPERIAL IPA",
+        "company": "BLACK OAK BREWING COMPANY LTD.",
+        "link": "black-oak-10-bitter-years-imperial-ipa"
+    },
+    "black-oak-nut-brown-ale": {
+        "name": "BLACK OAK NUT BROWN ALE",
+        "company": "BLACK OAK BREWING COMPANY LTD.",
+        "link": "black-oak-nut-brown-ale"
+    },
+    "black-oak-pale-ale": {
+        "name": "BLACK OAK PALE ALE",
+        "company": "BLACK OAK BREWING COMPANY LTD.",
+        "link": "black-oak-pale-ale"
+    },
+    "blacklist-black-german-lager": {
+        "name": "BLACKLIST BLACK GERMAN LAGER",
+        "company": "THE NAPANEE BEER COMPANY",
+        "link": "blacklist-black-german-lager"
+    },
+    "blanche-de-chambly": {
+        "name": "BLANCHE DE CHAMBLY",
+        "company": "UNIBROUE",
+        "link": "blanche-de-chambly"
+    },
+    "blue-ice": {
+        "name": "BLUE ICE",
+        "company": "LABATT",
+        "link": "blue-ice"
+    },
+    "blue-light": {
+        "name": "BLUE LIGHT",
+        "company": "LABATT",
+        "link": "blue-light"
+    },
+    "blue-moon-mango-wheat-frmly-belgian-moon-": {
+        "name": "BLUE MOON MANGO WHEAT (frmly Belgian Moon)",
+        "company": "MOLSON",
+        "link": "blue-moon-mango-wheat-frmly-belgian-moon-"
+    },
+    "bobcaygeon-common-loon": {
+        "name": "BOBCAYGEON COMMON LOON",
+        "company": "BOBCAYGEON BREWING COMPANY LTD.",
+        "link": "bobcaygeon-common-loon"
+    },
+    "bobcaygeon-dockside-ale": {
+        "name": "BOBCAYGEON DOCKSIDE ALE",
+        "company": "BOBCAYGEON BREWING COMPANY LTD.",
+        "link": "bobcaygeon-dockside-ale"
+    },
+    "bobcaygeon-firefly-belgian-white": {
+        "name": "BOBCAYGEON FIREFLY BELGIAN WHITE",
+        "company": "BOBCAYGEON BREWING COMPANY LTD.",
+        "link": "bobcaygeon-firefly-belgian-white"
+    },
+    "bobcaygeon-northern-lights": {
+        "name": "BOBCAYGEON NORTHERN LIGHTS",
+        "company": "BOBCAYGEON BREWING COMPANY LTD.",
+        "link": "bobcaygeon-northern-lights"
+    },
+    "bobcaygeon-petes-lager": {
+        "name": "BOBCAYGEON PETES LAGER",
+        "company": "BOBCAYGEON BREWING COMPANY LTD.",
+        "link": "bobcaygeon-petes-lager"
+    },
+    "bombshell-blonde-ale": {
+        "name": "BOMBSHELL BLONDE ALE",
+        "company": "FRANK BREWING CO",
+        "link": "bombshell-blonde-ale"
+    },
+    "boshkung-35and118-cream-ale": {
+        "name": "BOSHKUNG 35&118 CREAM ALE",
+        "company": "BOSHKUNG BREWING COMPANY",
+        "link": "boshkung-35and118-cream-ale"
+    },
+    "boshkung-life-session-lager": {
+        "name": "BOSHKUNG LIFE SESSION LAGER",
+        "company": "BOSHKUNG BREWING COMPANY",
+        "link": "boshkung-life-session-lager"
+    },
+    "boxer-ice": {
+        "name": "BOXER ICE",
+        "company": "MOUNTAIN CREST SRL LLC",
+        "link": "boxer-ice"
+    },
+    "boxer-lager-gluten-free": {
+        "name": "BOXER LAGER GLUTEN FREE",
+        "company": "MOUNTAIN CREST SRL LLC",
+        "link": "boxer-lager-gluten-free"
+    },
+    "brava-light": {
+        "name": "BRAVA LIGHT",
+        "company": "BRAVA BREWING COMPANY",
+        "link": "brava-light"
+    },
+    "brava": {
+        "name": "BRAVA",
+        "company": "BRAVA BREWING COMPANY",
+        "link": "brava"
+    },
+    "brew-lime-beer": {
+        "name": "BREW LIME BEER",
+        "company": "BREW MICROBREWERY",
+        "link": "brew-lime-beer"
+    },
+    "brew-maple-beer": {
+        "name": "BREW MAPLE BEER",
+        "company": "BREW MICROBREWERY",
+        "link": "brew-maple-beer"
+    },
+    "brew-revolution-neipa-walkin-on-sunshine": {
+        "name": "BREW REVOLUTION NEIPA - WALKIN ON SUNSHINE",
+        "company": "BREW REVOLUTION",
+        "link": "brew-revolution-neipa-walkin-on-sunshine"
+    },
+    "bring-your-own-seltzer-lavender-peach": {
+        "name": "BRING YOUR OWN SELTZER LAVENDER PEACH",
+        "company": "KENSINGTON BREWING COMPANY INC",
+        "link": "bring-your-own-seltzer-lavender-peach"
+    },
+    "bring-your-own-seltzer-mango-and-lychee": {
+        "name": "BRING YOUR OWN SELTZER MANGO AND LYCHEE",
+        "company": "KENSINGTON BREWING COMPANY INC",
+        "link": "bring-your-own-seltzer-mango-and-lychee"
+    },
+    "broad-reach-nor-easter-ipa": {
+        "name": "BROAD REACH NOR-EASTER IPA",
+        "company": "STONEHOOKER BREWING COMPANY LTD.",
+        "link": "broad-reach-nor-easter-ipa"
+    },
+    "broadhead-amber-ale": {
+        "name": "BROADHEAD AMBER ALE",
+        "company": "BROADHEAD BREWING COMPANY",
+        "link": "broadhead-amber-ale"
+    },
+    "broadhead-blueberry-blonde": {
+        "name": "BROADHEAD BLUEBERRY BLONDE",
+        "company": "BROADHEAD BREWING COMPANY",
+        "link": "broadhead-blueberry-blonde"
+    },
+    "broadhead-neipa": {
+        "name": "BROADHEAD NEIPA",
+        "company": "BROADHEAD BREWING COMPANY",
+        "link": "broadhead-neipa"
+    },
+    "broadhead-pilsner": {
+        "name": "BROADHEAD PILSNER",
+        "company": "BROADHEAD BREWING COMPANY",
+        "link": "broadhead-pilsner"
+    },
+    "broadhead-tangerine-ipa": {
+        "name": "BROADHEAD TANGERINE IPA",
+        "company": "BROADHEAD BREWING COMPANY",
+        "link": "broadhead-tangerine-ipa"
+    },
+    "brock-street-blonde": {
+        "name": "BROCK STREET BLONDE",
+        "company": "BROCK STREET BREWING",
+        "link": "brock-street-blonde"
+    },
+    "brock-street-bohemian-pilsner": {
+        "name": "BROCK STREET BOHEMIAN PILSNER",
+        "company": "BROCK STREET BREWING",
+        "link": "brock-street-bohemian-pilsner"
+    },
+    "brock-street-strawberry-blonde": {
+        "name": "BROCK STREET STRAWBERRY BLONDE",
+        "company": "BROCK STREET BREWING",
+        "link": "brock-street-strawberry-blonde"
+    },
+    "brock-street-traditional-irish-red": {
+        "name": "BROCK STREET TRADITIONAL IRISH RED",
+        "company": "BROCK STREET BREWING",
+        "link": "brock-street-traditional-irish-red"
+    },
+    "brooklyn-lager": {
+        "name": "BROOKLYN LAGER",
+        "company": "BROOKLYN BREWERY",
+        "link": "brooklyn-lager"
+    },
+    "brouczech-premium-lager": {
+        "name": "BROUCZECH PREMIUM LAGER",
+        "company": "PIVOVAR NOVA PAKA A. S.",
+        "link": "brouczech-premium-lager"
+    },
+    "brugse-zot-blond": {
+        "name": "BRUGSE ZOT BLOND",
+        "company": "BROUWERIJ DE HALVE MAAN",
+        "link": "brugse-zot-blond"
+    },
+    "bud-light-apple": {
+        "name": "BUD LIGHT APPLE",
+        "company": "LABATT",
+        "link": "bud-light-apple"
+    },
+    "bud-light-chelada": {
+        "name": "BUD LIGHT CHELADA",
+        "company": "AB INBEV",
+        "link": "bud-light-chelada"
+    },
+    "bud-light-flavour-faves-summer-mixer": {
+        "name": "BUD LIGHT FLAVOUR FAVES SUMMER MIXER",
+        "company": "LABATT",
+        "link": "bud-light-flavour-faves-summer-mixer"
+    },
+    "bud-light-lime": {
+        "name": "BUD LIGHT LIME",
+        "company": "LABATT",
+        "link": "bud-light-lime"
+    },
+    "bud-light-mango": {
+        "name": "BUD LIGHT MANGO",
+        "company": "LABATT",
+        "link": "bud-light-mango"
+    },
+    "bud-light-seltzer-black-cherry": {
+        "name": "BUD LIGHT SELTZER BLACK CHERRY",
+        "company": "LABATT",
+        "link": "bud-light-seltzer-black-cherry"
+    },
+    "bud-light-seltzer-mango": {
+        "name": "BUD LIGHT SELTZER MANGO",
+        "company": "LABATT",
+        "link": "bud-light-seltzer-mango"
+    },
+    "bud-light-seltzer-mix-pack": {
+        "name": "BUD LIGHT SELTZER MIX PACK",
+        "company": "LABATT",
+        "link": "bud-light-seltzer-mix-pack"
+    },
+    "bud-light-strawberry-lemonade": {
+        "name": "BUD LIGHT STRAWBERRY LEMONADE",
+        "company": "LABATT",
+        "link": "bud-light-strawberry-lemonade"
+    },
+    "bud-light": {
+        "name": "BUD LIGHT",
+        "company": "LABATT",
+        "link": "bud-light"
+    },
+    "budweiser-crown": {
+        "name": "BUDWEISER CROWN",
+        "company": "LABATT",
+        "link": "budweiser-crown"
+    },
+    "budweiser-shot-labatt": {
+        "name": "BUDWEISER SHOT LABATT",
+        "company": "LABATT",
+        "link": "budweiser-shot-labatt"
+    },
+    "budweiser-zero": {
+        "name": "BUDWEISER ZERO",
+        "company": "LABATT",
+        "link": "budweiser-zero"
+    },
+    "budweiser": {
+        "name": "BUDWEISER",
+        "company": "LABATT",
+        "link": "budweiser"
+    },
+    "bulles-de-nuit-mimosa": {
+        "name": "BULLES DE NUIT MIMOSA",
+        "company": "BREW ALLIANCE",
+        "link": "bulles-de-nuit-mimosa"
+    },
+    "busch-ice-6-0": {
+        "name": "BUSCH ICE 6.0",
+        "company": "LABATT",
+        "link": "busch-ice-6-0"
+    },
+    "busch-ice": {
+        "name": "BUSCH ICE",
+        "company": "LABATT",
+        "link": "busch-ice"
+    },
+    "busch-lager": {
+        "name": "BUSCH LAGER",
+        "company": "LABATT",
+        "link": "busch-lager"
+    },
+    "busch-light": {
+        "name": "BUSCH LIGHT",
+        "company": "LABATT",
+        "link": "busch-light"
+    },
+    "caffreys": {
+        "name": "CAFFREYS",
+        "company": "COORS UK",
+        "link": "caffreys"
+    },
+    "calabogie-front-porch": {
+        "name": "CALABOGIE FRONT PORCH",
+        "company": "CALABOGIE BREWING",
+        "link": "calabogie-front-porch"
+    },
+    "calabogie-portage-pilsner": {
+        "name": "CALABOGIE PORTAGE PILSNER",
+        "company": "CALABOGIE BREWING",
+        "link": "calabogie-portage-pilsner"
+    },
+    "calabogies-bogie-west-coast-american-ipa": {
+        "name": "CALABOGIES BOGIE WEST COAST AMERICAN IPA",
+        "company": "CALABOGIE BREWING",
+        "link": "calabogies-bogie-west-coast-american-ipa"
+    },
+    "calabogies-brown-cow-nitro-stout": {
+        "name": "CALABOGIES BROWN COW NITRO STOUT",
+        "company": "CALABOGIE BREWING",
+        "link": "calabogies-brown-cow-nitro-stout"
+    },
+    "caledon-hill-premium-lager": {
+        "name": "CALEDON HILL PREMIUM LAGER",
+        "company": "CALEDON HILLS BREWING",
+        "link": "caledon-hill-premium-lager"
+    },
+    "caledon-hills-brewing-buckstown-bock": {
+        "name": "CALEDON HILLS BREWING BUCKSTOWN BOCK",
+        "company": "CALEDON HILLS BREWING",
+        "link": "caledon-hills-brewing-buckstown-bock"
+    },
+    "caledon-hills-deadly-dark": {
+        "name": "CALEDON HILLS DEADLY DARK",
+        "company": "CALEDON HILLS BREWING",
+        "link": "caledon-hills-deadly-dark"
+    },
+    "caledon-hills-helles": {
+        "name": "CALEDON HILLS HELLES",
+        "company": "CALEDON HILLS BREWING",
+        "link": "caledon-hills-helles"
+    },
+    "camerons-ambear-red-ale": {
+        "name": "CAMERONS AMBEAR RED ALE",
+        "company": "CAMERONS BREWING COMPANY",
+        "link": "camerons-ambear-red-ale"
+    },
+    "camerons-captains-log": {
+        "name": "CAMERONS CAPTAINS LOG",
+        "company": "CAMERONS BREWING COMPANY",
+        "link": "camerons-captains-log"
+    },
+    "camerons-cosmic-cream-ale": {
+        "name": "CAMERONS COSMIC CREAM ALE",
+        "company": "CAMERONS BREWING COMPANY",
+        "link": "camerons-cosmic-cream-ale"
+    },
+    "camerons-cruising-through-the-galaxy-hazy-ipa": {
+        "name": "CAMERON'S CRUISING THROUGH THE GALAXY HAZY IPA",
+        "company": "CAMERONS BREWING COMPANY",
+        "link": "camerons-cruising-through-the-galaxy-hazy-ipa"
+    },
+    "camerons-jurassic-ipa": {
+        "name": "CAMERONS JURASSIC IPA",
+        "company": "CAMERONS BREWING COMPANY",
+        "link": "camerons-jurassic-ipa"
+    },
+    "canadian-heritage-gold-pilsner": {
+        "name": "CANADIAN HERITAGE GOLD PILSNER",
+        "company": "HESPELER BREWING",
+        "link": "canadian-heritage-gold-pilsner"
+    },
+    "canuck-pale-ale": {
+        "name": "CANUCK PALE ALE",
+        "company": "GREAT LAKES",
+        "link": "canuck-pale-ale"
+    },
+    "carib-lager": {
+        "name": "CARIB LAGER",
+        "company": "CARIB BREWERY",
+        "link": "carib-lager"
+    },
+    "caribru-ipa": {
+        "name": "CARIBRU IPA",
+        "company": "JUNCTION CRAFT BREWING",
+        "link": "caribru-ipa"
+    },
+    "caribru-lager": {
+        "name": "CARIBRU LAGER",
+        "company": "JUNCTION CRAFT BREWING",
+        "link": "caribru-lager"
+    },
+    "carling-ice": {
+        "name": "CARLING ICE",
+        "company": "MOLSON",
+        "link": "carling-ice"
+    },
+    "carling-lager": {
+        "name": "CARLING LAGER",
+        "company": "MOLSON",
+        "link": "carling-lager"
+    },
+    "carling-light": {
+        "name": "CARLING LIGHT",
+        "company": "MOLSON",
+        "link": "carling-light"
+    },
+    "carlsberg-lite": {
+        "name": "CARLSBERG LITE",
+        "company": "CARLSBERG INTERNATIONAL A/S",
+        "link": "carlsberg-lite"
+    },
+    "carlsberg": {
+        "name": "CARLSBERG",
+        "company": "CARLSBERG INTERNATIONAL A/S",
+        "link": "carlsberg"
+    },
+    "cherry-river-black-cherry": {
+        "name": "CHERRY RIVER BLACK CHERRY",
+        "company": "BREW ALLIANCE",
+        "link": "cherry-river-black-cherry"
+    },
+    "cherry-river-peach-and-basil": {
+        "name": "CHERRY RIVER PEACH AND BASIL",
+        "company": "BREW ALLIANCE",
+        "link": "cherry-river-peach-and-basil"
+    },
+    "cherry-river-yuzu-lime": {
+        "name": "CHERRY RIVER YUZU LIME",
+        "company": "BREW ALLIANCE",
+        "link": "cherry-river-yuzu-lime"
+    },
+    "cheval-blanc": {
+        "name": "CHEVAL BLANC",
+        "company": "RJ BREWERS",
+        "link": "cheval-blanc"
+    },
+    "chimay-gold": {
+        "name": "CHIMAY GOLD",
+        "company": "CHIMAY BREWERY",
+        "link": "chimay-gold"
+    },
+    "chimay-red": {
+        "name": "CHIMAY RED",
+        "company": "CHIMAY BREWERY",
+        "link": "chimay-red"
+    },
+    "chimay-white": {
+        "name": "CHIMAY WHITE",
+        "company": "CHIMAY BREWERY",
+        "link": "chimay-white"
+    },
+    "church-key-brewing-holy-smoke-scotch-ale": {
+        "name": "CHURCH KEY BREWING HOLY SMOKE SCOTCH ALE",
+        "company": "CHURCH KEY BREWING COMPANY",
+        "link": "church-key-brewing-holy-smoke-scotch-ale"
+    },
+    "church-key-brewing-northumberland-ale": {
+        "name": "CHURCH KEY BREWING NORTHUMBERLAND ALE",
+        "company": "CHURCH KEY BREWING COMPANY",
+        "link": "church-key-brewing-northumberland-ale"
+    },
+    "citrale": {
+        "name": "CITRALE",
+        "company": "BRASSERIE ETIENNE BRULE BREWERY INC",
+        "link": "citrale"
+    },
+    "class-v-ipa": {
+        "name": "CLASS V IPA",
+        "company": "WHITEWATER BREWING COMPANY",
+        "link": "class-v-ipa"
+    },
+    "clean-break-pilsner": {
+        "name": "CLEAN BREAK PILSNER",
+        "company": "COWBELL BREWING COMPANY",
+        "link": "clean-break-pilsner"
+    },
+    "cliff-top-pale-ale": {
+        "name": "CLIFF TOP PALE ALE",
+        "company": "WILLIAM STREET BEER CO. LTD",
+        "link": "cliff-top-pale-ale"
+    },
+    "clifford-brewing-chain-link-lager": {
+        "name": "CLIFFORD BREWING CHAIN LINK LAGER",
+        "company": "CLIFFORD BREWING COMPANY",
+        "link": "clifford-brewing-chain-link-lager"
+    },
+    "clifford-porter": {
+        "name": "CLIFFORD PORTER",
+        "company": "CLIFFORD BREWING COMPANY",
+        "link": "clifford-porter"
+    },
+    "clubtails-strwberry-colada": {
+        "name": "CLUBTAILS STRWBERRY COLADA",
+        "company": "BREW ALLIANCE",
+        "link": "clubtails-strwberry-colada"
+    },
+    "clubtails-sunny-margarita": {
+        "name": "CLUBTAILS SUNNY MARGARITA",
+        "company": "BREW ALLIANCE",
+        "link": "clubtails-sunny-margarita"
+    },
+    "clutch-american-pale-ale": {
+        "name": "CLUTCH AMERICAN PALE ALE",
+        "company": "REDLINE BREWHOUSE",
+        "link": "clutch-american-pale-ale"
+    },
+    "cold-beer-warm-day": {
+        "name": "COLD BEER, WARM DAY",
+        "company": "KENSINGTON BREWING COMPANY INC",
+        "link": "cold-beer-warm-day"
+    },
+    "cold-break-brewing-krispy-cream-ale": {
+        "name": "COLD BREAK BREWING KRISPY CREAM ALE",
+        "company": "COLD BREAK BREWING",
+        "link": "cold-break-brewing-krispy-cream-ale"
+    },
+    "cold-break-brewing-sublime-ipa": {
+        "name": "COLD BREAK BREWING SUBLIME IPA",
+        "company": "COLD BREAK BREWING",
+        "link": "cold-break-brewing-sublime-ipa"
+    },
+    "collective-arts-12-spakling-hard-teas": {
+        "name": "COLLECTIVE ARTS 12 SPAKLING HARD TEAS",
+        "company": "COLLECTIVE ARTS",
+        "link": "collective-arts-12-spakling-hard-teas"
+    },
+    "collective-arts-audio-visual-lager": {
+        "name": "COLLECTIVE ARTS AUDIO VISUAL LAGER",
+        "company": "COLLECTIVE ARTS",
+        "link": "collective-arts-audio-visual-lager"
+    },
+    "collective-arts-blueberry-and-elderberry-hard-tea": {
+        "name": "COLLECTIVE ARTS BLUEBERRY AND ELDERBERRY HARD TEA",
+        "company": "COLLECTIVE ARTS",
+        "link": "collective-arts-blueberry-and-elderberry-hard-tea"
+    },
+    "collective-arts-hazy-state": {
+        "name": "COLLECTIVE ARTS HAZY STATE",
+        "company": "COLLECTIVE ARTS",
+        "link": "collective-arts-hazy-state"
+    },
+    "collective-arts-jam-up-the-mash": {
+        "name": "COLLECTIVE ARTS JAM UP THE MASH",
+        "company": "COLLECTIVE ARTS",
+        "link": "collective-arts-jam-up-the-mash"
+    },
+    "collective-arts-life-in-the-clouds": {
+        "name": "COLLECTIVE ARTS LIFE IN THE CLOUDS",
+        "company": "COLLECTIVE ARTS",
+        "link": "collective-arts-life-in-the-clouds"
+    },
+    "collective-arts-ransack-the-universe": {
+        "name": "COLLECTIVE ARTS RANSACK THE UNIVERSE",
+        "company": "COLLECTIVE ARTS",
+        "link": "collective-arts-ransack-the-universe"
+    },
+    "collective-arts-rhyme-and-reason": {
+        "name": "COLLECTIVE ARTS RHYME & REASON",
+        "company": "COLLECTIVE ARTS",
+        "link": "collective-arts-rhyme-and-reason"
+    },
+    "collective-arts-saint-of-circumstance": {
+        "name": "COLLECTIVE ARTS SAINT OF CIRCUMSTANCE",
+        "company": "COLLECTIVE ARTS",
+        "link": "collective-arts-saint-of-circumstance"
+    },
+    "colt-45": {
+        "name": "COLT 45",
+        "company": "SLEEMAN BREWING",
+        "link": "colt-45"
+    },
+    "cool-beer-lager": {
+        "name": "COOL BEER LAGER",
+        "company": "COOL BREWING CO.",
+        "link": "cool-beer-lager"
+    },
+    "coors-edge-0-5": {
+        "name": "COORS EDGE 0.5",
+        "company": "MOLSON",
+        "link": "coors-edge-0-5"
+    },
+    "coors-light": {
+        "name": "COORS LIGHT",
+        "company": "MOLSON",
+        "link": "coors-light"
+    },
+    "coors-organic": {
+        "name": "COORS ORGANIC",
+        "company": "MOLSON",
+        "link": "coors-organic"
+    },
+    "coors-original": {
+        "name": "COORS ORIGINAL",
+        "company": "MOLSON",
+        "link": "coors-original"
+    },
+    "coors-seltzer-black-cherry": {
+        "name": "COORS SELTZER BLACK CHERRY",
+        "company": "MOLSON",
+        "link": "coors-seltzer-black-cherry"
+    },
+    "coors-seltzer-grapefruit": {
+        "name": "COORS SELTZER GRAPEFRUIT",
+        "company": "MOLSON",
+        "link": "coors-seltzer-grapefruit"
+    },
+    "coors-seltzer-lemon-lime": {
+        "name": "COORS SELTZER LEMON LIME",
+        "company": "MOLSON",
+        "link": "coors-seltzer-lemon-lime"
+    },
+    "coors-seltzer-mango": {
+        "name": "COORS SELTZER MANGO",
+        "company": "MOLSON",
+        "link": "coors-seltzer-mango"
+    },
+    "coors-seltzer-variety-pack": {
+        "name": "COORS SELTZER VARIETY PACK",
+        "company": "MOLSON",
+        "link": "coors-seltzer-variety-pack"
+    },
+    "coors-slice-grapefruit": {
+        "name": "COORS SLICE GRAPEFRUIT",
+        "company": "MOLSON",
+        "link": "coors-slice-grapefruit"
+    },
+    "coors-slice-lime": {
+        "name": "COORS SLICE LIME",
+        "company": "MOLSON",
+        "link": "coors-slice-lime"
+    },
+    "corona-import": {
+        "name": "CORONA IMPORT",
+        "company": "CERVECERIA MODELO S.A. DE C.V.",
+        "link": "corona-import"
+    },
+    "corona-light-import": {
+        "name": "CORONA LIGHT IMPORT",
+        "company": "CERVECERIA MODELO S.A. DE C.V.",
+        "link": "corona-light-import"
+    },
+    "corona-sunbrew-0-0": {
+        "name": "CORONA SUNBREW 0.0",
+        "company": "LABATT",
+        "link": "corona-sunbrew-0-0"
+    },
+    "corona": {
+        "name": "CORONA",
+        "company": "LABATT",
+        "link": "corona"
+    },
+    "cottage-springs-beverage-co-hard-seltzer-mixed-pack": {
+        "name": "COTTAGE SPRINGS BEVERAGE CO. HARD SELTZER MIXED PACK",
+        "company": "ACE BEVERAGE GROUP INC.",
+        "link": "cottage-springs-beverage-co-hard-seltzer-mixed-pack"
+    },
+    "cowbell-absent-landlord": {
+        "name": "COWBELL ABSENT LANDLORD",
+        "company": "COWBELL BREWING COMPANY",
+        "link": "cowbell-absent-landlord"
+    },
+    "cowbell-doc-perdues-bobcat": {
+        "name": "COWBELL DOC PERDUES BOBCAT",
+        "company": "COWBELL BREWING COMPANY",
+        "link": "cowbell-doc-perdues-bobcat"
+    },
+    "cowbell-hazy-days-ipa": {
+        "name": "COWBELL HAZY DAYS IPA",
+        "company": "COWBELL BREWING COMPANY",
+        "link": "cowbell-hazy-days-ipa"
+    },
+    "cowbell-smooth-sailing-light-lager": {
+        "name": "COWBELL SMOOTH SAILING LIGHT LAGER",
+        "company": "COWBELL BREWING COMPANY",
+        "link": "cowbell-smooth-sailing-light-lager"
+    },
+    "cracked-canoe-draught": {
+        "name": "CRACKED CANOE DRAUGHT",
+        "company": "MOOSEHEAD BREWERIES LIMITED",
+        "link": "cracked-canoe-draught"
+    },
+    "cracked-canoe": {
+        "name": "CRACKED CANOE",
+        "company": "MOOSEHEAD BREWERIES LIMITED",
+        "link": "cracked-canoe"
+    },
+    "crank-lite-lager": {
+        "name": "CRANK LITE LAGER",
+        "company": "CRANK LITE",
+        "link": "crank-lite-lager"
+    },
+    "creemore-boundless-ipa": {
+        "name": "CREEMORE BOUNDLESS IPA",
+        "company": "CREEMORE SPRINGS BREWERY",
+        "link": "creemore-boundless-ipa"
+    },
+    "creemore-collection": {
+        "name": "CREEMORE COLLECTION",
+        "company": "CREEMORE SPRINGS BREWERY",
+        "link": "creemore-collection"
+    },
+    "creemore-helles-light-lager": {
+        "name": "CREEMORE HELLES LIGHT LAGER",
+        "company": "MOLSON",
+        "link": "creemore-helles-light-lager"
+    },
+    "creemore-lager": {
+        "name": "CREEMORE LAGER",
+        "company": "CREEMORE SPRINGS BREWERY",
+        "link": "creemore-lager"
+    },
+    "creemore-lot-9": {
+        "name": "CREEMORE LOT 9",
+        "company": "CREEMORE SPRINGS BREWERY",
+        "link": "creemore-lot-9"
+    },
+    "creemore-pale-ale": {
+        "name": "CREEMORE PALE ALE",
+        "company": "CREEMORE SPRINGS BREWERY",
+        "link": "creemore-pale-ale"
+    },
+    "crest-super": {
+        "name": "CREST SUPER",
+        "company": "MARSTONS PLC",
+        "link": "crest-super"
+    },
+    "crystal": {
+        "name": "CRYSTAL",
+        "company": "LABATT",
+        "link": "crystal"
+    },
+    "cup-and-saucer-english-ale": {
+        "name": "CUP & SAUCER ENGLISH ALE",
+        "company": "MANITOULIN BREWING COMPANY",
+        "link": "cup-and-saucer-english-ale"
+    },
+    "czechvar": {
+        "name": "CZECHVAR",
+        "company": "BUDEJOVICKY BUDVAR NP",
+        "link": "czechvar"
+    },
+    "dab-dark-lager": {
+        "name": "DAB DARK LAGER",
+        "company": "DORTMUNDER ACTIEN BREWERY",
+        "link": "dab-dark-lager"
+    },
+    "dab-lemon-radler-unfiltered": {
+        "name": "DAB LEMON RADLER UNFILTERED",
+        "company": "DORTMUNDER ACTIEN BREWERY",
+        "link": "dab-lemon-radler-unfiltered"
+    },
+    "dab-maibock": {
+        "name": "DAB MAIBOCK",
+        "company": "DORTMUNDER ACTIEN BREWERY",
+        "link": "dab-maibock"
+    },
+    "dab-original-lager": {
+        "name": "DAB ORIGINAL LAGER",
+        "company": "DORTMUNDER ACTIEN BREWERY",
+        "link": "dab-original-lager"
+    },
+    "dab-ultimate-low-carb-low-cal-light-beer": {
+        "name": "DAB ULTIMATE LOW CARB, LOW CAL LIGHT BEER",
+        "company": "DORTMUNDER ACTIEN BREWERY",
+        "link": "dab-ultimate-low-carb-low-cal-light-beer"
+    },
+    "daura-damm": {
+        "name": "DAURA DAMM",
+        "company": "S. A. DAMM BREWERY",
+        "link": "daura-damm"
+    },
+    "de-koninck": {
+        "name": "DE KONINCK",
+        "company": "DUVEL MOORTGAT N.V.",
+        "link": "de-koninck"
+    },
+    "deadline-premium-blonde-lager": {
+        "name": "DEADLINE PREMIUM BLONDE LAGER",
+        "company": "THE NAPANEE BEER COMPANY",
+        "link": "deadline-premium-blonde-lager"
+    },
+    "decouverte-non-alcoholic-ipa": {
+        "name": "DECOUVERTE - NON-ALCOHOLIC IPA",
+        "company": "LE BOCKALE",
+        "link": "decouverte-non-alcoholic-ipa"
+    },
+    "delirium-red": {
+        "name": "DELIRIUM RED",
+        "company": "BREWERY HUYGHE",
+        "link": "delirium-red"
+    },
+    "delirium-tremens": {
+        "name": "DELIRIUM TREMENS",
+        "company": "BREWERY HUYGHE",
+        "link": "delirium-tremens"
+    },
+    "deschutes-black-butte-porter": {
+        "name": "DESCHUTES BLACK BUTTE PORTER",
+        "company": "DESCHUTES BREWERY",
+        "link": "deschutes-black-butte-porter"
+    },
+    "deschutes-fresh-squeezed-ipa": {
+        "name": "DESCHUTES FRESH SQUEEZED IPA",
+        "company": "DESCHUTES BREWERY",
+        "link": "deschutes-fresh-squeezed-ipa"
+    },
+    "dominion-city-town-and-country-blonde-ale": {
+        "name": "DOMINION CITY TOWN & COUNTRY BLONDE ALE",
+        "company": "DOMINION CITY BREWING",
+        "link": "dominion-city-town-and-country-blonde-ale"
+    },
+    "dominion-city-two-flags-ipa": {
+        "name": "DOMINION CITY TWO FLAGS IPA",
+        "company": "DOMINION CITY BREWING",
+        "link": "dominion-city-two-flags-ipa"
+    },
+    "dos-equis-amber": {
+        "name": "DOS EQUIS AMBER",
+        "company": "CERV CUAUHTEMOC MOCTEZUMA",
+        "link": "dos-equis-amber"
+    },
+    "dos-equis-lager": {
+        "name": "DOS EQUIS LAGER",
+        "company": "CERV CUAUHTEMOC MOCTEZUMA",
+        "link": "dos-equis-lager"
+    },
+    "double-drooling-dog-black-ipa": {
+        "name": "DOUBLE DROOLING DOG BLACK IPA",
+        "company": "MAGNOTTA BREWERY",
+        "link": "double-drooling-dog-black-ipa"
+    },
+    "double-trouble-pecan-pie-porter": {
+        "name": "DOUBLE TROUBLE PECAN PIE PORTER",
+        "company": "DOUBLE TROUBLE BREWING",
+        "link": "double-trouble-pecan-pie-porter"
+    },
+    "dragon-stout": {
+        "name": "DRAGON STOUT",
+        "company": "HEINEKEN BROUWERIJEN BV",
+        "link": "dragon-stout"
+    },
+    "duchesse-de-bourgogne": {
+        "name": "DUCHESSE DE BOURGOGNE",
+        "company": "BROUWERIJ VERHAEGHE VICHTE",
+        "link": "duchesse-de-bourgogne"
+    },
+    "east-hamilton-lager-german-style-pilsner": {
+        "name": "EAST HAMILTON LAGER GERMAN STYLE PILSNER",
+        "company": "CLIFFORD BREWING COMPANY",
+        "link": "east-hamilton-lager-german-style-pilsner"
+    },
+    "el-camino-cerveza": {
+        "name": "EL CAMINO CERVEZA",
+        "company": "LOWERTOWN BREWERY",
+        "link": "el-camino-cerveza"
+    },
+    "el-gringo-ipanema-new-world-ipa": {
+        "name": "EL GRINGO IPANEMA NEW WORLD IPA",
+        "company": "EL GRINGO BEERS",
+        "link": "el-gringo-ipanema-new-world-ipa"
+    },
+    "el-gringo-la-pachanga-cerveza": {
+        "name": "EL GRINGO LA PACHANGA CERVEZA",
+        "company": "EL GRINGO BEERS",
+        "link": "el-gringo-la-pachanga-cerveza"
+    },
+    "ephemere-pomme": {
+        "name": "EPHEMERE POMME",
+        "company": "SLEEMAN BREWING",
+        "link": "ephemere-pomme"
+    },
+    "erdinger-alkoholfrei-0-4": {
+        "name": "ERDINGER ALKOHOLFREI 0.4",
+        "company": "PRIVATBRAUEREI ERDINGER",
+        "link": "erdinger-alkoholfrei-0-4"
+    },
+    "erdinger-dunkel-weissbier": {
+        "name": "ERDINGER DUNKEL WEISSBIER",
+        "company": "PRIVATBRAUEREI ERDINGER",
+        "link": "erdinger-dunkel-weissbier"
+    },
+    "erdinger-oktoberfest": {
+        "name": "ERDINGER OKTOBERFEST",
+        "company": "PRIVATBRAUEREI ERDINGER",
+        "link": "erdinger-oktoberfest"
+    },
+    "erdinger-weissbier": {
+        "name": "ERDINGER WEISSBIER",
+        "company": "PRIVATBRAUEREI ERDINGER",
+        "link": "erdinger-weissbier"
+    },
+    "estrella-damm": {
+        "name": "ESTRELLA DAMM",
+        "company": "S. A. DAMM BREWERY",
+        "link": "estrella-damm"
+    },
+    "evergreen-maiden-voyage": {
+        "name": "EVERGREEN MAIDEN VOYAGE",
+        "company": "EVERGREEN CRAFT ALES INC.",
+        "link": "evergreen-maiden-voyage"
+    },
+    "evergreen-stratasphere-ipa": {
+        "name": "EVERGREEN STRATASPHERE IPA",
+        "company": "EVERGREEN CRAFT ALES INC.",
+        "link": "evergreen-stratasphere-ipa"
+    },
+    "exchange-brewery-no-2-amber-ale": {
+        "name": "EXCHANGE BREWERY No.2 AMBER ALE",
+        "company": "THE EXCHANGE BREWERY",
+        "link": "exchange-brewery-no-2-amber-ale"
+    },
+    "expedition-bigfoot-bock": {
+        "name": "EXPEDITION BIGFOOT BOCK",
+        "company": "EXPEDITION BREWING COMPANY",
+        "link": "expedition-bigfoot-bock"
+    },
+    "expedition-loch-ness-lager": {
+        "name": "EXPEDITION LOCH NESS LAGER",
+        "company": "EXPEDITION BREWING COMPANY",
+        "link": "expedition-loch-ness-lager"
+    },
+    "farm-league-brewing-hauler-lager": {
+        "name": "FARM LEAGUE BREWING HAULER LAGER",
+        "company": "FARM LEAGUE BREWING",
+        "link": "farm-league-brewing-hauler-lager"
+    },
+    "farmers-creed-beer-longhorn-lager": {
+        "name": "FARMERS CREED BEER LONGHORN LAGER",
+        "company": "FARMERS CREED CORP.",
+        "link": "farmers-creed-beer-longhorn-lager"
+    },
+    "farmers-daughter-blonde-ale": {
+        "name": "FARMERS DAUGHTER BLONDE ALE",
+        "company": "WHITEWATER BREWING COMPANY",
+        "link": "farmers-daughter-blonde-ale"
+    },
+    "farmery-estate-brewery-pink-lemonale": {
+        "name": "FARMERY ESTATE BREWERY PINK LEMONALE",
+        "company": "FARMERY ESTATE BREWERY INC",
+        "link": "farmery-estate-brewery-pink-lemonale"
+    },
+    "farmery-estate-brewery-prairie-berry-ale": {
+        "name": "FARMERY ESTATE BREWERY PRAIRIE BERRY ALE",
+        "company": "FARMERY ESTATE BREWERY INC",
+        "link": "farmery-estate-brewery-prairie-berry-ale"
+    },
+    "farmstand-lager": {
+        "name": "FARMSTAND LAGER",
+        "company": "WILLIAM STREET BEER CO. LTD",
+        "link": "farmstand-lager"
+    },
+    "faxe-amber-lager": {
+        "name": "FAXE AMBER LAGER",
+        "company": "ROYAL UNIBREW",
+        "link": "faxe-amber-lager"
+    },
+    "faxe-extra-strong-10": {
+        "name": "FAXE EXTRA STRONG - 10",
+        "company": "ROYAL UNIBREW",
+        "link": "faxe-extra-strong-10"
+    },
+    "faxe-premium-lager": {
+        "name": "FAXE PREMIUM LAGER",
+        "company": "ROYAL UNIBREW",
+        "link": "faxe-premium-lager"
+    },
+    "faxe-royal-strong": {
+        "name": "FAXE ROYAL STRONG",
+        "company": "ROYAL UNIBREW",
+        "link": "faxe-royal-strong"
+    },
+    "fenelon-falls-italian-pilsner": {
+        "name": "FENELON FALLS ITALIAN PILSNER",
+        "company": "FENELON FALLS BREWING CORPORATION",
+        "link": "fenelon-falls-italian-pilsner"
+    },
+    "fenelon-falls-vienna-lager": {
+        "name": "FENELON FALLS VIENNA LAGER",
+        "company": "FENELON FALLS BREWING CORPORATION",
+        "link": "fenelon-falls-vienna-lager"
+    },
+    "firehouse-english-nut-brown": {
+        "name": "FIREHOUSE ENGLISH NUT BROWN",
+        "company": "LAKE OF THE WOODS BREWING",
+        "link": "firehouse-english-nut-brown"
+    },
+    "fixed-gear-brewing-breakaway-ipa": {
+        "name": "FIXED GEAR BREWING BREAKAWAY IPA",
+        "company": "FIXED GEAR BREWING COMPANY",
+        "link": "fixed-gear-brewing-breakaway-ipa"
+    },
+    "fixed-gear-red-hook-stout": {
+        "name": "FIXED GEAR RED HOOK STOUT",
+        "company": "FIXED GEAR BREWING COMPANY",
+        "link": "fixed-gear-red-hook-stout"
+    },
+    "flying-monkeys-12-minutes-to-destiny": {
+        "name": "FLYING MONKEYS 12 MINUTES TO DESTINY",
+        "company": "FLYING MONKEYS CRAFT BREWERY",
+        "link": "flying-monkeys-12-minutes-to-destiny"
+    },
+    "flying-monkeys-freakshow-crush-hazy-ipa": {
+        "name": "FLYING MONKEYS FREAKSHOW CRUSH HAZY IPA",
+        "company": "FLYING MONKEYS CRAFT BREWERY",
+        "link": "flying-monkeys-freakshow-crush-hazy-ipa"
+    },
+    "flying-monkeys-juicy-ass-ipa": {
+        "name": "FLYING MONKEYS JUICY ASS IPA",
+        "company": "FLYING MONKEYS CRAFT BREWERY",
+        "link": "flying-monkeys-juicy-ass-ipa"
+    },
+    "flying-monkeys-the-mutants-are-revolting-crushable-ipa": {
+        "name": "FLYING MONKEYS THE MUTANTS ARE REVOLTING CRUSHABLE IPA",
+        "company": "FLYING MONKEYS CRAFT BREWERY",
+        "link": "flying-monkeys-the-mutants-are-revolting-crushable-ipa"
+    },
+    "flying-monkeys-worlds-away": {
+        "name": "FLYING MONKEYS WORLDS AWAY",
+        "company": "FLYING MONKEYS CRAFT BREWERY",
+        "link": "flying-monkeys-worlds-away"
+    },
+    "flywheel-blonde": {
+        "name": "FLYWHEEL BLONDE",
+        "company": "SONS OF KENT",
+        "link": "flywheel-blonde"
+    },
+    "forked-river-capital-blonde-ale": {
+        "name": "FORKED RIVER CAPITAL BLONDE ALE",
+        "company": "FORKED RIVER BREWING COMPANY",
+        "link": "forked-river-capital-blonde-ale"
+    },
+    "forked-river-interstellar-ipa": {
+        "name": "FORKED RIVER INTERSTELLAR IPA",
+        "company": "FORKED RIVER BREWING COMPANY",
+        "link": "forked-river-interstellar-ipa"
+    },
+    "four-fathers-light-lager": {
+        "name": "FOUR FATHERS LIGHT LAGER",
+        "company": "FOUR FATHERS BREWING CO LTD",
+        "link": "four-fathers-light-lager"
+    },
+    "four-fathers-new-world-pilsner": {
+        "name": "FOUR FATHERS NEW WORLD PILSNER",
+        "company": "FOUR FATHERS BREWING CO LTD",
+        "link": "four-fathers-new-world-pilsner"
+    },
+    "four-fathers-shevchenko-9": {
+        "name": "FOUR FATHERS SHEVCHENKO 9",
+        "company": "FOUR FATHERS BREWING CO LTD",
+        "link": "four-fathers-shevchenko-9"
+    },
+    "four-fathers-the-starter": {
+        "name": "FOUR FATHERS THE STARTER",
+        "company": "FOUR FATHERS BREWING CO LTD",
+        "link": "four-fathers-the-starter"
+    },
+    "franks-straight-up-lager": {
+        "name": "FRANKS STRAIGHT UP LAGER",
+        "company": "FRANK BREWING CO",
+        "link": "franks-straight-up-lager"
+    },
+    "franks-sunshine": {
+        "name": "FRANKS SUNSHINE",
+        "company": "FRANK BREWING CO",
+        "link": "franks-sunshine"
+    },
+    "front-porch-organic-session-ipa": {
+        "name": "FRONT PORCH ORGANIC SESSION IPA",
+        "company": "LONDON BREWING",
+        "link": "front-porch-organic-session-ipa"
+    },
+    "fruli-strawberry-beer": {
+        "name": "FRULI STRAWBERRY BEER",
+        "company": "BREWERY HUYGHE",
+        "link": "fruli-strawberry-beer"
+    },
+    "fullers-extra-spec-bitter": {
+        "name": "FULLERS EXTRA SPEC BITTER",
+        "company": "FULLER TURNER SMITH",
+        "link": "fullers-extra-spec-bitter"
+    },
+    "fullers-london-pride": {
+        "name": "FULLERS LONDON PRIDE",
+        "company": "FULLER TURNER SMITH",
+        "link": "fullers-london-pride"
+    },
+    "furnace-room-beardmore-kolsch": {
+        "name": "FURNACE ROOM BEARDMORE KOLSCH",
+        "company": "FURNANCE ROOM BREWERY INC",
+        "link": "furnace-room-beardmore-kolsch"
+    },
+    "gaffel-koelsch": {
+        "name": "GAFFEL KOELSCH",
+        "company": "GAFFEL BECKER & CO",
+        "link": "gaffel-koelsch"
+    },
+    "glutenberg-american-pale-ale": {
+        "name": "GLUTENBERG AMERICAN PALE ALE",
+        "company": "LES BRASSEURS SANS GLUTEN",
+        "link": "glutenberg-american-pale-ale"
+    },
+    "goodlot-bighead-amber": {
+        "name": "GOODLOT BIGHEAD AMBER",
+        "company": "GOODLOT FARMSTEAD BREWING CO",
+        "link": "goodlot-bighead-amber"
+    },
+    "goodlot-farmstead-ale": {
+        "name": "GOODLOT FARMSTEAD ALE",
+        "company": "GOODLOT FARMSTEAD BREWING CO",
+        "link": "goodlot-farmstead-ale"
+    },
+    "goose-island-ipa": {
+        "name": "GOOSE ISLAND IPA",
+        "company": "GOOSE ISLAND BEER COMPANY",
+        "link": "goose-island-ipa"
+    },
+    "goose-island-mixer": {
+        "name": "GOOSE ISLAND MIXER",
+        "company": "GOOSE ISLAND BEER COMPANY",
+        "link": "goose-island-mixer"
+    },
+    "gosser-beer": {
+        "name": "GOSSER BEER",
+        "company": "BRAU UNION EXPORT GMBH & CO KG",
+        "link": "gosser-beer"
+    },
+    "gougounes-rousses-red-ale": {
+        "name": "GOUGOUNES ROUSSES RED ALE",
+        "company": "BRASSERIE TUQUE DE BROUE",
+        "link": "gougounes-rousses-red-ale"
+    },
+    "grand-river-cliff-dive-session-ipa": {
+        "name": "GRAND RIVER CLIFF DIVE SESSION IPA",
+        "company": "GRAND RIVER BREWING LTD",
+        "link": "grand-river-cliff-dive-session-ipa"
+    },
+    "grand-river-grand-avenue-juicy-ipa": {
+        "name": "GRAND RIVER GRAND AVENUE JUICY IPA",
+        "company": "GRAND RIVER BREWING LTD",
+        "link": "grand-river-grand-avenue-juicy-ipa"
+    },
+    "granville-brewers-choice-winter": {
+        "name": "GRANVILLE BREWERS CHOICE WINTER",
+        "company": "GRANVILLE ISLAND BREWING",
+        "link": "granville-brewers-choice-winter"
+    },
+    "granville-lions-summer-ale": {
+        "name": "GRANVILLE LIONS SUMMER ALE",
+        "company": "GRANVILLE ISLAND BREWING",
+        "link": "granville-lions-summer-ale"
+    },
+    "granville-lions-winter-ale": {
+        "name": "GRANVILLE LIONS WINTER ALE",
+        "company": "GRANVILLE ISLAND BREWING",
+        "link": "granville-lions-winter-ale"
+    },
+    "granville-northwest-pale-ale": {
+        "name": "GRANVILLE NORTHWEST PALE ALE",
+        "company": "GRANVILLE ISLAND BREWING",
+        "link": "granville-northwest-pale-ale"
+    },
+    "granville-watermelon-lager": {
+        "name": "GRANVILLE WATERMELON LAGER",
+        "company": "GRANVILLE ISLAND BREWING",
+        "link": "granville-watermelon-lager"
+    },
+    "granville-winter-mingler": {
+        "name": "GRANVILLE WINTER MINGLER",
+        "company": "GRANVILLE ISLAND BREWING",
+        "link": "granville-winter-mingler"
+    },
+    "great-lakes-lager": {
+        "name": "GREAT LAKES LAGER",
+        "company": "GREAT LAKES",
+        "link": "great-lakes-lager"
+    },
+    "great-lakes-pompous-ass-english-ale": {
+        "name": "GREAT LAKES POMPOUS ASS ENGLISH ALE",
+        "company": "GREAT LAKES",
+        "link": "great-lakes-pompous-ass-english-ale"
+    },
+    "griffon-pale-ale": {
+        "name": "GRIFFON PALE ALE",
+        "company": "MCAUSLAN BREWING",
+        "link": "griffon-pale-ale"
+    },
+    "griffon-red-ale": {
+        "name": "GRIFFON RED ALE",
+        "company": "MCAUSLAN BREWING",
+        "link": "griffon-red-ale"
+    },
+    "grimbergen-double-ambree": {
+        "name": "GRIMBERGEN DOUBLE AMBREE",
+        "company": "CARLSBERG INTERNATIONAL A/S",
+        "link": "grimbergen-double-ambree"
+    },
+    "grolsch-lemon-radler": {
+        "name": "GROLSCH LEMON RADLER",
+        "company": "GROLSCH EXPORT B.V.",
+        "link": "grolsch-lemon-radler"
+    },
+    "grolsch-pilsner-450ml": {
+        "name": "GROLSCH PILSNER 450ML",
+        "company": "GROLSCH EXPORT B.V.",
+        "link": "grolsch-pilsner-450ml"
+    },
+    "grolsch-premium-pilsner": {
+        "name": "GROLSCH PREMIUM PILSNER",
+        "company": "GROLSCH EXPORT B.V.",
+        "link": "grolsch-premium-pilsner"
+    },
+    "guinness-blonde-lager": {
+        "name": "GUINNESS BLONDE LAGER",
+        "company": "DIAGEO",
+        "link": "guinness-blonde-lager"
+    },
+    "guinness-draught-bottle": {
+        "name": "GUINNESS DRAUGHT BOTTLE",
+        "company": "DIAGEO",
+        "link": "guinness-draught-bottle"
+    },
+    "guinness-extra-stout": {
+        "name": "GUINNESS EXTRA STOUT",
+        "company": "LABATT",
+        "link": "guinness-extra-stout"
+    },
+    "guinness-hop-house-13-lager": {
+        "name": "GUINNESS HOP HOUSE 13 LAGER",
+        "company": "DIAGEO",
+        "link": "guinness-hop-house-13-lager"
+    },
+    "guinness-pub-draught": {
+        "name": "GUINNESS PUB DRAUGHT",
+        "company": "DIAGEO",
+        "link": "guinness-pub-draught"
+    },
+    "hacker-pschorr-hefe-weiss": {
+        "name": "HACKER-PSCHORR HEFE WEISS",
+        "company": "HACKER PSCHORR",
+        "link": "hacker-pschorr-hefe-weiss"
+    },
+    "hacker-pschorr-kellerbier": {
+        "name": "HACKER-PSCHORR KELLERBIER",
+        "company": "HACKER PSCHORR",
+        "link": "hacker-pschorr-kellerbier"
+    },
+    "hacker-pschorr-munich-gold-lager": {
+        "name": "HACKER-PSCHORR MUNICH GOLD LAGER",
+        "company": "HACKER PSCHORR",
+        "link": "hacker-pschorr-munich-gold-lager"
+    },
+    "haliburton-blueline-blonde-ale": {
+        "name": "HALIBURTON BLUELINE BLONDE ALE",
+        "company": "HALIBURTON HIGHLANDS",
+        "link": "haliburton-blueline-blonde-ale"
+    },
+    "haliburton-coffee-porter": {
+        "name": "HALIBURTON COFFEE PORTER",
+        "company": "HALIBURTON HIGHLANDS",
+        "link": "haliburton-coffee-porter"
+    },
+    "harp-lager": {
+        "name": "HARP LAGER",
+        "company": "DIAGEO",
+        "link": "harp-lager"
+    },
+    "havens-kellerbier": {
+        "name": "HAVENS KELLERBIER",
+        "company": "HAVEN BREWING COMPANY",
+        "link": "havens-kellerbier"
+    },
+    "hazy-little-thing": {
+        "name": "HAZY LITTLE THING",
+        "company": "SIERRA NEVADA BREWING COMPANY",
+        "link": "hazy-little-thing"
+    },
+    "heineken-0-0": {
+        "name": "HEINEKEN 0.0",
+        "company": "HEINEKEN BROUWERIJEN BV",
+        "link": "heineken-0-0"
+    },
+    "heineken-nv": {
+        "name": "HEINEKEN NV",
+        "company": "HEINEKEN BROUWERIJEN BV",
+        "link": "heineken-nv"
+    },
+    "henderson-best-amber-ale": {
+        "name": "HENDERSON BEST AMBER ALE",
+        "company": "HENDERSON BREWING CO",
+        "link": "henderson-best-amber-ale"
+    },
+    "henderson-brewing-pearson-express-ipa": {
+        "name": "HENDERSON BREWING PEARSON EXPRESS IPA",
+        "company": "HENDERSON BREWING CO",
+        "link": "henderson-brewing-pearson-express-ipa"
+    },
+    "henderson-food-truck-ale": {
+        "name": "HENDERSON FOOD TRUCK ALE",
+        "company": "HENDERSON BREWING CO",
+        "link": "henderson-food-truck-ale"
+    },
+    "heritage-hops-21-haze-east-coast-ipa": {
+        "name": "HERITAGE HOPS 21 HAZE EAST COAST IPA",
+        "company": "HERITAGE HOPS BREW CO. INC.",
+        "link": "heritage-hops-21-haze-east-coast-ipa"
+    },
+    "heritage-hops-its-noon-somewhere-light-lager": {
+        "name": "HERITAGE HOPS ITS NOON SOMEWHERE LIGHT LAGER",
+        "company": "HERITAGE HOPS BREW CO. INC.",
+        "link": "heritage-hops-its-noon-somewhere-light-lager"
+    },
+    "heritage-hops-puckered-up-dry-hopped-sour": {
+        "name": "HERITAGE HOPS PUCKERED UP DRY HOPPED SOUR",
+        "company": "HERITAGE HOPS BREW CO. INC.",
+        "link": "heritage-hops-puckered-up-dry-hopped-sour"
+    },
+    "hespeler-village-ipa": {
+        "name": "HESPELER VILLAGE IPA",
+        "company": "HESPELER BREWING",
+        "link": "hespeler-village-ipa"
+    },
+    "hey-yall-georgia-peach": {
+        "name": "HEY YALL GEORGIA PEACH",
+        "company": "NORTHAM BEVERAGES",
+        "link": "hey-yall-georgia-peach"
+    },
+    "hey-yall-hard-iced-tea": {
+        "name": "HEY YALL HARD ICED TEA",
+        "company": "NORTHAM BEVERAGES",
+        "link": "hey-yall-hard-iced-tea"
+    },
+    "hey-yall-porch-pack": {
+        "name": "HEY YALL PORCH PACK",
+        "company": "NORTHAM BEVERAGES",
+        "link": "hey-yall-porch-pack"
+    },
+    "hifi-mango-passionfruit-sour": {
+        "name": "HIFI MANGO PASSIONFRUIT SOUR",
+        "company": "SONS OF KENT",
+        "link": "hifi-mango-passionfruit-sour"
+    },
+    "hockley-amber-ale": {
+        "name": "HOCKLEY AMBER ALE",
+        "company": "HOCKLEY VALLEY BREWING COMPANY",
+        "link": "hockley-amber-ale"
+    },
+    "hockley-classic-lager": {
+        "name": "HOCKLEY CLASSIC LAGER",
+        "company": "HOCKLEY VALLEY BREWING COMPANY",
+        "link": "hockley-classic-lager"
+    },
+    "hockley-dark-ale": {
+        "name": "HOCKLEY DARK ALE",
+        "company": "HOCKLEY VALLEY BREWING COMPANY",
+        "link": "hockley-dark-ale"
+    },
+    "hockley-taster-pack": {
+        "name": "HOCKLEY TASTER PACK",
+        "company": "HOCKLEY VALLEY BREWING COMPANY",
+        "link": "hockley-taster-pack"
+    },
+    "hoegaarden": {
+        "name": "HOEGAARDEN",
+        "company": "AB INBEV",
+        "link": "hoegaarden"
+    },
+    "hofbraeu-muenchen-dunkel": {
+        "name": "HOFBRAEU MUENCHEN DUNKEL",
+        "company": "STAATLICHES HOFBRAEUHAUS",
+        "link": "hofbraeu-muenchen-dunkel"
+    },
+    "hofbraeu-muenchen-original": {
+        "name": "HOFBRAEU MUENCHEN ORIGINAL",
+        "company": "STAATLICHES HOFBRAEUHAUS",
+        "link": "hofbraeu-muenchen-original"
+    },
+    "hofbraeu-munchner-weisse": {
+        "name": "HOFBRAEU MUNCHNER WEISSE",
+        "company": "STAATLICHES HOFBRAEUHAUS",
+        "link": "hofbraeu-munchner-weisse"
+    },
+    "hollandia-pilsner": {
+        "name": "HOLLANDIA PILSNER",
+        "company": "BAVARIA",
+        "link": "hollandia-pilsner"
+    },
+    "hollandia-super-strong": {
+        "name": "HOLLANDIA SUPER STRONG",
+        "company": "BAVARIA",
+        "link": "hollandia-super-strong"
+    },
+    "hollinger-helles": {
+        "name": "HOLLINGER HELLES",
+        "company": "BLOCK THREE BREWING COMPANY",
+        "link": "hollinger-helles"
+    },
+    "holsten-festbock": {
+        "name": "HOLSTEN FESTBOCK",
+        "company": "CARLSBERG INTERNATIONAL A/S",
+        "link": "holsten-festbock"
+    },
+    "holsten-maibock": {
+        "name": "HOLSTEN MAIBOCK",
+        "company": "CARLSBERG INTERNATIONAL A/S",
+        "link": "holsten-maibock"
+    },
+    "holsten-premium-bier": {
+        "name": "HOLSTEN PREMIUM BIER",
+        "company": "CARLSBERG INTERNATIONAL A/S",
+        "link": "holsten-premium-bier"
+    },
+    "hometown-brew-co-pedal-pilsner": {
+        "name": "HOMETOWN BREW CO. PEDAL PILSNER",
+        "company": "HOMETOWN BREWING CO.",
+        "link": "hometown-brew-co-pedal-pilsner"
+    },
+    "hometown-hazy-susan-ipa": {
+        "name": "HOMETOWN HAZY SUSAN IPA",
+        "company": "HOMETOWN BREWING CO.",
+        "link": "hometown-hazy-susan-ipa"
+    },
+    "hometown-southern-ale": {
+        "name": "HOMETOWN SOUTHERN ALE",
+        "company": "HOMETOWN BREWING CO.",
+        "link": "hometown-southern-ale"
+    },
+    "hometown-southern-light": {
+        "name": "HOMETOWN SOUTHERN LIGHT",
+        "company": "HOMETOWN BREWING CO.",
+        "link": "hometown-southern-light"
+    },
+    "honey-habanero-spicy-ale": {
+        "name": "HONEY HABANERO SPICY ALE",
+        "company": "FRANK BREWING CO",
+        "link": "honey-habanero-spicy-ale"
+    },
+    "hop-city-8th-sin-black-lager": {
+        "name": "HOP CITY 8TH SIN BLACK LAGER",
+        "company": "HOP CITY BREWING COMPANY",
+        "link": "hop-city-8th-sin-black-lager"
+    },
+    "hop-city-barking-squirrel": {
+        "name": "HOP CITY BARKING SQUIRREL",
+        "company": "HOP CITY BREWING COMPANY",
+        "link": "hop-city-barking-squirrel"
+    },
+    "hop-city-hopbot-ipa": {
+        "name": "HOP CITY HOPBOT IPA",
+        "company": "HOP CITY BREWING COMPANY",
+        "link": "hop-city-hopbot-ipa"
+    },
+    "hop-city-misfit-mango-passion-ipa": {
+        "name": "HOP CITY MISFIT MANGO PASSION IPA",
+        "company": "HOP CITY BREWING COMPANY",
+        "link": "hop-city-misfit-mango-passion-ipa"
+    },
+    "hop-city-north-of-41-blonde-ale": {
+        "name": "HOP CITY NORTH OF 41 BLONDE ALE",
+        "company": "HOP CITY BREWING COMPANY",
+        "link": "hop-city-north-of-41-blonde-ale"
+    },
+    "hop-valley-bubble-stash": {
+        "name": "HOP VALLEY BUBBLE STASH",
+        "company": "CREEMORE SPRINGS BREWERY",
+        "link": "hop-valley-bubble-stash"
+    },
+    "hops-and-robbers-grapefruit-ipa": {
+        "name": "HOPS & ROBBERS GRAPEFRUIT IPA",
+        "company": "DOUBLE TROUBLE BREWING",
+        "link": "hops-and-robbers-grapefruit-ipa"
+    },
+    "hops-and-robbers-ipa": {
+        "name": "HOPS & ROBBERS IPA",
+        "company": "DOUBLE TROUBLE BREWING",
+        "link": "hops-and-robbers-ipa"
+    },
+    "hops-and-robbers-pineapple-ipa": {
+        "name": "HOPS AND ROBBERS PINEAPPLE IPA",
+        "company": "DOUBLE TROUBLE BREWING",
+        "link": "hops-and-robbers-pineapple-ipa"
+    },
+    "hopsta-la-vista-ipa": {
+        "name": "HOPSTA LA VISTA IPA",
+        "company": "LONGSLICE BREWERY",
+        "link": "hopsta-la-vista-ipa"
+    },
+    "houblon-chouffe": {
+        "name": "HOUBLON CHOUFFE",
+        "company": "DUVEL MOORTGAT N.V.",
+        "link": "houblon-chouffe"
+    },
+    "inedit-damm": {
+        "name": "INEDIT DAMM",
+        "company": "S. A. DAMM BREWERY",
+        "link": "inedit-damm"
+    },
+    "innis-and-gunn-lager": {
+        "name": "INNIS & GUNN LAGER",
+        "company": "INNIS & GUNN BREWING COMPANY",
+        "link": "innis-and-gunn-lager"
+    },
+    "innis-and-gunn-original": {
+        "name": "INNIS & GUNN ORIGINAL",
+        "company": "INNIS & GUNN BREWING COMPANY",
+        "link": "innis-and-gunn-original"
+    },
+    "innocente-charcoal-porter": {
+        "name": "INNOCENTE CHARCOAL PORTER",
+        "company": "INNOCENTE BREWING COMPANY",
+        "link": "innocente-charcoal-porter"
+    },
+    "innocente-fling-golden-ale": {
+        "name": "INNOCENTE FLING GOLDEN ALE",
+        "company": "INNOCENTE BREWING COMPANY",
+        "link": "innocente-fling-golden-ale"
+    },
+    "ipa-fun-box-4th-edition": {
+        "name": "IPA FUN BOX 4TH EDITION",
+        "company": "REFINED FOOL BREWING COMPANY",
+        "link": "ipa-fun-box-4th-edition"
+    },
+    "iron-pig-pale-ale": {
+        "name": "IRON PIG PALE ALE",
+        "company": "ORANGE SNAIL BREWERS LTD.",
+        "link": "iron-pig-pale-ale"
+    },
+    "jacque-strappe": {
+        "name": "JACQUE STRAPPE",
+        "company": "TOBOGGAN BREWING CO",
+        "link": "jacque-strappe"
+    },
+    "james-ready-5-5": {
+        "name": "JAMES READY 5.5",
+        "company": "JAMES READY BREWING COMPANY",
+        "link": "james-ready-5-5"
+    },
+    "james-ready-ice-6-0": {
+        "name": "JAMES READY ICE 6.0",
+        "company": "JAMES READY BREWING COMPANY",
+        "link": "james-ready-ice-6-0"
+    },
+    "james-ready-lager-draught": {
+        "name": "JAMES READY LAGER DRAUGHT",
+        "company": "MOOSEHEAD BREWERIES LIMITED",
+        "link": "james-ready-lager-draught"
+    },
+    "james-ready-light": {
+        "name": "JAMES READY LIGHT",
+        "company": "JAMES READY BREWING COMPANY",
+        "link": "james-ready-light"
+    },
+    "jever-pilsener": {
+        "name": "JEVER PILSENER",
+        "company": "DORTMUNDER ACTIEN BREWERY",
+        "link": "jever-pilsener"
+    },
+    "johny-bootlegger-alcatraz-sour-apple": {
+        "name": "JOHNY BOOTLEGGER ALCATRAZ SOUR APPLE",
+        "company": "BREW ALLIANCE",
+        "link": "johny-bootlegger-alcatraz-sour-apple"
+    },
+    "johny-bootlegger-scarface-sour-raspberry": {
+        "name": "JOHNY BOOTLEGGER SCARFACE SOUR RASPBERRY",
+        "company": "BREW ALLIANCE",
+        "link": "johny-bootlegger-scarface-sour-raspberry"
+    },
+    "johny-bootlegger-sing-sing-sour-grape": {
+        "name": "JOHNY BOOTLEGGER SING SING SOUR GRAPE",
+        "company": "BREW ALLIANCE",
+        "link": "johny-bootlegger-sing-sing-sour-grape"
+    },
+    "johny-bootlegger-syndicate-city-sour-peach": {
+        "name": "JOHNY BOOTLEGGER SYNDICATE CITY SOUR PEACH",
+        "company": "BREW ALLIANCE",
+        "link": "johny-bootlegger-syndicate-city-sour-peach"
+    },
+    "julius-bloody-caesar": {
+        "name": "JULIUS BLOODY CAESAR",
+        "company": "BREW ALLIANCE",
+        "link": "julius-bloody-caesar"
+    },
+    "junction-hazy-ipa": {
+        "name": "JUNCTION HAZY IPA",
+        "company": "JUNCTION CRAFT BREWING",
+        "link": "junction-hazy-ipa"
+    },
+    "kaiserdom-pilsener": {
+        "name": "KAISERDOM PILSENER",
+        "company": "KAISERDOM SPECIALITATEN BRAUEREI",
+        "link": "kaiserdom-pilsener"
+    },
+    "karbon-helios": {
+        "name": "KARBON HELIOS",
+        "company": "KARBON BREWING CO.",
+        "link": "karbon-helios"
+    },
+    "karbon-j-e-d-i-hazy-ipa": {
+        "name": "KARBON J.E.D.I HAZY IPA",
+        "company": "KARBON BREWING CO.",
+        "link": "karbon-j-e-d-i-hazy-ipa"
+    },
+    "kawartha-raspberry-wheat": {
+        "name": "KAWARTHA RASPBERRY WHEAT",
+        "company": "PUBLICAN HOUSE BREWERY",
+        "link": "kawartha-raspberry-wheat"
+    },
+    "keystone-light": {
+        "name": "KEYSTONE LIGHT",
+        "company": "MOLSON",
+        "link": "keystone-light"
+    },
+    "kichesippi-1855": {
+        "name": "KICHESIPPI 1855",
+        "company": "KICHESIPPI BEER COMPANY",
+        "link": "kichesippi-1855"
+    },
+    "kichesippi-heller-highwater": {
+        "name": "KICHESIPPI HELLER HIGHWATER",
+        "company": "KICHESIPPI BEER COMPANY",
+        "link": "kichesippi-heller-highwater"
+    },
+    "kichesippi-warrior-woman-apa": {
+        "name": "KICHESIPPI WARRIOR WOMAN APA",
+        "company": "KICHESIPPI BEER COMPANY",
+        "link": "kichesippi-warrior-woman-apa"
+    },
+    "kilkenny-cream-ale": {
+        "name": "KILKENNY CREAM ALE",
+        "company": "DIAGEO",
+        "link": "kilkenny-cream-ale"
+    },
+    "king-street-saison": {
+        "name": "KING STREET SAISON",
+        "company": "BLOCK THREE BREWING COMPANY",
+        "link": "king-street-saison"
+    },
+    "kingsville-barrel-aged-stout": {
+        "name": "KINGSVILLE BARREL AGED STOUT",
+        "company": "KINGSVILLE BREWERY",
+        "link": "kingsville-barrel-aged-stout"
+    },
+    "kingsville-czech-style-lager": {
+        "name": "KINGSVILLE CZECH STYLE LAGER",
+        "company": "KINGSVILLE BREWERY",
+        "link": "kingsville-czech-style-lager"
+    },
+    "kingsville-hefeweizen": {
+        "name": "KINGSVILLE HEFEWEIZEN",
+        "company": "KINGSVILLE BREWERY",
+        "link": "kingsville-hefeweizen"
+    },
+    "kingsville-light-eh": {
+        "name": "KINGSVILLE LIGHT EH",
+        "company": "KINGSVILLE BREWERY",
+        "link": "kingsville-light-eh"
+    },
+    "kingsville-pale-ale": {
+        "name": "KINGSVILLE PALE ALE",
+        "company": "KINGSVILLE BREWERY",
+        "link": "kingsville-pale-ale"
+    },
+    "kirin-ichiban": {
+        "name": "KIRIN ICHIBAN",
+        "company": "LABATT",
+        "link": "kirin-ichiban"
+    },
+    "kokanee": {
+        "name": "KOKANEE",
+        "company": "COLUMBIA BREWING COMPANY",
+        "link": "kokanee"
+    },
+    "kona-big-wave-golden-ale": {
+        "name": "KONA BIG WAVE GOLDEN ALE",
+        "company": "CRAFT BREW ALLIANCE",
+        "link": "kona-big-wave-golden-ale"
+    },
+    "konig-ludwig-weissbier": {
+        "name": "KONIG LUDWIG WEISSBIER",
+        "company": "WARSTEINER BRAUEREI",
+        "link": "konig-ludwig-weissbier"
+    },
+    "konig-pilsener-keg": {
+        "name": "KONIG PILSENER KEG",
+        "company": "BITBURGER BRAUGRUPPE GMBH",
+        "link": "konig-pilsener-keg"
+    },
+    "konig-pilsener": {
+        "name": "KONIG PILSENER",
+        "company": "BITBURGER BRAUGRUPPE GMBH",
+        "link": "konig-pilsener"
+    },
+    "kozel": {
+        "name": "KOZEL",
+        "company": "PILSNER URQUELL A.S.",
+        "link": "kozel"
+    },
+    "krombacher-dark": {
+        "name": "KROMBACHER DARK",
+        "company": "KROMBACHER BRAUERI",
+        "link": "krombacher-dark"
+    },
+    "krombacher-hell": {
+        "name": "KROMBACHER HELL",
+        "company": "KROMBACHER BRAUERI",
+        "link": "krombacher-hell"
+    },
+    "krombacher-pils": {
+        "name": "KROMBACHER PILS",
+        "company": "KROMBACHER BRAUERI",
+        "link": "krombacher-pils"
+    },
+    "krombacher-weizen": {
+        "name": "KROMBACHER WEIZEN",
+        "company": "KROMBACHER BRAUERI",
+        "link": "krombacher-weizen"
+    },
+    "kronenbourg-1664-blanc-fruits-rouges": {
+        "name": "KRONENBOURG 1664 BLANC FRUITS ROUGES",
+        "company": "CARLSBERG INTERNATIONAL A/S",
+        "link": "kronenbourg-1664-blanc-fruits-rouges"
+    },
+    "kronenbourg-1664-blanc": {
+        "name": "KRONENBOURG 1664 BLANC",
+        "company": "CARLSBERG INTERNATIONAL A/S",
+        "link": "kronenbourg-1664-blanc"
+    },
+    "kronenbourg-1664": {
+        "name": "KRONENBOURG 1664",
+        "company": "CARLSBERG INTERNATIONAL A/S",
+        "link": "kronenbourg-1664"
+    },
+    "kuchlbauer-weisse": {
+        "name": "KUCHLBAUER WEISSE",
+        "company": "BRAUEREI ZUM KUCHLBAUER GMBH & CO. KG",
+        "link": "kuchlbauer-weisse"
+    },
+    "la-chouffe": {
+        "name": "LA CHOUFFE",
+        "company": "DUVEL MOORTGAT N.V.",
+        "link": "la-chouffe"
+    },
+    "la-messagere-gluten-free": {
+        "name": "LA MESSAGERE GLUTEN FREE",
+        "company": "MICROBRASSERIE NOUVELLE FRANCE",
+        "link": "la-messagere-gluten-free"
+    },
+    "la-trappe-tripel": {
+        "name": "LA TRAPPE TRIPEL",
+        "company": "DE KONINGSHOEVEN BREWERY",
+        "link": "la-trappe-tripel"
+    },
+    "labatt-50-ale": {
+        "name": "LABATT 50 ALE",
+        "company": "LABATT",
+        "link": "labatt-50-ale"
+    },
+    "labatt-blue-stubby-bottle": {
+        "name": "LABATT BLUE STUBBY BOTTLE",
+        "company": "LABATT",
+        "link": "labatt-blue-stubby-bottle"
+    },
+    "labatt-blue": {
+        "name": "LABATT BLUE",
+        "company": "LABATT",
+        "link": "labatt-blue"
+    },
+    "labatt-extra-dry": {
+        "name": "LABATT EXTRA DRY",
+        "company": "LABATT",
+        "link": "labatt-extra-dry"
+    },
+    "labatt-genuine-lager": {
+        "name": "LABATT GENUINE LAGER",
+        "company": "LABATT",
+        "link": "labatt-genuine-lager"
+    },
+    "labatt-ice": {
+        "name": "LABATT ICE",
+        "company": "LABATT",
+        "link": "labatt-ice"
+    },
+    "laggar-falcon-craft-lager": {
+        "name": "LAGGAR FALCON CRAFT LAGER",
+        "company": "FALCON BREWING COMPANY",
+        "link": "laggar-falcon-craft-lager"
+    },
+    "lagunitas-ipa": {
+        "name": "LAGUNITAS IPA",
+        "company": "LAGUNITAS BREWING COMPANY",
+        "link": "lagunitas-ipa"
+    },
+    "lake-of-bays-aerial-view-lagered-ale": {
+        "name": "LAKE OF BAYS AERIAL VIEW LAGERED ALE",
+        "company": "LAKE OF BAYS BREWING",
+        "link": "lake-of-bays-aerial-view-lagered-ale"
+    },
+    "lake-of-bays-early-warning": {
+        "name": "LAKE OF BAYS EARLY WARNING",
+        "company": "LAKE OF BAYS BREWING",
+        "link": "lake-of-bays-early-warning"
+    },
+    "lake-of-bays-off-the-grid-hazy-pale-ale": {
+        "name": "LAKE OF BAYS OFF THE GRID HAZY PALE ALE",
+        "company": "LAKE OF BAYS BREWING",
+        "link": "lake-of-bays-off-the-grid-hazy-pale-ale"
+    },
+    "lake-of-bays-paddle-on-session-ale": {
+        "name": "LAKE OF BAYS PADDLE ON SESSION ALE",
+        "company": "LAKE OF BAYS BREWING",
+        "link": "lake-of-bays-paddle-on-session-ale"
+    },
+    "lake-of-bays-spark-house-red-ale": {
+        "name": "LAKE OF BAYS SPARK HOUSE RED ALE",
+        "company": "LAKE OF BAYS BREWING",
+        "link": "lake-of-bays-spark-house-red-ale"
+    },
+    "lake-of-bays-stand-down-ipa": {
+        "name": "LAKE OF BAYS STAND DOWN IPA",
+        "company": "LAKE OF BAYS BREWING",
+        "link": "lake-of-bays-stand-down-ipa"
+    },
+    "lake-of-bays-starboard-ipa": {
+        "name": "LAKE OF BAYS STARBOARD IPA",
+        "company": "LAKE OF BAYS BREWING",
+        "link": "lake-of-bays-starboard-ipa"
+    },
+    "lake-of-bays-switchback-pilsner": {
+        "name": "LAKE OF BAYS SWITCHBACK PILSNER",
+        "company": "LAKE OF BAYS BREWING",
+        "link": "lake-of-bays-switchback-pilsner"
+    },
+    "lake-of-the-woods-channel-marker": {
+        "name": "LAKE OF THE WOODS CHANNEL MARKER",
+        "company": "LAKE OF THE WOODS BREWING",
+        "link": "lake-of-the-woods-channel-marker"
+    },
+    "lake-of-the-woods-forgotten-lake-blueberry-ale": {
+        "name": "LAKE OF THE WOODS FORGOTTEN LAKE BLUEBERRY ALE",
+        "company": "LAKE OF THE WOODS BREWING",
+        "link": "lake-of-the-woods-forgotten-lake-blueberry-ale"
+    },
+    "lake-of-the-woods-lake-time-mixed-pack": {
+        "name": "LAKE OF THE WOODS LAKE TIME MIXED PACK",
+        "company": "LAKE OF THE WOODS BREWING",
+        "link": "lake-of-the-woods-lake-time-mixed-pack"
+    },
+    "lake-of-the-woods-lakeside-kolsch": {
+        "name": "LAKE OF THE WOODS LAKESIDE KOLSCH",
+        "company": "LAKE OF THE WOODS BREWING",
+        "link": "lake-of-the-woods-lakeside-kolsch"
+    },
+    "lake-of-the-woods-sultana-gold-blonde-ale": {
+        "name": "LAKE OF THE WOODS SULTANA GOLD BLONDE ALE",
+        "company": "LAKE OF THE WOODS BREWING",
+        "link": "lake-of-the-woods-sultana-gold-blonde-ale"
+    },
+    "lakeport-honey-lager": {
+        "name": "LAKEPORT HONEY LAGER",
+        "company": "LAKEPORT BREWING CORP",
+        "link": "lakeport-honey-lager"
+    },
+    "lakeport-ice": {
+        "name": "LAKEPORT ICE",
+        "company": "LAKEPORT BREWING CORP",
+        "link": "lakeport-ice"
+    },
+    "lakeport-light": {
+        "name": "LAKEPORT LIGHT",
+        "company": "LAKEPORT BREWING CORP",
+        "link": "lakeport-light"
+    },
+    "lakeport-pilsener": {
+        "name": "LAKEPORT PILSENER",
+        "company": "LAKEPORT BREWING CORP",
+        "link": "lakeport-pilsener"
+    },
+    "laker-ice": {
+        "name": "LAKER ICE",
+        "company": "WATERLOO BREWING LTD.",
+        "link": "laker-ice"
+    },
+    "laker-lager": {
+        "name": "LAKER LAGER",
+        "company": "WATERLOO BREWING LTD.",
+        "link": "laker-lager"
+    },
+    "laker-light": {
+        "name": "LAKER LIGHT",
+        "company": "WATERLOO BREWING LTD.",
+        "link": "laker-light"
+    },
+    "laker-red": {
+        "name": "LAKER RED",
+        "company": "WATERLOO BREWING LTD.",
+        "link": "laker-red"
+    },
+    "landlocked-india-pale-ale": {
+        "name": "LANDLOCKED - INDIA PALE ALE",
+        "company": "OVERFLOW BREWING COMPANY",
+        "link": "landlocked-india-pale-ale"
+    },
+    "landshark-lager": {
+        "name": "LANDSHARK LAGER",
+        "company": "WATERLOO BREWING LTD.",
+        "link": "landshark-lager"
+    },
+    "landshark-seltzer-mixer-pack": {
+        "name": "LANDSHARK SELTZER MIXER PACK",
+        "company": "WATERLOO BREWING LTD.",
+        "link": "landshark-seltzer-mixer-pack"
+    },
+    "lech-beer": {
+        "name": "LECH BEER",
+        "company": "KOMPANIA PIWOWARSKA S.A.",
+        "link": "lech-beer"
+    },
+    "left-field-greenwood-ipa": {
+        "name": "LEFT FIELD GREENWOOD IPA",
+        "company": "LEFT FIELD BREWERY",
+        "link": "left-field-greenwood-ipa"
+    },
+    "left-field-ice-cold-beer": {
+        "name": "LEFT FIELD ICE COLD BEER",
+        "company": "LEFT FIELD BREWERY",
+        "link": "left-field-ice-cold-beer"
+    },
+    "legend-7-gathering-of-legends-mixer-pack": {
+        "name": "LEGEND 7 GATHERING OF LEGENDS MIXER PACK",
+        "company": "NORTHAM BEVERAGES LTD.",
+        "link": "legend-7-gathering-of-legends-mixer-pack"
+    },
+    "legion-lager": {
+        "name": "LEGION LAGER",
+        "company": "WHITEWATER BREWING COMPANY",
+        "link": "legion-lager"
+    },
+    "liefmans-fruitesse": {
+        "name": "LIEFMANS FRUITESSE",
+        "company": "DUVEL MOORTGAT N.V.",
+        "link": "liefmans-fruitesse"
+    },
+    "lindemans-kriek": {
+        "name": "LINDEMANS KRIEK",
+        "company": "LINDEMANS BREWERY",
+        "link": "lindemans-kriek"
+    },
+    "lock-street-brewing-industrial-pale-ale": {
+        "name": "LOCK STREET BREWING INDUSTRIAL PALE ALE",
+        "company": "LOCK STREET BREWING CORP",
+        "link": "lock-street-brewing-industrial-pale-ale"
+    },
+    "lock-street-brewing-port-side-pilsner": {
+        "name": "LOCK STREET BREWING PORT SIDE PILSNER",
+        "company": "LOCK STREET BREWING CORP",
+        "link": "lock-street-brewing-port-side-pilsner"
+    },
+    "locker-room-lager": {
+        "name": "LOCKER ROOM LAGER",
+        "company": "POST GAME BREWING",
+        "link": "locker-room-lager"
+    },
+    "london-brewings-london-organic-lager": {
+        "name": "LONDON BREWINGS LONDON ORGANIC LAGER",
+        "company": "LONDON BREWING",
+        "link": "london-brewings-london-organic-lager"
+    },
+    "longslice-cherry-sploosh-craft-seltzer": {
+        "name": "LONGSLICE CHERRY SPLOOSH CRAFT SELTZER",
+        "company": "LONGSLICE BREWERY",
+        "link": "longslice-cherry-sploosh-craft-seltzer"
+    },
+    "longslice-loose-lips-lager": {
+        "name": "LONGSLICE LOOSE LIPS LAGER",
+        "company": "LONGSLICE BREWERY",
+        "link": "longslice-loose-lips-lager"
+    },
+    "longslice-princess-clementine-sour": {
+        "name": "LONGSLICE PRINCESS CLEMENTINE SOUR",
+        "company": "LONGSLICE BREWERY",
+        "link": "longslice-princess-clementine-sour"
+    },
+    "longslice-sky-bison-apa": {
+        "name": "LONGSLICE SKY BISON APA",
+        "company": "LONGSLICE BREWERY",
+        "link": "longslice-sky-bison-apa"
+    },
+    "lost-craft-divercity-helles-lager": {
+        "name": "LOST CRAFT DIVERCITY HELLES LAGER",
+        "company": "LOSTCRAFT BEER COMPANY",
+        "link": "lost-craft-divercity-helles-lager"
+    },
+    "lost-craft-revivale": {
+        "name": "LOST CRAFT REVIVALE",
+        "company": "LOSTCRAFT BEER COMPANY",
+        "link": "lost-craft-revivale"
+    },
+    "lowenbrau": {
+        "name": "LOWENBRAU",
+        "company": "LABATT",
+        "link": "lowenbrau"
+    },
+    "lucky-lager": {
+        "name": "LUCKY LAGER",
+        "company": "LABATT",
+        "link": "lucky-lager"
+    },
+    "lunatic-fridge": {
+        "name": "LUNATIC FRIDGE",
+        "company": "TOBOGGAN BREWING CO",
+        "link": "lunatic-fridge"
+    },
+    "mackeson-stout": {
+        "name": "MACKESON STOUT",
+        "company": "CARIB BREWERY",
+        "link": "mackeson-stout"
+    },
+    "mackinnon-8-man-english-pale-ale": {
+        "name": "MACKINNON 8 MAN ENGLISH PALE ALE",
+        "company": "MACKINNON BREWING AND DISTILLING",
+        "link": "mackinnon-8-man-english-pale-ale"
+    },
+    "mackinnon-crosscut-canadian-ale": {
+        "name": "MACKINNON CROSSCUT CANADIAN ALE",
+        "company": "MACKINNON BREWING AND DISTILLING",
+        "link": "mackinnon-crosscut-canadian-ale"
+    },
+    "maclays": {
+        "name": "MACLAYS",
+        "company": "SLEEMAN BREWING",
+        "link": "maclays"
+    },
+    "macleans-armchair-scotch": {
+        "name": "MACLEANS ARMCHAIR SCOTCH",
+        "company": "MACLEANS ALES INC",
+        "link": "macleans-armchair-scotch"
+    },
+    "macleans-farmhouse-blonde": {
+        "name": "MACLEANS FARMHOUSE BLONDE",
+        "company": "MACLEANS ALES INC",
+        "link": "macleans-farmhouse-blonde"
+    },
+    "macleans-pale-ale": {
+        "name": "MACLEANS PALE ALE",
+        "company": "MACLEANS ALES INC",
+        "link": "macleans-pale-ale"
+    },
+    "mad-and-noisy-lagered-ale": {
+        "name": "MAD & NOISY LAGERED ALE",
+        "company": "CREEMORE SPRINGS BREWERY",
+        "link": "mad-and-noisy-lagered-ale"
+    },
+    "madjack-blue-raspberry": {
+        "name": "MADJACK BLUE RASPBERRY",
+        "company": "MOLSON",
+        "link": "madjack-blue-raspberry"
+    },
+    "madjack-mixer": {
+        "name": "MADJACK MIXER",
+        "company": "MOLSON",
+        "link": "madjack-mixer"
+    },
+    "madjack-tropical-punch": {
+        "name": "MADJACK TROPICAL PUNCH",
+        "company": "MOLSON",
+        "link": "madjack-tropical-punch"
+    },
+    "madjack-watermelon-kiwi": {
+        "name": "MADJACK WATERMELON KIWI",
+        "company": "MOLSON",
+        "link": "madjack-watermelon-kiwi"
+    },
+    "madjack": {
+        "name": "MADJACK",
+        "company": "MOLSON",
+        "link": "madjack"
+    },
+    "magnotta-beaver-tail-red-ale": {
+        "name": "MAGNOTTA BEAVER TAIL RED ALE",
+        "company": "MAGNOTTA BREWERY",
+        "link": "magnotta-beaver-tail-red-ale"
+    },
+    "magnotta-brewery-polar-lager": {
+        "name": "MAGNOTTA BREWERY POLAR LAGER",
+        "company": "MAGNOTTA BREWERY",
+        "link": "magnotta-brewery-polar-lager"
+    },
+    "magnotta-gruppetto-light-lager": {
+        "name": "MAGNOTTA GRUPPETTO LIGHT LAGER",
+        "company": "MAGNOTTA BREWERY",
+        "link": "magnotta-gruppetto-light-lager"
+    },
+    "mahou-5-estrellas": {
+        "name": "MAHOU 5 ESTRELLAS",
+        "company": "MAHOU SAN MIGUEL S.A.",
+        "link": "mahou-5-estrellas"
+    },
+    "manitoulin-gold": {
+        "name": "MANITOULIN GOLD",
+        "company": "SPLIT RAIL BREWING",
+        "link": "manitoulin-gold"
+    },
+    "manitoulin-killarney-cream-ale": {
+        "name": "MANITOULIN KILLARNEY CREAM ALE",
+        "company": "MANITOULIN BREWING COMPANY",
+        "link": "manitoulin-killarney-cream-ale"
+    },
+    "maple-sports-ale": {
+        "name": "MAPLE SPORTS ALE",
+        "company": "MAPLE BEER CO",
+        "link": "maple-sports-ale"
+    },
+    "maredsous-brune": {
+        "name": "MAREDSOUS BRUNE",
+        "company": "DUVEL MOORTGAT N.V.",
+        "link": "maredsous-brune"
+    },
+    "market-brewing-co-bear-hug-ipa": {
+        "name": "MARKET BREWING CO - BEAR HUG IPA",
+        "company": "MARKET BREWING CO.",
+        "link": "market-brewing-co-bear-hug-ipa"
+    },
+    "market-brewing-co-roam-hazy-ipa": {
+        "name": "MARKET BREWING CO. - ROAM HAZY IPA",
+        "company": "MARKET BREWING CO.",
+        "link": "market-brewing-co-roam-hazy-ipa"
+    },
+    "martens-10-blonde-lager": {
+        "name": "MARTENS 10 BLONDE LAGER",
+        "company": "BROUWERIJ MARTENS",
+        "link": "martens-10-blonde-lager"
+    },
+    "mascot-pilsner": {
+        "name": "MASCOT PILSNER",
+        "company": "MASCOT BREWERY",
+        "link": "mascot-pilsner"
+    },
+    "maximum-ice": {
+        "name": "MAXIMUM ICE",
+        "company": "LABATT",
+        "link": "maximum-ice"
+    },
+    "menabrea-ambrata": {
+        "name": "MENABREA AMBRATA",
+        "company": "MENABREA",
+        "link": "menabrea-ambrata"
+    },
+    "menabrea-blonda": {
+        "name": "MENABREA BLONDA",
+        "company": "MENABREA",
+        "link": "menabrea-blonda"
+    },
+    "michelob-ultra": {
+        "name": "MICHELOB ULTRA",
+        "company": "LABATT",
+        "link": "michelob-ultra"
+    },
+    "mickeys": {
+        "name": "MICKEYS",
+        "company": "MOLSON",
+        "link": "mickeys"
+    },
+    "midnight-stout-oatmeal-milk-stout": {
+        "name": "MIDNIGHT STOUT OATMEAL MILK STOUT",
+        "company": "WHITEWATER BREWING COMPANY",
+        "link": "midnight-stout-oatmeal-milk-stout"
+    },
+    "midtown-brewing-dry-irish-stout": {
+        "name": "MIDTOWN BREWING DRY IRISH STOUT",
+        "company": "MIDTOWN BREWING COMPANY INC.",
+        "link": "midtown-brewing-dry-irish-stout"
+    },
+    "mikes-hard-lemonade-seltzer": {
+        "name": "MIKE'S HARD LEMONADE SELTZER",
+        "company": "LABATT",
+        "link": "mikes-hard-lemonade-seltzer"
+    },
+    "mikes-hard-pink-lemonade-seltzer": {
+        "name": "MIKE'S HARD PINK LEMONADE SELTZER",
+        "company": "LABATT",
+        "link": "mikes-hard-pink-lemonade-seltzer"
+    },
+    "mill-street-100th-meridian": {
+        "name": "MILL STREET 100TH MERIDIAN",
+        "company": "MILL STREET BREWERY",
+        "link": "mill-street-100th-meridian"
+    },
+    "mill-street-big-little-lager": {
+        "name": "MILL STREET BIG LITTLE LAGER",
+        "company": "MILL STREET BREWERY",
+        "link": "mill-street-big-little-lager"
+    },
+    "mill-street-essentials-mix-pack-spring-summer-2021": {
+        "name": "MILL STREET ESSENTIALS MIX PACK SPRING/SUMMER 2021",
+        "company": "MILL STREET BREWERY",
+        "link": "mill-street-essentials-mix-pack-spring-summer-2021"
+    },
+    "mill-street-hazy-organic-ipa": {
+        "name": "MILL STREET HAZY ORGANIC IPA",
+        "company": "MILL STREET BREWERY",
+        "link": "mill-street-hazy-organic-ipa"
+    },
+    "mill-street-hopped-and-confused-vol-3": {
+        "name": "MILL STREET HOPPED & CONFUSED VOL 3",
+        "company": "MILL STREET BREWERY",
+        "link": "mill-street-hopped-and-confused-vol-3"
+    },
+    "mill-street-juice-cloud-ipa": {
+        "name": "MILL STREET JUICE CLOUD IPA",
+        "company": "MILL STREET BREWERY",
+        "link": "mill-street-juice-cloud-ipa"
+    },
+    "mill-street-lager-lane-mixer": {
+        "name": "MILL STREET LAGER LANE MIXER",
+        "company": "MILL STREET BREWERY",
+        "link": "mill-street-lager-lane-mixer"
+    },
+    "mill-street-organic-pilsner": {
+        "name": "MILL STREET ORGANIC PILSNER",
+        "company": "MILL STREET BREWERY",
+        "link": "mill-street-organic-pilsner"
+    },
+    "mill-street-original-organic": {
+        "name": "MILL STREET ORIGINAL ORGANIC",
+        "company": "MILL STREET BREWERY",
+        "link": "mill-street-original-organic"
+    },
+    "mill-street-rodeo-monk": {
+        "name": "MILL STREET RODEO MONK",
+        "company": "MILL STREET BREWERY",
+        "link": "mill-street-rodeo-monk"
+    },
+    "mill-street-stock-ale": {
+        "name": "MILL STREET STOCK ALE",
+        "company": "MILL STREET BREWERY",
+        "link": "mill-street-stock-ale"
+    },
+    "mill-street-tankhouse-ale": {
+        "name": "MILL STREET TANKHOUSE ALE",
+        "company": "MILL STREET BREWERY",
+        "link": "mill-street-tankhouse-ale"
+    },
+    "mill-street-vanilla-porter": {
+        "name": "MILL STREET VANILLA PORTER",
+        "company": "MILL STREET BREWERY",
+        "link": "mill-street-vanilla-porter"
+    },
+    "mill-street-west-coast-ipa": {
+        "name": "MILL STREET WEST COAST IPA",
+        "company": "MILL STREET BREWERY",
+        "link": "mill-street-west-coast-ipa"
+    },
+    "millennium-buzz-hemp-beer": {
+        "name": "MILLENNIUM BUZZ HEMP BEER",
+        "company": "COOL BREWING CO.",
+        "link": "millennium-buzz-hemp-beer"
+    },
+    "miller-genuine-draft": {
+        "name": "MILLER GENUINE DRAFT",
+        "company": "MOLSON",
+        "link": "miller-genuine-draft"
+    },
+    "miller-high-life-import": {
+        "name": "MILLER HIGH LIFE IMPORT",
+        "company": "G A MILLER",
+        "link": "miller-high-life-import"
+    },
+    "miller-high-life": {
+        "name": "MILLER HIGH LIFE",
+        "company": "MOLSON",
+        "link": "miller-high-life"
+    },
+    "miller-lite": {
+        "name": "MILLER LITE",
+        "company": "MOLSON",
+        "link": "miller-lite"
+    },
+    "modelo-especial": {
+        "name": "MODELO ESPECIAL",
+        "company": "CERVECERIA MODELO S.A. DE C.V.",
+        "link": "modelo-especial"
+    },
+    "molson-canadian-cold-shots": {
+        "name": "MOLSON CANADIAN COLD SHOTS",
+        "company": "MOLSON",
+        "link": "molson-canadian-cold-shots"
+    },
+    "molson-canadian": {
+        "name": "MOLSON CANADIAN",
+        "company": "MOLSON",
+        "link": "molson-canadian"
+    },
+    "molson-dry": {
+        "name": "MOLSON DRY",
+        "company": "MOLSON",
+        "link": "molson-dry"
+    },
+    "molson-export": {
+        "name": "MOLSON EXPORT",
+        "company": "MOLSON",
+        "link": "molson-export"
+    },
+    "molson-fireside": {
+        "name": "MOLSON FIRESIDE",
+        "company": "MOLSON",
+        "link": "molson-fireside"
+    },
+    "molson-ultra": {
+        "name": "MOLSON ULTRA",
+        "company": "MOLSON",
+        "link": "molson-ultra"
+    },
+    "mongozo-premium-pilsner": {
+        "name": "MONGOZO PREMIUM PILSNER",
+        "company": "BREWERY HUYGHE",
+        "link": "mongozo-premium-pilsner"
+    },
+    "moosehead-grapefruit-radler": {
+        "name": "MOOSEHEAD GRAPEFRUIT RADLER",
+        "company": "MOOSEHEAD BREWERIES LIMITED",
+        "link": "moosehead-grapefruit-radler"
+    },
+    "moosehead-lager-draught": {
+        "name": "MOOSEHEAD LAGER DRAUGHT",
+        "company": "MOOSEHEAD BREWERIES LIMITED",
+        "link": "moosehead-lager-draught"
+    },
+    "moosehead-lager": {
+        "name": "MOOSEHEAD LAGER",
+        "company": "MOOSEHEAD BREWERIES LIMITED",
+        "link": "moosehead-lager"
+    },
+    "moosehead-light": {
+        "name": "MOOSEHEAD LIGHT",
+        "company": "MOOSEHEAD BREWERIES LIMITED",
+        "link": "moosehead-light"
+    },
+    "moosehead-radler-draught": {
+        "name": "MOOSEHEAD RADLER DRAUGHT",
+        "company": "MOOSEHEAD BREWERIES LIMITED",
+        "link": "moosehead-radler-draught"
+    },
+    "murphys-irish-stout": {
+        "name": "MURPHYS IRISH STOUT",
+        "company": "HEINEKEN BROUWERIJEN BV",
+        "link": "murphys-irish-stout"
+    },
+    "muskoka-craft-lager": {
+        "name": "MUSKOKA CRAFT LAGER",
+        "company": "MUSKOKA BREWERY",
+        "link": "muskoka-craft-lager"
+    },
+    "muskoka-cream-ale": {
+        "name": "MUSKOKA CREAM ALE",
+        "company": "MUSKOKA BREWERY",
+        "link": "muskoka-cream-ale"
+    },
+    "muskoka-detour": {
+        "name": "MUSKOKA DETOUR",
+        "company": "MUSKOKA BREWERY",
+        "link": "muskoka-detour"
+    },
+    "muskoka-hazed-and-confused": {
+        "name": "MUSKOKA HAZED AND CONFUSED",
+        "company": "MUSKOKA BREWERY",
+        "link": "muskoka-hazed-and-confused"
+    },
+    "muskoka-mad-tom-ipa": {
+        "name": "MUSKOKA MAD TOM IPA",
+        "company": "MUSKOKA BREWERY",
+        "link": "muskoka-mad-tom-ipa"
+    },
+    "muskoka-survival-mixer-pack-2022": {
+        "name": "MUSKOKA SURVIVAL MIXER PACK 2022",
+        "company": "MUSKOKA BREWERY",
+        "link": "muskoka-survival-mixer-pack-2022"
+    },
+    "muskoka-tread-lightly": {
+        "name": "MUSKOKA TREAD LIGHTLY",
+        "company": "MUSKOKA BREWERY",
+        "link": "muskoka-tread-lightly"
+    },
+    "muskoka-venture-off-the-beaten-pack": {
+        "name": "MUSKOKA VENTURE OFF THE BEATEN PACK",
+        "company": "MUSKOKA BREWERY",
+        "link": "muskoka-venture-off-the-beaten-pack"
+    },
+    "mvp-brewing-premium-lager": {
+        "name": "MVP BREWING PREMIUM LAGER",
+        "company": "MVP BREWING COMPANY LTD",
+        "link": "mvp-brewing-premium-lager"
+    },
+    "naughty-otter-lager": {
+        "name": "NAUGHTY OTTER LAGER",
+        "company": "ACE BEVERAGE GROUP INC.",
+        "link": "naughty-otter-lager"
+    },
+    "naughty-otter-pilsner": {
+        "name": "NAUGHTY OTTER PILSNER",
+        "company": "ACE BEVERAGE GROUP INC.",
+        "link": "naughty-otter-pilsner"
+    },
+    "negra-modelo": {
+        "name": "NEGRA MODELO",
+        "company": "CERVECERIA MODELO S.A. DE C.V.",
+        "link": "negra-modelo"
+    },
+    "neustadt-10w30-brown-ale": {
+        "name": "NEUSTADT 10W30 BROWN ALE",
+        "company": "NEUSTADT SPRINGS BREWERY",
+        "link": "neustadt-10w30-brown-ale"
+    },
+    "neustadt-lager": {
+        "name": "NEUSTADT LAGER",
+        "company": "NEUSTADT SPRINGS BREWERY",
+        "link": "neustadt-lager"
+    },
+    "neustadt-scottish-pale-ale": {
+        "name": "NEUSTADT SCOTTISH PALE ALE",
+        "company": "NEUSTADT SPRINGS BREWERY",
+        "link": "neustadt-scottish-pale-ale"
+    },
+    "new-belgium-fat-tire-amber-ale": {
+        "name": "NEW BELGIUM FAT TIRE AMBER ALE",
+        "company": "NEW BELGIUM BREWING",
+        "link": "new-belgium-fat-tire-amber-ale"
+    },
+    "new-belgium-voodoo-ranger-ipa": {
+        "name": "NEW BELGIUM VOODOO RANGER IPA",
+        "company": "NEW BELGIUM BREWING",
+        "link": "new-belgium-voodoo-ranger-ipa"
+    },
+    "new-limburg-belgian-blonde": {
+        "name": "NEW LIMBURG BELGIAN BLONDE",
+        "company": "NEW LIMBURG BREWERY",
+        "link": "new-limburg-belgian-blonde"
+    },
+    "new-limburg-wit-belgian-style-ale": {
+        "name": "NEW LIMBURG WIT BELGIAN STYLE ALE",
+        "company": "NEW LIMBURG BREWERY",
+        "link": "new-limburg-wit-belgian-style-ale"
+    },
+    "newark-helles-lager": {
+        "name": "NEWARK HELLES LAGER",
+        "company": "NEWARK BREWING COMPANY LTD.",
+        "link": "newark-helles-lager"
+    },
+    "newark-lager-mix-pack": {
+        "name": "NEWARK LAGER MIX PACK",
+        "company": "NEWARK BREWING COMPANY LTD.",
+        "link": "newark-lager-mix-pack"
+    },
+    "newcastle-brown-ale": {
+        "name": "NEWCASTLE BROWN ALE",
+        "company": "HEINEKEN BROUWERIJEN BV",
+        "link": "newcastle-brown-ale"
+    },
+    "niagara-premium-lager": {
+        "name": "NIAGARA PREMIUM LAGER",
+        "company": "NIAGARA BREWING COMPANY",
+        "link": "niagara-premium-lager"
+    },
+    "nickel-brook-cause-and-effect": {
+        "name": "NICKEL BROOK CAUSE & EFFECT",
+        "company": "NICKEL BROOK BREWING COMPANY",
+        "link": "nickel-brook-cause-and-effect"
+    },
+    "nickel-brook-headstock-ipa": {
+        "name": "NICKEL BROOK HEADSTOCK IPA",
+        "company": "NICKEL BROOK BREWING COMPANY",
+        "link": "nickel-brook-headstock-ipa"
+    },
+    "nickel-brook-jam-stand-raspberry-real-fruit-berlinerweisser": {
+        "name": "NICKEL BROOK JAM STAND RASPBERRY REAL FRUIT BERLINERWEISSER",
+        "company": "NICKEL BROOK BREWING COMPANY",
+        "link": "nickel-brook-jam-stand-raspberry-real-fruit-berlinerweisser"
+    },
+    "nickel-brook-naughty-neighbour-apa": {
+        "name": "NICKEL BROOK NAUGHTY NEIGHBOUR APA",
+        "company": "NICKEL BROOK BREWING COMPANY",
+        "link": "nickel-brook-naughty-neighbour-apa"
+    },
+    "nickel-brook-no-bad-daze-easy-goin-lager": {
+        "name": "NICKEL BROOK NO BAD DAZE EASY GOIN LAGER",
+        "company": "NICKEL BROOK BREWING COMPANY",
+        "link": "nickel-brook-no-bad-daze-easy-goin-lager"
+    },
+    "nickel-brook-wicked-awesome-ipa": {
+        "name": "NICKEL BROOK WICKED AWESOME IPA",
+        "company": "NICKEL BROOK BREWING COMPANY",
+        "link": "nickel-brook-wicked-awesome-ipa"
+    },
+    "nita-biju-brut-ipa": {
+        "name": "NITA BIJU BRUT IPA",
+        "company": "NITA BEER COMPANY",
+        "link": "nita-biju-brut-ipa"
+    },
+    "nita-opa-balanced-ipa": {
+        "name": "NITA OPA BALANCED IPA",
+        "company": "NITA BEER COMPANY",
+        "link": "nita-opa-balanced-ipa"
+    },
+    "nita-x-ipa-pack": {
+        "name": "NITA X IPA PACK",
+        "company": "NITA BEER COMPANY",
+        "link": "nita-x-ipa-pack"
+    },
+    "no-nonsense-lagered-ale": {
+        "name": "NO NONSENSE LAGERED ALE",
+        "company": "FRANK BREWING CO",
+        "link": "no-nonsense-lagered-ale"
+    },
+    "north-country-kellerbier": {
+        "name": "NORTH COUNTRY KELLERBIER",
+        "company": "BOSHKUNG BREWING COMPANY",
+        "link": "north-country-kellerbier"
+    },
+    "notre-dame-bohemian-pilsner": {
+        "name": "NOTRE DAME BOHEMIAN PILSNER",
+        "company": "BRASSERIE ETIENNE BRULE BREWERY INC",
+        "link": "notre-dame-bohemian-pilsner"
+    },
+    "nutrl-black-cherry": {
+        "name": "NUTRL BLACK CHERRY",
+        "company": "LABATT",
+        "link": "nutrl-black-cherry"
+    },
+    "nutrl-malt-mixer": {
+        "name": "NUTRL MALT MIXER",
+        "company": "LABATT",
+        "link": "nutrl-malt-mixer"
+    },
+    "nutrl-mango": {
+        "name": "NUTRL MANGO",
+        "company": "LABATT",
+        "link": "nutrl-mango"
+    },
+    "octopus-wants-to-fight-ipa": {
+        "name": "OCTOPUS WANTS TO FIGHT IPA",
+        "company": "GREAT LAKES",
+        "link": "octopus-wants-to-fight-ipa"
+    },
+    "oharas-irish-stout": {
+        "name": "OHARAS IRISH STOUT",
+        "company": "CARLOW BREWING COMPANY",
+        "link": "oharas-irish-stout"
+    },
+    "okanagan-springs-switchback-ale": {
+        "name": "OKANAGAN SPRINGS SWITCHBACK ALE",
+        "company": "SLEEMAN BREWING",
+        "link": "okanagan-springs-switchback-ale"
+    },
+    "old-comrade-amber-ale": {
+        "name": "OLD COMRADE AMBER ALE",
+        "company": "FRANK BREWING CO",
+        "link": "old-comrade-amber-ale"
+    },
+    "old-credit-amber-ale": {
+        "name": "OLD CREDIT AMBER ALE",
+        "company": "OLD CREDIT BREWING",
+        "link": "old-credit-amber-ale"
+    },
+    "old-credit-pale-pilsner": {
+        "name": "OLD CREDIT PALE PILSNER",
+        "company": "OLD CREDIT BREWING",
+        "link": "old-credit-pale-pilsner"
+    },
+    "old-flame-blonde": {
+        "name": "OLD FLAME BLONDE",
+        "company": "OLD FLAME BREWING COMPANY",
+        "link": "old-flame-blonde"
+    },
+    "old-flame-no-regrets": {
+        "name": "OLD FLAME NO REGRETS",
+        "company": "OLD FLAME BREWING COMPANY",
+        "link": "old-flame-no-regrets"
+    },
+    "old-flame-red": {
+        "name": "OLD FLAME RED",
+        "company": "OLD FLAME BREWING COMPANY",
+        "link": "old-flame-red"
+    },
+    "old-milwaukee-ice": {
+        "name": "OLD MILWAUKEE ICE",
+        "company": "SLEEMAN BREWING",
+        "link": "old-milwaukee-ice"
+    },
+    "old-milwaukee": {
+        "name": "OLD MILWAUKEE",
+        "company": "SLEEMAN BREWING",
+        "link": "old-milwaukee"
+    },
+    "old-speckled-hen": {
+        "name": "OLD SPECKLED HEN",
+        "company": "GREENE KING PLC",
+        "link": "old-speckled-hen"
+    },
+    "old-style-pilsner-6-1": {
+        "name": "OLD STYLE PILSNER 6.1",
+        "company": "MOLSON",
+        "link": "old-style-pilsner-6-1"
+    },
+    "old-style-pilsner": {
+        "name": "OLD STYLE PILSNER",
+        "company": "MOLSON",
+        "link": "old-style-pilsner"
+    },
+    "old-vienna": {
+        "name": "OLD VIENNA",
+        "company": "MOLSON",
+        "link": "old-vienna"
+    },
+    "olde-english-800": {
+        "name": "OLDE ENGLISH 800",
+        "company": "G A MILLER",
+        "link": "olde-english-800"
+    },
+    "otonabee-river-imperial-double-ipa": {
+        "name": "OTONABEE RIVER IMPERIAL DOUBLE IPA",
+        "company": "OTONABEE RIVER BREWERY",
+        "link": "otonabee-river-imperial-double-ipa"
+    },
+    "otonabee-river-lager": {
+        "name": "OTONABEE RIVER LAGER",
+        "company": "OTONABEE RIVER BREWERY",
+        "link": "otonabee-river-lager"
+    },
+    "ottakringer-citrus-radler": {
+        "name": "OTTAKRINGER CITRUS RADLER",
+        "company": "OTTAKRINGER BRAUEREI",
+        "link": "ottakringer-citrus-radler"
+    },
+    "ottakringer-helles": {
+        "name": "OTTAKRINGER HELLES",
+        "company": "OTTAKRINGER BRAUEREI",
+        "link": "ottakringer-helles"
+    },
+    "ottakringer-vienna-lager": {
+        "name": "OTTAKRINGER VIENNA LAGER",
+        "company": "OTTAKRINGER BRAUEREI",
+        "link": "ottakringer-vienna-lager"
+    },
+    "outlaw-21-lagered-ale": {
+        "name": "OUTLAW 21 LAGERED ALE",
+        "company": "OUTLAW BREW CO",
+        "link": "outlaw-21-lagered-ale"
+    },
+    "pabst-blue-ribbon-5-9": {
+        "name": "PABST BLUE RIBBON 5.9",
+        "company": "SLEEMAN BREWING",
+        "link": "pabst-blue-ribbon-5-9"
+    },
+    "pabst-blue-ribbon-light": {
+        "name": "PABST BLUE RIBBON LIGHT",
+        "company": "SLEEMAN BREWING",
+        "link": "pabst-blue-ribbon-light"
+    },
+    "pabst-blue-ribbon": {
+        "name": "PABST BLUE RIBBON",
+        "company": "SLEEMAN BREWING",
+        "link": "pabst-blue-ribbon"
+    },
+    "pabst-clear-blue-razz-strong-soda": {
+        "name": "PABST CLEAR BLUE RAZZ STRONG SODA",
+        "company": "STROHS BREWERY",
+        "link": "pabst-clear-blue-razz-strong-soda"
+    },
+    "palm-amber-ale": {
+        "name": "PALM AMBER ALE",
+        "company": "PALM BREWERIES NV",
+        "link": "palm-amber-ale"
+    },
+    "parsons-westy-pale-ale": {
+        "name": "PARSONS WESTY PALE ALE",
+        "company": "PARSONS BREWING COMPANY",
+        "link": "parsons-westy-pale-ale"
+    },
+    "partake-blonde": {
+        "name": "PARTAKE BLONDE",
+        "company": "PARTAKE BREWING",
+        "link": "partake-blonde"
+    },
+    "partake-ipa": {
+        "name": "PARTAKE IPA",
+        "company": "PARTAKE BREWING",
+        "link": "partake-ipa"
+    },
+    "partake-red": {
+        "name": "PARTAKE RED",
+        "company": "PARTAKE BREWING",
+        "link": "partake-red"
+    },
+    "paulaner-hell-munchner-lager": {
+        "name": "PAULANER HELL MUNCHNER LAGER",
+        "company": "PAULANER BRAUEREI GRUPPE GMBH & CO.KGAA",
+        "link": "paulaner-hell-munchner-lager"
+    },
+    "paulaner-salvator-bock-bier": {
+        "name": "PAULANER SALVATOR BOCK BIER",
+        "company": "PAULANER BRAUEREI GRUPPE GMBH & CO.KGAA",
+        "link": "paulaner-salvator-bock-bier"
+    },
+    "paulaner-weissbier": {
+        "name": "PAULANER WEISSBIER",
+        "company": "PAULANER BRAUEREI GRUPPE GMBH & CO.KGAA",
+        "link": "paulaner-weissbier"
+    },
+    "pc-cerveza": {
+        "name": "PC CERVEZA",
+        "company": "WHITE WATER BREWERY",
+        "link": "pc-cerveza"
+    },
+    "pc-dry": {
+        "name": "PC DRY",
+        "company": "WHITE WATER BREWERY",
+        "link": "pc-dry"
+    },
+    "pc-genuine-lager": {
+        "name": "PC GENUINE LAGER",
+        "company": "WHITE WATER BREWERY",
+        "link": "pc-genuine-lager"
+    },
+    "pc-honey-red": {
+        "name": "PC HONEY RED",
+        "company": "WHITE WATER BREWERY",
+        "link": "pc-honey-red"
+    },
+    "pc-light": {
+        "name": "PC LIGHT",
+        "company": "WHITE WATER BREWERY",
+        "link": "pc-light"
+    },
+    "pc-low-carb": {
+        "name": "PC LOW CARB",
+        "company": "WHITE WATER BREWERY",
+        "link": "pc-low-carb"
+    },
+    "peoples-pint-helles-island-lager": {
+        "name": "PEOPLES PINT HELLES ISLAND LAGER",
+        "company": "PEOPLES PINT BREWING COMPANY",
+        "link": "peoples-pint-helles-island-lager"
+    },
+    "pepito-original": {
+        "name": "PEPITO ORIGINAL",
+        "company": "BREW ALLIANCE",
+        "link": "pepito-original"
+    },
+    "peroni-nastro-azzurro": {
+        "name": "PERONI NASTRO AZZURRO",
+        "company": "S.P.A. BIRRA PERONI A.S.",
+        "link": "peroni-nastro-azzurro"
+    },
+    "perth-calypso-ipa": {
+        "name": "PERTH CALYPSO IPA",
+        "company": "PERTH BREWERY",
+        "link": "perth-calypso-ipa"
+    },
+    "perth-easy-amber": {
+        "name": "PERTH EASY AMBER",
+        "company": "PERTH BREWERY",
+        "link": "perth-easy-amber"
+    },
+    "perth-euro-pilsner": {
+        "name": "PERTH EURO PILSNER",
+        "company": "PERTH BREWERY",
+        "link": "perth-euro-pilsner"
+    },
+    "perth-grapefruit-radler": {
+        "name": "PERTH GRAPEFRUIT RADLER",
+        "company": "PERTH BREWERY",
+        "link": "perth-grapefruit-radler"
+    },
+    "perth-hopside-ipa": {
+        "name": "PERTH HOPSIDE IPA",
+        "company": "PERTH BREWERY",
+        "link": "perth-hopside-ipa"
+    },
+    "perth-last-duel-lager": {
+        "name": "PERTH LAST DUEL LAGER",
+        "company": "PERTH BREWERY",
+        "link": "perth-last-duel-lager"
+    },
+    "phillips-blue-buck-ale": {
+        "name": "PHILLIPS BLUE BUCK ALE",
+        "company": "PHILLIPS BREWING COMPANY",
+        "link": "phillips-blue-buck-ale"
+    },
+    "phillips-electric-unicorn-white-ipa": {
+        "name": "PHILLIPS ELECTRIC UNICORN WHITE IPA",
+        "company": "PHILLIPS BREWING COMPANY",
+        "link": "phillips-electric-unicorn-white-ipa"
+    },
+    "phillips-glitterbomb": {
+        "name": "PHILLIPS GLITTERBOMB",
+        "company": "PHILLIPS BREWING COMPANY",
+        "link": "phillips-glitterbomb"
+    },
+    "phillips-octobox": {
+        "name": "PHILLIPS OCTOBOX",
+        "company": "PHILLIPS BREWING COMPANY",
+        "link": "phillips-octobox"
+    },
+    "phillips-tiger-shark": {
+        "name": "PHILLIPS TIGER SHARK",
+        "company": "PHILLIPS BREWING COMPANY",
+        "link": "phillips-tiger-shark"
+    },
+    "phillips-winter-octobox-mix-pack": {
+        "name": "PHILLIPS WINTER OCTOBOX MIX PACK",
+        "company": "PHILLIPS BREWING COMPANY",
+        "link": "phillips-winter-octobox-mix-pack"
+    },
+    "pilsner-urquell": {
+        "name": "PILSNER URQUELL",
+        "company": "PILSNER URQUELL A.S.",
+        "link": "pilsner-urquell"
+    },
+    "poppers-cran-ice": {
+        "name": "POPPERS CRAN ICE",
+        "company": "BREW ALLIANCE",
+        "link": "poppers-cran-ice"
+    },
+    "poppers-hard-ice": {
+        "name": "POPPERS HARD ICE",
+        "company": "BREW ALLIANCE",
+        "link": "poppers-hard-ice"
+    },
+    "poppers-ice-rocket": {
+        "name": "POPPERS ICE ROCKET",
+        "company": "BREW ALLIANCE",
+        "link": "poppers-ice-rocket"
+    },
+    "poppers-pink": {
+        "name": "POPPERS PINK",
+        "company": "BREW ALLIANCE",
+        "link": "poppers-pink"
+    },
+    "poppers-wild-ice": {
+        "name": "POPPERS WILD ICE",
+        "company": "BREW ALLIANCE",
+        "link": "poppers-wild-ice"
+    },
+    "powerhouse-homecoming-american-pale-ale": {
+        "name": "POWERHOUSE HOMECOMING AMERICAN PALE ALE",
+        "company": "POWERHOUSE BREWING COMPANY",
+        "link": "powerhouse-homecoming-american-pale-ale"
+    },
+    "provincial-territory-series-ale-hybrid": {
+        "name": "PROVINCIAL TERRITORY SERIES - ALE HYBRID",
+        "company": "WALSH WILTSHIRE BREWING CO.",
+        "link": "provincial-territory-series-ale-hybrid"
+    },
+    "publican-high-noon": {
+        "name": "PUBLICAN HIGH NOON",
+        "company": "PUBLICAN HOUSE BREWERY",
+        "link": "publican-high-noon"
+    },
+    "publican-house-ale": {
+        "name": "PUBLICAN HOUSE ALE",
+        "company": "PUBLICAN HOUSE BREWERY",
+        "link": "publican-house-ale"
+    },
+    "publican-square-nail-pale": {
+        "name": "PUBLICAN SQUARE NAIL PALE",
+        "company": "PUBLICAN HOUSE BREWERY",
+        "link": "publican-square-nail-pale"
+    },
+    "puppers-premium-lager": {
+        "name": "PUPPERS PREMIUM LAGER",
+        "company": "LABATT",
+        "link": "puppers-premium-lager"
+    },
+    "purple-skull-purple-kolsch": {
+        "name": "PURPLE SKULL PURPLE KOLSCH",
+        "company": "PURPLE SKULL BREWING CO",
+        "link": "purple-skull-purple-kolsch"
+    },
+    "pyur-coconut-hard-seltzer": {
+        "name": "PYUR COCONUT HARD SELTZER",
+        "company": "NORTHAM BEVERAGES",
+        "link": "pyur-coconut-hard-seltzer"
+    },
+    "pyur-peach-hard-seltzer": {
+        "name": "PYUR PEACH HARD SELTZER",
+        "company": "NORTHAM BEVERAGES",
+        "link": "pyur-peach-hard-seltzer"
+    },
+    "radeberger-pilsner": {
+        "name": "RADEBERGER PILSNER",
+        "company": "DORTMUNDER ACTIEN BREWERY",
+        "link": "radeberger-pilsner"
+    },
+    "railway-city-brewing-dead-elephant-ipa": {
+        "name": "RAILWAY CITY BREWING - DEAD ELEPHANT IPA",
+        "company": "RAILWAY CITY BREWING",
+        "link": "railway-city-brewing-dead-elephant-ipa"
+    },
+    "railway-city-brewing-iron-spike-copper": {
+        "name": "RAILWAY CITY BREWING - IRON SPIKE COPPER",
+        "company": "RAILWAY CITY BREWING",
+        "link": "railway-city-brewing-iron-spike-copper"
+    },
+    "railway-city-juice-caboose": {
+        "name": "RAILWAY CITY JUICE CABOOSE",
+        "company": "RAILWAY CITY BREWING",
+        "link": "railway-city-juice-caboose"
+    },
+    "rainhard-armed-n-citra": {
+        "name": "RAINHARD ARMED 'N CITRA",
+        "company": "RAINHARD BREWING COMPANY INC",
+        "link": "rainhard-armed-n-citra"
+    },
+    "rainhard-kapow-ipa": {
+        "name": "RAINHARD KAPOW! IPA",
+        "company": "RAINHARD BREWING COMPANY INC",
+        "link": "rainhard-kapow-ipa"
+    },
+    "rally-extra-mile-session-ipa": {
+        "name": "RALLY EXTRA MILE SESSION IPA",
+        "company": "RALLY BEER COMPANY",
+        "link": "rally-extra-mile-session-ipa"
+    },
+    "rally-trail-blazer-golden-ale": {
+        "name": "RALLY TRAIL BLAZER GOLDEN ALE",
+        "company": "RALLY BEER COMPANY",
+        "link": "rally-trail-blazer-golden-ale"
+    },
+    "rattle-n-nemo-amber-ale": {
+        "name": "RATTLE N NEMO AMBER ALE",
+        "company": "ORANGE SNAIL BREWERS LTD.",
+        "link": "rattle-n-nemo-amber-ale"
+    },
+    "rearview-pilsner": {
+        "name": "REARVIEW - PILSNER",
+        "company": "OVERFLOW BREWING COMPANY",
+        "link": "rearview-pilsner"
+    },
+    "red-bull-domestic": {
+        "name": "RED BULL DOMESTIC",
+        "company": "SLEEMAN BREWING",
+        "link": "red-bull-domestic"
+    },
+    "red-falcon-ale": {
+        "name": "RED FALCON ALE",
+        "company": "FALCON BREWING COMPANY",
+        "link": "red-falcon-ale"
+    },
+    "red-horse-extra-strong-beer": {
+        "name": "RED HORSE EXTRA STRONG BEER",
+        "company": "SAN MIGUEL BREWING INTL LTD",
+        "link": "red-horse-extra-strong-beer"
+    },
+    "red-stripe": {
+        "name": "RED STRIPE",
+        "company": "HEINEKEN BROUWERIJEN BV",
+        "link": "red-stripe"
+    },
+    "redline-check-engine": {
+        "name": "REDLINE CHECK ENGINE",
+        "company": "REDLINE BREWHOUSE",
+        "link": "redline-check-engine"
+    },
+    "redneck-logger": {
+        "name": "REDNECK LOGGER",
+        "company": "REDNECK BREWING COMPANY",
+        "link": "redneck-logger"
+    },
+    "refined-fool-pouch-envy-australian": {
+        "name": "REFINED FOOL POUCH ENVY AUSTRALIAN",
+        "company": "REFINED FOOL BREWING COMPANY",
+        "link": "refined-fool-pouch-envy-australian"
+    },
+    "refined-fool-van-full-of-weirdos-juicy-ipa": {
+        "name": "REFINED FOOL VAN FULL OF WEIRDOS JUICY IPA",
+        "company": "REFINED FOOL BREWING COMPANY",
+        "link": "refined-fool-van-full-of-weirdos-juicy-ipa"
+    },
+    "rev-original": {
+        "name": "REV ORIGINAL",
+        "company": "BREW ALLIANCE",
+        "link": "rev-original"
+    },
+    "rev-watermelon": {
+        "name": "REV WATERMELON",
+        "company": "BREW ALLIANCE",
+        "link": "rev-watermelon"
+    },
+    "rhythm-and-brews-symphony-hazy-ipa": {
+        "name": "RHYTHM AND BREWS SYMPHONY HAZY IPA",
+        "company": "RHYTHM AND BREWS",
+        "link": "rhythm-and-brews-symphony-hazy-ipa"
+    },
+    "rickards-red": {
+        "name": "RICKARDS RED",
+        "company": "MOLSON",
+        "link": "rickards-red"
+    },
+    "rickards-taster-pack": {
+        "name": "RICKARDS TASTER PACK",
+        "company": "MOLSON",
+        "link": "rickards-taster-pack"
+    },
+    "riverhead-brewing-mexican-cerveza": {
+        "name": "RIVERHEAD BREWING MEXICAN CERVEZA",
+        "company": "RIVERHEAD BREWING CO",
+        "link": "riverhead-brewing-mexican-cerveza"
+    },
+    "riverhead-brewing-tropical-ipa": {
+        "name": "RIVERHEAD BREWING TROPICAL IPA",
+        "company": "RIVERHEAD BREWING CO",
+        "link": "riverhead-brewing-tropical-ipa"
+    },
+    "rockstar-original-malt": {
+        "name": "ROCKSTAR ORIGINAL MALT",
+        "company": "LABATT",
+        "link": "rockstar-original-malt"
+    },
+    "rodenbach-classic": {
+        "name": "RODENBACH CLASSIC",
+        "company": "PALM BREWERIES NV",
+        "link": "rodenbach-classic"
+    },
+    "rodenbach-grand-cru": {
+        "name": "RODENBACH GRAND CRU",
+        "company": "PALM BREWERIES NV",
+        "link": "rodenbach-grand-cru"
+    },
+    "roger-that-extra-pale-ale": {
+        "name": "ROGER THAT - EXTRA PALE ALE",
+        "company": "OVERFLOW BREWING COMPANY",
+        "link": "roger-that-extra-pale-ale"
+    },
+    "rolling-rock-pale-lager": {
+        "name": "ROLLING ROCK PALE LAGER",
+        "company": "LABATT",
+        "link": "rolling-rock-pale-lager"
+    },
+    "ruby-tears-red-ale": {
+        "name": "RUBY TEARS RED ALE",
+        "company": "PARALLEL 49 BREWING COMPANY",
+        "link": "ruby-tears-red-ale"
+    },
+    "rush-canadian-golden-ale": {
+        "name": "RUSH CANADIAN GOLDEN ALE",
+        "company": "HENDERSON BREWING CO",
+        "link": "rush-canadian-golden-ale"
+    },
+    "russell-a-wee-angry-scotch-ale": {
+        "name": "RUSSELL A WEE ANGRY SCOTCH ALE",
+        "company": "RUSSELL BREWING COMPANY",
+        "link": "russell-a-wee-angry-scotch-ale"
+    },
+    "russell-craft-crusher-mix-pack": {
+        "name": "RUSSELL CRAFT CRUSHER MIX PACK",
+        "company": "RUSSELL BREWING COMPANY",
+        "link": "russell-craft-crusher-mix-pack"
+    },
+    "russell-white-rabbit-lemon-raspberry-radler": {
+        "name": "RUSSELL WHITE RABBIT LEMON RASPBERRY RADLER",
+        "company": "RUSSELL BREWING COMPANY",
+        "link": "russell-white-rabbit-lemon-raspberry-radler"
+    },
+    "saint-andre": {
+        "name": "SAINT ANDRE",
+        "company": "COOL BREWING CO.",
+        "link": "saint-andre"
+    },
+    "sam-76": {
+        "name": "SAM 76",
+        "company": "BOSTON BEER COMPANY",
+        "link": "sam-76"
+    },
+    "samuel-adams-boston-lager": {
+        "name": "SAMUEL ADAMS BOSTON LAGER",
+        "company": "BOSTON BEER COMPANY",
+        "link": "samuel-adams-boston-lager"
+    },
+    "samuel-adams-rebel-ipa": {
+        "name": "SAMUEL ADAMS REBEL IPA",
+        "company": "BOSTON BEER COMPANY",
+        "link": "samuel-adams-rebel-ipa"
+    },
+    "samuel-adams-wicked-easy": {
+        "name": "SAMUEL ADAMS WICKED EASY",
+        "company": "BOSTON BEER COMPANY",
+        "link": "samuel-adams-wicked-easy"
+    },
+    "san-miguel-premium-lager": {
+        "name": "SAN MIGUEL PREMIUM LAGER",
+        "company": "SAN MIGUEL BREWING INTL LTD",
+        "link": "san-miguel-premium-lager"
+    },
+    "sapporo-import": {
+        "name": "SAPPORO IMPORT",
+        "company": "SAPPORO",
+        "link": "sapporo-import"
+    },
+    "sapporo": {
+        "name": "SAPPORO",
+        "company": "SLEEMAN BREWING",
+        "link": "sapporo"
+    },
+    "saulter-street-brewery-riverside-pilsner": {
+        "name": "SAULTER STREET BREWERY RIVERSIDE PILSNER",
+        "company": "SAULTER STREET BREWERY",
+        "link": "saulter-street-brewery-riverside-pilsner"
+    },
+    "sawdust-everyday-magic-hazy-ipa": {
+        "name": "SAWDUST EVERYDAY MAGIC HAZY IPA",
+        "company": "SAWDUST CITY BREWING",
+        "link": "sawdust-everyday-magic-hazy-ipa"
+    },
+    "sawdust-lone-pine-west-coast-ipa": {
+        "name": "SAWDUST LONE PINE WEST COAST IPA",
+        "company": "SAWDUST CITY BREWING",
+        "link": "sawdust-lone-pine-west-coast-ipa"
+    },
+    "sawdustcity-little-norway": {
+        "name": "SAWDUSTCITY LITTLE NORWAY",
+        "company": "SAWDUST CITY BREWING",
+        "link": "sawdustcity-little-norway"
+    },
+    "schneider-aventinus-wheat-doppelbock": {
+        "name": "SCHNEIDER AVENTINUS WHEAT DOPPELBOCK",
+        "company": "SCHNEIDER WEISSE G SCHNEIDER & SOHN GMBH",
+        "link": "schneider-aventinus-wheat-doppelbock"
+    },
+    "schneider-weisse-helle-weisse": {
+        "name": "SCHNEIDER WEISSE HELLE WEISSE",
+        "company": "SCHNEIDER WEISSE G SCHNEIDER & SOHN GMBH",
+        "link": "schneider-weisse-helle-weisse"
+    },
+    "schnitzer-brau-gluten-free": {
+        "name": "SCHNITZER BRAU GLUTEN FREE",
+        "company": "SCHNITZERBRAU GMBH",
+        "link": "schnitzer-brau-gluten-free"
+    },
+    "schofferhofer-grapefruit-radler": {
+        "name": "SCHOFFERHOFER GRAPEFRUIT RADLER",
+        "company": "DORTMUNDER ACTIEN BREWERY",
+        "link": "schofferhofer-grapefruit-radler"
+    },
+    "schofferhofer-hefeweizen": {
+        "name": "SCHOFFERHOFER HEFEWEIZEN",
+        "company": "DORTMUNDER ACTIEN BREWERY",
+        "link": "schofferhofer-hefeweizen"
+    },
+    "schteiner-hell": {
+        "name": "SCHTEINER HELL",
+        "company": "BIG RIG BREWERY",
+        "link": "schteiner-hell"
+    },
+    "semedorato": {
+        "name": "SEMEDORATO",
+        "company": "SEMEDORATO S.R.L.",
+        "link": "semedorato"
+    },
+    "shake-lager": {
+        "name": "SHAKE LAGER",
+        "company": "EQUALS BREWING COMPANY",
+        "link": "shake-lager"
+    },
+    "shandy-carib-ginger": {
+        "name": "SHANDY CARIB GINGER",
+        "company": "CARIB BREWERY",
+        "link": "shandy-carib-ginger"
+    },
+    "shandy-carib-sorrel": {
+        "name": "SHANDY CARIB SORREL",
+        "company": "CARIB BREWERY",
+        "link": "shandy-carib-sorrel"
+    },
+    "shawn-and-ed-brewing-lagershed-original": {
+        "name": "SHAWN & ED BREWING LAGERSHED ORIGINAL",
+        "company": "SHED BREWING COMPANY",
+        "link": "shawn-and-ed-brewing-lagershed-original"
+    },
+    "shawn-and-ed-lagershed-light": {
+        "name": "SHAWN & ED LAGERSHED LIGHT",
+        "company": "SHED BREWING COMPANY",
+        "link": "shawn-and-ed-lagershed-light"
+    },
+    "shindig-huron-county-lager": {
+        "name": "SHINDIG HURON COUNTY LAGER",
+        "company": "COWBELL BREWING COMPANY",
+        "link": "shindig-huron-county-lager"
+    },
+    "shock-top-belgian-white": {
+        "name": "SHOCK TOP BELGIAN WHITE",
+        "company": "LABATT",
+        "link": "shock-top-belgian-white"
+    },
+    "shock-top-citrus-variety": {
+        "name": "SHOCK TOP CITRUS VARIETY",
+        "company": "LABATT",
+        "link": "shock-top-citrus-variety"
+    },
+    "side-launch-northbound-lager": {
+        "name": "SIDE LAUNCH NORTHBOUND LAGER",
+        "company": "SIDE LAUNCH BREWING COMPANY",
+        "link": "side-launch-northbound-lager"
+    },
+    "side-launch-wheat": {
+        "name": "SIDE LAUNCH WHEAT",
+        "company": "SIDE LAUNCH BREWING COMPANY",
+        "link": "side-launch-wheat"
+    },
+    "sierra-nevada-pale-ale": {
+        "name": "SIERRA NEVADA PALE ALE",
+        "company": "SIERRA NEVADA BREWING COMPANY",
+        "link": "sierra-nevada-pale-ale"
+    },
+    "signal-wave-pale-ale": {
+        "name": "SIGNAL WAVE PALE ALE",
+        "company": "SIGNAL BREWING COMPANY",
+        "link": "signal-wave-pale-ale"
+    },
+    "simple-man-oatmeal-stout": {
+        "name": "SIMPLE MAN OATMEAL STOUT",
+        "company": "FRANK BREWING CO",
+        "link": "simple-man-oatmeal-stout"
+    },
+    "skeleton-crew-brewing-evil-genius-session-ipa": {
+        "name": "SKELETON CREW BREWING EVIL GENIUS SESSION IPA",
+        "company": "SKELETON CREW BREWING",
+        "link": "skeleton-crew-brewing-evil-genius-session-ipa"
+    },
+    "sleeman-clear-2-0": {
+        "name": "SLEEMAN CLEAR 2.0",
+        "company": "SLEEMAN BREWING",
+        "link": "sleeman-clear-2-0"
+    },
+    "sleeman-clear-peach": {
+        "name": "SLEEMAN CLEAR PEACH",
+        "company": "SLEEMAN BREWING",
+        "link": "sleeman-clear-peach"
+    },
+    "sleeman-cream-ale": {
+        "name": "SLEEMAN CREAM ALE",
+        "company": "SLEEMAN BREWING",
+        "link": "sleeman-cream-ale"
+    },
+    "sleeman-fine-porter": {
+        "name": "SLEEMAN FINE PORTER",
+        "company": "SLEEMAN BREWING",
+        "link": "sleeman-fine-porter"
+    },
+    "sleeman-honey-brown-lager": {
+        "name": "SLEEMAN HONEY BROWN LAGER",
+        "company": "SLEEMAN BREWING",
+        "link": "sleeman-honey-brown-lager"
+    },
+    "sleeman-india-pale-ale": {
+        "name": "SLEEMAN INDIA PALE ALE",
+        "company": "SLEEMAN BREWING",
+        "link": "sleeman-india-pale-ale"
+    },
+    "sleeman-original-draught": {
+        "name": "SLEEMAN ORIGINAL DRAUGHT",
+        "company": "SLEEMAN BREWING",
+        "link": "sleeman-original-draught"
+    },
+    "sleeman-pier-point-ipa": {
+        "name": "SLEEMAN PIER POINT IPA",
+        "company": "SLEEMAN BREWING",
+        "link": "sleeman-pier-point-ipa"
+    },
+    "sleeman-railside-ale": {
+        "name": "SLEEMAN RAILSIDE ALE",
+        "company": "SLEEMAN BREWING",
+        "link": "sleeman-railside-ale"
+    },
+    "sleeman-rousse-dark": {
+        "name": "SLEEMAN ROUSSE DARK",
+        "company": "SLEEMAN BREWING",
+        "link": "sleeman-rousse-dark"
+    },
+    "sleeman-silver-creek": {
+        "name": "SLEEMAN SILVER CREEK",
+        "company": "SLEEMAN BREWING",
+        "link": "sleeman-silver-creek"
+    },
+    "sleeping-giant-360-pale-ale": {
+        "name": "SLEEPING GIANT 360 PALE ALE",
+        "company": "SLEEPING GIANT BREWING COMPANY",
+        "link": "sleeping-giant-360-pale-ale"
+    },
+    "sleeping-giant-beaver-duck-session-india-pale-ale": {
+        "name": "SLEEPING GIANT BEAVER DUCK SESSION INDIA PALE ALE",
+        "company": "SLEEPING GIANT BREWING COMPANY",
+        "link": "sleeping-giant-beaver-duck-session-india-pale-ale"
+    },
+    "sleeping-giant-mr-canoehead": {
+        "name": "SLEEPING GIANT MR. CANOEHEAD",
+        "company": "SLEEPING GIANT BREWING COMPANY",
+        "link": "sleeping-giant-mr-canoehead"
+    },
+    "sleeping-giant-northern-logger": {
+        "name": "SLEEPING GIANT NORTHERN LOGGER",
+        "company": "SLEEPING GIANT BREWING COMPANY",
+        "link": "sleeping-giant-northern-logger"
+    },
+    "sleeping-giant-skull-rock-stout": {
+        "name": "SLEEPING GIANT SKULL ROCK STOUT",
+        "company": "SLEEPING GIANT BREWING COMPANY",
+        "link": "sleeping-giant-skull-rock-stout"
+    },
+    "sleeping-giant-white-out-hazy-ipa": {
+        "name": "SLEEPING GIANT WHITE OUT HAZY IPA",
+        "company": "SLEEPING GIANT BREWING COMPANY",
+        "link": "sleeping-giant-white-out-hazy-ipa"
+    },
+    "smithavens-taster-pack": {
+        "name": "SMITHAVENS TASTER PACK",
+        "company": "HAVEN BREWING COMPANY",
+        "link": "smithavens-taster-pack"
+    },
+    "smithwicks-ale": {
+        "name": "SMITHWICKS ALE",
+        "company": "DIAGEO",
+        "link": "smithwicks-ale"
+    },
+    "smooth-hoperator-pale-ale": {
+        "name": "SMOOTH HOPERATOR PALE ALE",
+        "company": "FRANK BREWING CO",
+        "link": "smooth-hoperator-pale-ale"
+    },
+    "sneaky-weasel-lager": {
+        "name": "SNEAKY WEASEL LAGER",
+        "company": "NORTHAM BEVERAGES",
+        "link": "sneaky-weasel-lager"
+    },
+    "sober-carpenter-non-alcoholic-craft-blonde-ale": {
+        "name": "SOBER CARPENTER NON-ALCOHOLIC CRAFT BLONDE ALE",
+        "company": "SOBER CARPENTER",
+        "link": "sober-carpenter-non-alcoholic-craft-blonde-ale"
+    },
+    "sober-carpenter-non-alcoholic-ipa": {
+        "name": "SOBER CARPENTER NON-ALCOHOLIC IPA",
+        "company": "SOBER CARPENTER",
+        "link": "sober-carpenter-non-alcoholic-ipa"
+    },
+    "sober-carpenter-non-alcoholic-irish-red": {
+        "name": "SOBER CARPENTER NON-ALCOHOLIC IRISH RED",
+        "company": "SOBER CARPENTER",
+        "link": "sober-carpenter-non-alcoholic-irish-red"
+    },
+    "sober-carpenter-non-alcoholic-white": {
+        "name": "SOBER CARPENTER NON-ALCOHOLIC WHITE",
+        "company": "SOBER CARPENTER",
+        "link": "sober-carpenter-non-alcoholic-white"
+    },
+    "soft-hues-dry-hopped-lager": {
+        "name": "SOFT HUES DRY HOPPED LAGER",
+        "company": "PARSONS BREWING COMPANY",
+        "link": "soft-hues-dry-hopped-lager"
+    },
+    "sol": {
+        "name": "SOL",
+        "company": "MOLSON",
+        "link": "sol"
+    },
+    "spaten": {
+        "name": "SPATEN",
+        "company": "LABATT",
+        "link": "spaten"
+    },
+    "spearhead-brewing-decoy-lager": {
+        "name": "SPEARHEAD BREWING DECOY LAGER",
+        "company": "SPEARHEAD BREWING",
+        "link": "spearhead-brewing-decoy-lager"
+    },
+    "spearhead-hawaiian-pale-ale": {
+        "name": "SPEARHEAD HAWAIIAN PALE ALE",
+        "company": "SPEARHEAD BREWING",
+        "link": "spearhead-hawaiian-pale-ale"
+    },
+    "spearhead-moroccan-brown-ale": {
+        "name": "SPEARHEAD MOROCCAN BROWN ALE",
+        "company": "SPEARHEAD BREWING",
+        "link": "spearhead-moroccan-brown-ale"
+    },
+    "spearhead-sam-roberts-band-ale": {
+        "name": "SPEARHEAD SAM ROBERTS BAND ALE",
+        "company": "SPEARHEAD BREWING",
+        "link": "spearhead-sam-roberts-band-ale"
+    },
+    "split-rail-amber-ale": {
+        "name": "SPLIT RAIL AMBER ALE",
+        "company": "SPLIT RAIL BREWING",
+        "link": "split-rail-amber-ale"
+    },
+    "st-ambroise-apricot-wheat": {
+        "name": "ST AMBROISE APRICOT WHEAT",
+        "company": "MCAUSLAN BREWING",
+        "link": "st-ambroise-apricot-wheat"
+    },
+    "st-ambroise-black-ipa": {
+        "name": "ST AMBROISE BLACK IPA",
+        "company": "MCAUSLAN BREWING",
+        "link": "st-ambroise-black-ipa"
+    },
+    "st-ambroise-double-ipa": {
+        "name": "ST AMBROISE DOUBLE IPA",
+        "company": "MCAUSLAN BREWING",
+        "link": "st-ambroise-double-ipa"
+    },
+    "st-ambroise-ipa": {
+        "name": "ST AMBROISE IPA",
+        "company": "MCAUSLAN BREWING",
+        "link": "st-ambroise-ipa"
+    },
+    "st-ambroise-oatmeal-stout": {
+        "name": "ST AMBROISE OATMEAL STOUT",
+        "company": "MCAUSLAN BREWING",
+        "link": "st-ambroise-oatmeal-stout"
+    },
+    "st-ambroise-pale-ale": {
+        "name": "ST AMBROISE PALE ALE",
+        "company": "MCAUSLAN BREWING",
+        "link": "st-ambroise-pale-ale"
+    },
+    "st-ambroise-session-ipa": {
+        "name": "ST AMBROISE SESSION IPA",
+        "company": "MCAUSLAN BREWING",
+        "link": "st-ambroise-session-ipa"
+    },
+    "st-ambroise-taster-pack": {
+        "name": "ST AMBROISE TASTER PACK",
+        "company": "MCAUSLAN BREWING",
+        "link": "st-ambroise-taster-pack"
+    },
+    "stack-impact-altbier": {
+        "name": "STACK IMPACT ALTBIER",
+        "company": "STACK BREWING",
+        "link": "stack-impact-altbier"
+    },
+    "stag-lager": {
+        "name": "STAG LAGER",
+        "company": "CARIB BREWERY",
+        "link": "stag-lager"
+    },
+    "staropramen": {
+        "name": "STAROPRAMEN",
+        "company": "PIVOVARY STAROPRAMEN A.S.",
+        "link": "staropramen"
+    },
+    "steam-whistle-pale-ale": {
+        "name": "STEAM WHISTLE PALE ALE",
+        "company": "STEAM WHISTLE BREWING",
+        "link": "steam-whistle-pale-ale"
+    },
+    "steam-whistle-premium-pilsner": {
+        "name": "STEAM WHISTLE PREMIUM PILSNER",
+        "company": "STEAM WHISTLE BREWING",
+        "link": "steam-whistle-premium-pilsner"
+    },
+    "steam-whistle-session-lager": {
+        "name": "STEAM WHISTLE SESSION LAGER",
+        "company": "STEAM WHISTLE BREWING",
+        "link": "steam-whistle-session-lager"
+    },
+    "steeler": {
+        "name": "STEELER",
+        "company": "LAKEPORT BREWING CORP",
+        "link": "steeler"
+    },
+    "stella-artois": {
+        "name": "STELLA ARTOIS",
+        "company": "LABATT",
+        "link": "stella-artois"
+    },
+    "stiegl-alpine-pack": {
+        "name": "STIEGL ALPINE PACK",
+        "company": "STIEGL GETRANKE SERVICE GMBH",
+        "link": "stiegl-alpine-pack"
+    },
+    "stiegl-bier": {
+        "name": "STIEGL BIER",
+        "company": "STIEGL GETRANKE SERVICE GMBH",
+        "link": "stiegl-bier"
+    },
+    "stiegl-freibier-0-4": {
+        "name": "STIEGL FREIBIER 0.4",
+        "company": "STIEGL GETRANKE SERVICE GMBH",
+        "link": "stiegl-freibier-0-4"
+    },
+    "stiegl-grapefruit-radler": {
+        "name": "STIEGL GRAPEFRUIT RADLER",
+        "company": "STIEGL GETRANKE SERVICE GMBH",
+        "link": "stiegl-grapefruit-radler"
+    },
+    "stiegl-zitrone-lemon-radler": {
+        "name": "STIEGL ZITRONE LEMON RADLER",
+        "company": "STIEGL GETRANKE SERVICE GMBH",
+        "link": "stiegl-zitrone-lemon-radler"
+    },
+    "stockyards-belmont-village-session-ale": {
+        "name": "STOCKYARDS BELMONT VILLAGE SESSION ALE",
+        "company": "STOCKYARDS BEVERAGE CO.",
+        "link": "stockyards-belmont-village-session-ale"
+    },
+    "stockyards-st-jacobs-country-lager": {
+        "name": "STOCKYARDS ST JACOBS COUNTRY LAGER",
+        "company": "STOCKYARDS BEVERAGE CO.",
+        "link": "stockyards-st-jacobs-country-lager"
+    },
+    "stone-house-premium-czech-pilsner": {
+        "name": "STONE HOUSE PREMIUM CZECH PILSNER",
+        "company": "STONE HOUSE BREWING COMPANY",
+        "link": "stone-house-premium-czech-pilsner"
+    },
+    "stonehammer-dark-ale": {
+        "name": "STONEHAMMER DARK ALE",
+        "company": "STONEHAMMER BREWING",
+        "link": "stonehammer-dark-ale"
+    },
+    "stonehammer-light": {
+        "name": "STONEHAMMER LIGHT",
+        "company": "STONEHAMMER BREWING",
+        "link": "stonehammer-light"
+    },
+    "stonehammer-oatmeal-coffe": {
+        "name": "STONEHAMMER OATMEAL COFFE",
+        "company": "STONEHAMMER BREWING",
+        "link": "stonehammer-oatmeal-coffe"
+    },
+    "stonehammer-pale-ale": {
+        "name": "STONEHAMMER PALE ALE",
+        "company": "STONEHAMMER BREWING",
+        "link": "stonehammer-pale-ale"
+    },
+    "stonehammer-pilsner": {
+        "name": "STONEHAMMER PILSNER",
+        "company": "STONEHAMMER BREWING",
+        "link": "stonehammer-pilsner"
+    },
+    "stonehooker-brewing-chill-pils-czech-style-pilsner": {
+        "name": "STONEHOOKER BREWING CHILL PILS CZECH STYLE PILSNER",
+        "company": "STONEHOOKER BREWING COMPANY LTD.",
+        "link": "stonehooker-brewing-chill-pils-czech-style-pilsner"
+    },
+    "stonewall-light": {
+        "name": "STONEWALL LIGHT",
+        "company": "COOL BREWING CO.",
+        "link": "stonewall-light"
+    },
+    "storyteller-lager": {
+        "name": "STORYTELLER LAGER",
+        "company": "STORYTELLER BEVERAGE COMPANY",
+        "link": "storyteller-lager"
+    },
+    "stratford-pilsner": {
+        "name": "STRATFORD PILSNER",
+        "company": "STRATFORD BREWING COMPANY",
+        "link": "stratford-pilsner"
+    },
+    "strawberries-and-cream-ale": {
+        "name": "STRAWBERRIES & CREAM ALE",
+        "company": "TOMORROW BREW CO",
+        "link": "strawberries-and-cream-ale"
+    },
+    "surprise-sour-alcohol-free-beer": {
+        "name": "SURPRISE SOUR ALCOHOL FREE BEER",
+        "company": "LE BOCKALE",
+        "link": "surprise-sour-alcohol-free-beer"
+    },
+    "sweetwater-420-extra-pale-ale": {
+        "name": "SWEETWATER 420 EXTRA PALE ALE",
+        "company": "SWEETWATER BREWING COMPANY",
+        "link": "sweetwater-420-extra-pale-ale"
+    },
+    "sweetwater-ipa": {
+        "name": "SWEETWATER IPA",
+        "company": "SWEETWATER BREWING COMPANY",
+        "link": "sweetwater-ipa"
+    },
+    "swing-bridge-blonde-ale": {
+        "name": "SWING BRIDGE BLONDE ALE",
+        "company": "MANITOULIN BREWING COMPANY",
+        "link": "swing-bridge-blonde-ale"
+    },
+    "tecate": {
+        "name": "TECATE",
+        "company": "CERV CUAUHTEMOC MOCTEZUMA",
+        "link": "tecate"
+    },
+    "tennents-export-lager": {
+        "name": "TENNENTS EXPORT LAGER",
+        "company": "TENNENT CALEDONIAN BREWERIES",
+        "link": "tennents-export-lager"
+    },
+    "the-bunkie-brewing-company-bunkie-blonde": {
+        "name": "THE BUNKIE BREWING COMPANY - BUNKIE BLONDE",
+        "company": "THE BUNKIE BREWING COMPANY",
+        "link": "the-bunkie-brewing-company-bunkie-blonde"
+    },
+    "the-collingwood-brewery-3-point-saison": {
+        "name": "THE COLLINGWOOD BREWERY 3-POINT SAISON",
+        "company": "COLLINGWOOD BREWERY",
+        "link": "the-collingwood-brewery-3-point-saison"
+    },
+    "the-collingwood-brewery-down-hill-pale-ale": {
+        "name": "THE COLLINGWOOD BREWERY DOWN HILL PALE ALE",
+        "company": "COLLINGWOOD BREWERY",
+        "link": "the-collingwood-brewery-down-hill-pale-ale"
+    },
+    "the-collingwood-brewery-kingpost-esb": {
+        "name": "THE COLLINGWOOD BREWERY KINGPOST ESB",
+        "company": "COLLINGWOOD BREWERY",
+        "link": "the-collingwood-brewery-kingpost-esb"
+    },
+    "the-collingwood-brewery-rockwell-pilsner": {
+        "name": "THE COLLINGWOOD BREWERY ROCKWELL PILSNER",
+        "company": "COLLINGWOOD BREWERY",
+        "link": "the-collingwood-brewery-rockwell-pilsner"
+    },
+    "the-collingwood-brewery-whites-bay-ipa": {
+        "name": "THE COLLINGWOOD BREWERY WHITES BAY IPA",
+        "company": "COLLINGWOOD BREWERY",
+        "link": "the-collingwood-brewery-whites-bay-ipa"
+    },
+    "the-ginger-of-sussex": {
+        "name": "THE GINGER OF SUSSEX",
+        "company": "NITA BEER COMPANY",
+        "link": "the-ginger-of-sussex"
+    },
+    "this-one-california-common": {
+        "name": "THIS ONE CALIFORNIA COMMON",
+        "company": "STRAY DOG BREWING COMPANY INC",
+        "link": "this-one-california-common"
+    },
+    "thornbury-blue-mountain-light-lager": {
+        "name": "THORNBURY BLUE MOUNTAIN LIGHT LAGER",
+        "company": "THORNBURY BEVERAGE COMPANY",
+        "link": "thornbury-blue-mountain-light-lager"
+    },
+    "thornbury-clark-is-in-session-ipa": {
+        "name": "THORNBURY CLARK IS IN SESSION IPA",
+        "company": "THORNBURY BEVERAGE COMPANY",
+        "link": "thornbury-clark-is-in-session-ipa"
+    },
+    "tiger-beer": {
+        "name": "TIGER BEER",
+        "company": "HEINEKEN BROUWERIJEN BV. - HBBV",
+        "link": "tiger-beer"
+    },
+    "tomorrow-brew-co-everythings-peachy-ale": {
+        "name": "TOMORROW BREW CO EVERYTHINGS PEACHY ALE",
+        "company": "TOMORROW BREW CO",
+        "link": "tomorrow-brew-co-everythings-peachy-ale"
+    },
+    "tona-cerveza": {
+        "name": "TONA CERVEZA",
+        "company": "COMPANIA CERVECERA NICARAGUA S.A.",
+        "link": "tona-cerveza"
+    },
+    "town-brewery-square-wheels-hazy-ipa": {
+        "name": "TOWN BREWERY - SQUARE WHEELS HAZY IPA",
+        "company": "TOWN BREWERY INC.",
+        "link": "town-brewery-square-wheels-hazy-ipa"
+    },
+    "tree-topper-red-ale": {
+        "name": "TREE TOPPER RED ALE",
+        "company": "NEW ONTARIO BREWING",
+        "link": "tree-topper-red-ale"
+    },
+    "trestle-golden-ale": {
+        "name": "TRESTLE GOLDEN ALE",
+        "company": "TRESTLE BREWING COMPANY LTD.",
+        "link": "trestle-golden-ale"
+    },
+    "true-north-cream-ale": {
+        "name": "TRUE NORTH CREAM ALE",
+        "company": "MAGNOTTA BREWERY",
+        "link": "true-north-cream-ale"
+    },
+    "true-north-inukshuk-ipa": {
+        "name": "TRUE NORTH INUKSHUK IPA",
+        "company": "MAGNOTTA BREWERY",
+        "link": "true-north-inukshuk-ipa"
+    },
+    "tsingtao-beer": {
+        "name": "TSINGTAO BEER",
+        "company": "TSINGTAO BREWERY",
+        "link": "tsingtao-beer"
+    },
+    "tuborg-gold": {
+        "name": "TUBORG GOLD",
+        "company": "CARLSBERG INTERNATIONAL A/S",
+        "link": "tuborg-gold"
+    },
+    "tuborg-pilsner": {
+        "name": "TUBORG PILSNER",
+        "company": "CARLSBERG INTERNATIONAL A/S",
+        "link": "tuborg-pilsner"
+    },
+    "tuque-doree-canadian-pale-ale": {
+        "name": "TUQUE DOREE CANADIAN PALE ALE",
+        "company": "BRASSERIE TUQUE DE BROUE",
+        "link": "tuque-doree-canadian-pale-ale"
+    },
+    "twisted-tea-half-and-half": {
+        "name": "TWISTED TEA HALF & HALF",
+        "company": "BOSTON BEER COMPANY",
+        "link": "twisted-tea-half-and-half"
+    },
+    "twisted-tea-mixed-pack": {
+        "name": "TWISTED TEA MIXED PACK",
+        "company": "BOSTON BEER COMPANY",
+        "link": "twisted-tea-mixed-pack"
+    },
+    "twisted-tea-raspberry": {
+        "name": "TWISTED TEA RASPBERRY",
+        "company": "BOSTON BEER COMPANY",
+        "link": "twisted-tea-raspberry"
+    },
+    "twisted-tea": {
+        "name": "TWISTED TEA",
+        "company": "BOSTON BEER COMPANY",
+        "link": "twisted-tea"
+    },
+    "tyskie-gronie": {
+        "name": "TYSKIE GRONIE",
+        "company": "KOMPANIA PIWOWARSKA S.A.",
+        "link": "tyskie-gronie"
+    },
+    "under-the-sakura-cherry-blossom-lager": {
+        "name": "UNDER THE SAKURA CHERRY BLOSSOM LAGER",
+        "company": "HIGH PARK BREWERY LTD.",
+        "link": "under-the-sakura-cherry-blossom-lager"
+    },
+    "unibroue-a-tout-le-monde": {
+        "name": "UNIBROUE A TOUT LE MONDE",
+        "company": "UNIBROUE",
+        "link": "unibroue-a-tout-le-monde"
+    },
+    "unibroue-blanche-de-chambly-orange-sanguine": {
+        "name": "UNIBROUE BLANCHE DE CHAMBLY ORANGE SANGUINE",
+        "company": "SLEEMAN BREWING",
+        "link": "unibroue-blanche-de-chambly-orange-sanguine"
+    },
+    "upper-canada-dark-ale": {
+        "name": "UPPER CANADA DARK ALE",
+        "company": "SLEEMAN BREWING",
+        "link": "upper-canada-dark-ale"
+    },
+    "upper-canada-lager": {
+        "name": "UPPER CANADA LAGER",
+        "company": "SLEEMAN BREWING",
+        "link": "upper-canada-lager"
+    },
+    "upper-thames-take-a-hike-ddh": {
+        "name": "UPPER THAMES TAKE A HIKE DDH",
+        "company": "UPPER THAMES BREWING COMPANY",
+        "link": "upper-thames-take-a-hike-ddh"
+    },
+    "urban-renewal": {
+        "name": "URBAN RENEWAL",
+        "company": "THE GEORGE BREWING CO.",
+        "link": "urban-renewal"
+    },
+    "vedette-extra-white": {
+        "name": "VEDETTE EXTRA WHITE",
+        "company": "DUVEL MOORTGAT N.V.",
+        "link": "vedette-extra-white"
+    },
+    "vimy-cream-ale": {
+        "name": "VIMY CREAM ALE",
+        "company": "VIMY BREWING COMPANY",
+        "link": "vimy-cream-ale"
+    },
+    "vimy-red-ale": {
+        "name": "VIMY RED ALE",
+        "company": "VIMY BREWING COMPANY",
+        "link": "vimy-red-ale"
+    },
+    "vizzy-hard-seltzer-black-cherry-lime": {
+        "name": "VIZZY HARD SELTZER BLACK CHERRY LIME",
+        "company": "MOLSON",
+        "link": "vizzy-hard-seltzer-black-cherry-lime"
+    },
+    "vizzy-hard-seltzer-blueberry-pomegranate": {
+        "name": "VIZZY HARD SELTZER BLUEBERRY POMEGRANATE",
+        "company": "MOLSON",
+        "link": "vizzy-hard-seltzer-blueberry-pomegranate"
+    },
+    "vizzy-hard-seltzer-pineapple-mango": {
+        "name": "VIZZY HARD SELTZER PINEAPPLE MANGO",
+        "company": "MOLSON",
+        "link": "vizzy-hard-seltzer-pineapple-mango"
+    },
+    "vizzy-hard-seltzer-strawberry-kiwi": {
+        "name": "VIZZY HARD SELTZER STRAWBERRY KIWI",
+        "company": "MOLSON",
+        "link": "vizzy-hard-seltzer-strawberry-kiwi"
+    },
+    "vizzy-hard-seltzer-variety-pack": {
+        "name": "VIZZY HARD SELTZER VARIETY PACK",
+        "company": "MOLSON",
+        "link": "vizzy-hard-seltzer-variety-pack"
+    },
+    "vizzy-raspberry-lemonade": {
+        "name": "VIZZY RASPBERRY LEMONADE",
+        "company": "MOLSON",
+        "link": "vizzy-raspberry-lemonade"
+    },
+    "walkerville-easy-stout": {
+        "name": "WALKERVILLE EASY STOUT",
+        "company": "WALKERVILLE BREWING CO",
+        "link": "walkerville-easy-stout"
+    },
+    "walkerville-geronimo-ipa": {
+        "name": "WALKERVILLE GERONIMO IPA",
+        "company": "WALKERVILLE BREWING CO",
+        "link": "walkerville-geronimo-ipa"
+    },
+    "walkerville-honest-lager": {
+        "name": "WALKERVILLE HONEST LAGER",
+        "company": "WALKERVILLE BREWING CO",
+        "link": "walkerville-honest-lager"
+    },
+    "walkerville-purity-pilsener": {
+        "name": "WALKERVILLE PURITY PILSENER",
+        "company": "WALKERVILLE BREWING CO",
+        "link": "walkerville-purity-pilsener"
+    },
+    "warsteiner-double-hopped": {
+        "name": "WARSTEINER DOUBLE HOPPED",
+        "company": "WARSTEINER BRAUEREI",
+        "link": "warsteiner-double-hopped"
+    },
+    "warsteiner-premium-dunkel": {
+        "name": "WARSTEINER PREMIUM DUNKEL",
+        "company": "WARSTEINER BRAUEREI",
+        "link": "warsteiner-premium-dunkel"
+    },
+    "warsteiner-premium-verum": {
+        "name": "WARSTEINER PREMIUM VERUM",
+        "company": "WARSTEINER BRAUEREI",
+        "link": "warsteiner-premium-verum"
+    },
+    "wasaga-beach-1-cerveza": {
+        "name": "WASAGA BEACH 1 CERVEZA",
+        "company": "COOL BREWING CO.",
+        "link": "wasaga-beach-1-cerveza"
+    },
+    "water-street": {
+        "name": "WATER STREET",
+        "company": "THE GEORGE BREWING CO.",
+        "link": "water-street"
+    },
+    "waterloo-amber-lager": {
+        "name": "WATERLOO AMBER LAGER",
+        "company": "WATERLOO BREWING LTD.",
+        "link": "waterloo-amber-lager"
+    },
+    "waterloo-craft-lager": {
+        "name": "WATERLOO CRAFT LAGER",
+        "company": "WATERLOO BREWING LTD.",
+        "link": "waterloo-craft-lager"
+    },
+    "waterloo-dark": {
+        "name": "WATERLOO DARK",
+        "company": "WATERLOO BREWING LTD.",
+        "link": "waterloo-dark"
+    },
+    "waterloo-field-berry-radler": {
+        "name": "WATERLOO FIELD BERRY RADLER",
+        "company": "WATERLOO BREWING LTD.",
+        "link": "waterloo-field-berry-radler"
+    },
+    "waterloo-grapefruit-radler": {
+        "name": "WATERLOO GRAPEFRUIT RADLER",
+        "company": "WATERLOO BREWING LTD.",
+        "link": "waterloo-grapefruit-radler"
+    },
+    "waterloo-ipa": {
+        "name": "WATERLOO IPA",
+        "company": "WATERLOO BREWING LTD.",
+        "link": "waterloo-ipa"
+    },
+    "waterloo-salted-caramel-porter": {
+        "name": "WATERLOO SALTED CARAMEL PORTER",
+        "company": "WATERLOO BREWING LTD.",
+        "link": "waterloo-salted-caramel-porter"
+    },
+    "waterloo-signature-series-summer-collection-2022": {
+        "name": "WATERLOO SIGNATURE SERIES SUMMER COLLECTION 2022",
+        "company": "WATERLOO BREWING LTD.",
+        "link": "waterloo-signature-series-summer-collection-2022"
+    },
+    "wayne-gretzky-99-amber-ale": {
+        "name": "WAYNE GRETZKY 99 AMBER ALE",
+        "company": "WAYNE GRETZKY CRAFT BREWING",
+        "link": "wayne-gretzky-99-amber-ale"
+    },
+    "wayne-gretzky-99-hazy-ipa": {
+        "name": "WAYNE GRETZKY 99 HAZY IPA",
+        "company": "WAYNE GRETZKY CRAFT BREWING",
+        "link": "wayne-gretzky-99-hazy-ipa"
+    },
+    "wayne-gretzky-99-hazy-pilsner": {
+        "name": "WAYNE GRETZKY 99 HAZY PILSNER",
+        "company": "WAYNE GRETZKY CRAFT BREWING",
+        "link": "wayne-gretzky-99-hazy-pilsner"
+    },
+    "wayne-gretzky-99-lager": {
+        "name": "WAYNE GRETZKY 99 LAGER",
+        "company": "WAYNE GRETZKY CRAFT BREWING",
+        "link": "wayne-gretzky-99-lager"
+    },
+    "weihenstephaner-dunkel": {
+        "name": "WEIHENSTEPHANER DUNKEL",
+        "company": "STAATSBRAUEREI WEIHENSTEPHAN",
+        "link": "weihenstephaner-dunkel"
+    },
+    "weihenstephaner-hefeweiss": {
+        "name": "WEIHENSTEPHANER HEFEWEISS",
+        "company": "STAATSBRAUEREI WEIHENSTEPHAN",
+        "link": "weihenstephaner-hefeweiss"
+    },
+    "wellington-county-brown-ale": {
+        "name": "WELLINGTON COUNTY BROWN ALE",
+        "company": "WELLINGTON COUNTY",
+        "link": "wellington-county-brown-ale"
+    },
+    "wellington-craft-mixer": {
+        "name": "WELLINGTON CRAFT MIXER",
+        "company": "WELLINGTON COUNTY",
+        "link": "wellington-craft-mixer"
+    },
+    "wellington-helles-lager": {
+        "name": "WELLINGTON HELLES LAGER",
+        "company": "WELLINGTON COUNTY",
+        "link": "wellington-helles-lager"
+    },
+    "wellington-s-p-a": {
+        "name": "WELLINGTON S.P.A",
+        "company": "WELLINGTON COUNTY",
+        "link": "wellington-s-p-a"
+    },
+    "wellington-upside-ipa": {
+        "name": "WELLINGTON UPSIDE IPA",
+        "company": "WELLINGTON COUNTY",
+        "link": "wellington-upside-ipa"
+    },
+    "wernesgruner-pils": {
+        "name": "WERNESGRUNER PILS",
+        "company": "CARLSBERG INTERNATIONAL A/S",
+        "link": "wernesgruner-pils"
+    },
+    "whiprsnapr-inukshuk-ipa": {
+        "name": "WHIPRSNAPR INUKSHUK IPA",
+        "company": "WHIPRSNAPR BREWING COMPANY",
+        "link": "whiprsnapr-inukshuk-ipa"
+    },
+    "whiprsnapr-trans-canada-trale": {
+        "name": "WHIPRSNAPR TRANS CANADA TRALE",
+        "company": "WHIPRSNAPR BREWING COMPANY",
+        "link": "whiprsnapr-trans-canada-trale"
+    },
+    "whiprsnapr-wanderer": {
+        "name": "WHIPRSNAPR WANDERER",
+        "company": "WHIPRSNAPR BREWING COMPANY",
+        "link": "whiprsnapr-wanderer"
+    },
+    "whistler-grapefruit-ale": {
+        "name": "WHISTLER GRAPEFRUIT ALE",
+        "company": "WHISTLER BREWING",
+        "link": "whistler-grapefruit-ale"
+    },
+    "whistling-paddler-english-style-ale": {
+        "name": "WHISTLING PADDLER ENGLISH STYLE ALE",
+        "company": "WHITEWATER BREWING COMPANY",
+        "link": "whistling-paddler-english-style-ale"
+    },
+    "whitewater-blood-moon-sour": {
+        "name": "WHITEWATER BLOOD MOON SOUR",
+        "company": "WHITEWATER BREWING COMPANY",
+        "link": "whitewater-blood-moon-sour"
+    },
+    "woodhouse-ipa-beer": {
+        "name": "WOODHOUSE IPA BEER",
+        "company": "WOODHOUSE BREWING COMPANY",
+        "link": "woodhouse-ipa-beer"
+    },
+    "woodhouse-lager": {
+        "name": "WOODHOUSE LAGER",
+        "company": "WOODHOUSE BREWING COMPANY",
+        "link": "woodhouse-lager"
+    },
+    "yuzu-pale-ale": {
+        "name": "YUZU PALE ALE",
+        "company": "RADICAL ROAD BREWING COMPANY",
+        "link": "yuzu-pale-ale"
+    },
+    "zywiec-beer": {
+        "name": "ZYWIEC BEER",
+        "company": "GRUPA ZYWIEC S.A.",
+        "link": "zywiec-beer"
+    }
+}

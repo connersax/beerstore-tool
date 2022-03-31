@@ -1,0 +1,2167 @@
+{
+    "4004": [
+        "ACTON",
+        "332 Queen St. Acton, L7J 1R2",
+        4004
+    ],
+    "2106": [
+        "AJAX",
+        "95 Commercial Plaza Ajax, L1S 3C3",
+        2106
+    ],
+    "2113": [
+        "AJAX",
+        "75 Kingston Rd. E. Ajax, L1S 7J4",
+        2113
+    ],
+    "2115": [
+        "AJAX",
+        "1953 Ravenscroft Rd. Ajax, L1T 0K4",
+        2115
+    ],
+    "3426": [
+        "ALCONA",
+        "945 Innisfil Beach Rd. Alcona, L9S 1V3",
+        3426
+    ],
+    "4354": [
+        "ALEXANDRIA",
+        "118 Main St. N. Alexandria, K0C 1A0",
+        4354
+    ],
+    "3404": [
+        "ALLISTON",
+        "161 Young St. Alliston, L9R 2A9",
+        3404
+    ],
+    "4656": [
+        "ALMONTE",
+        "113 High St. Almonte, K0A 1A0",
+        4656
+    ],
+    "3263": [
+        "AMHERSTBURG",
+        "80 Park St. Amherstburg, N9V 1N5",
+        3263
+    ],
+    "4506": [
+        "AMHERSTVIEW",
+        "4501 Bath Rd. Amherstview, K7N 1A6",
+        4506
+    ],
+    "3405": [
+        "ANGUS",
+        "4-17 King St. Angus, L0M 1B2",
+        3405
+    ],
+    "4657": [
+        "ARNPRIOR",
+        "120 Madawaska Blvd. Arnprior, K7S 1S7",
+        4657
+    ],
+    "3491": [
+        "ATIKOKAN",
+        "711 Mackenzie St. E. Atikokan, P0T 1C0",
+        3491
+    ],
+    "3430": [
+        "BAYVIEW & ST. JOHNS",
+        "15820 Bayview Ave. Aurora, L4G 7Y3",
+        3430
+    ],
+    "3406": [
+        "YONGE STREET",
+        "14800 Yonge St. Aurora, L4G 1N3",
+        3406
+    ],
+    "3115": [
+        "AYLMER",
+        "371 John St. N. Aylmer, N5H 2B6",
+        3115
+    ],
+    "3605": [
+        "AZILDA",
+        "93 Notre Dame St. E., PO Box 590 Azilda, P0M 1B0",
+        3605
+    ],
+    "3407": [
+        "BALA",
+        "3025 Hwy. #169 Bala, P0C 1A0",
+        3407
+    ],
+    "4704": [
+        "BANCROFT",
+        "1 Madawaska St. Bancroft, K0L 1C0",
+        4704
+    ],
+    "3401": [
+        "ANNE/GEORGE",
+        "30 Anne St. S. Barrie, L4N 2C6",
+        3401
+    ],
+    "3428": [
+        "BARRIE",
+        "71 Mapleview Dr. Barrie, L4N 9H7",
+        3428
+    ],
+    "3403": [
+        "BAYFIELD ST.",
+        "531 Bayfield St. Barrie, L4M 4Z9",
+        3403
+    ],
+    "3402": [
+        "BLAKE ST.",
+        "299 Blake St. Barrie, L4M 1K7",
+        3402
+    ],
+    "3429": [
+        "YONGE ST BARRIE",
+        "640 Yonge St. Barrie, L4N 4E6",
+        3429
+    ],
+    "4691": [
+        "BARRY\u2019S BAY",
+        "19619 Opeongo Line W. Barry's Bay, K0J 1B0",
+        4691
+    ],
+    "4207": [
+        "BEAMSVILLE",
+        "4313 Ontario St. Beamsville, L0R 1B0",
+        4207
+    ],
+    "4552": [
+        "BEAVERTON",
+        "553 Mara Rd. Beaverton, L0K 1A0",
+        4552
+    ],
+    "3264": [
+        "BELLE RIVER",
+        "399 Notre Dame St. Belle River, N0R 1A0",
+        3264
+    ],
+    "4301": [
+        "BELL BOULEVARD",
+        "167 Bell Boulevard Belleville, K8P 5N8",
+        4301
+    ],
+    "4302": [
+        "FRONT ST. S.",
+        "91 Front St. S. Belleville, K8N 2Y5",
+        4302
+    ],
+    "3054": [
+        "BLENHEIM",
+        "100 Marlborough St. N., PO Box 331 Blenheim, N0P 1A0",
+        3054
+    ],
+    "3594": [
+        "BLIND RIVER",
+        "115 Causley St. Blind River, P0R 1B0",
+        3594
+    ],
+    "4553": [
+        "BOBCAYGEON",
+        "25 King St. E. Bobcaygeon, K0M 1A0",
+        4553
+    ],
+    "2007": [
+        "BOLTON",
+        "150 McEwen Dr. E. Bolton, L7E 2Y3",
+        2007
+    ],
+    "2240": [
+        "BOLTON DISTRIBUTION CENTRE",
+        "12258 Coleraine Dr. Bolton, L7E 3A9",
+        2240
+    ],
+    "3055": [
+        "BOTHWELL",
+        "160 Oak St. Bothwell, N0P 1C0",
+        3055
+    ],
+    "2107": [
+        "BOWMANVILLE",
+        "195 King St. E. Bowmanville, L1C 1P2",
+        2107
+    ],
+    "3408": [
+        "BRACEBRIDGE",
+        "505 Hwy. #118 W., Unit 14 Bracebridge, P1L 1T3",
+        3408
+    ],
+    "3409": [
+        "BRADFORD",
+        "452 Holland St. W. Bradford, L3Z 0G1",
+        3409
+    ],
+    "2004": [
+        "AIRPORT ROAD",
+        "2890 Queen St. E. Brampton, L6S 6E8",
+        2004
+    ],
+    "2006": [
+        "BRAMALEA CITY CENTRE",
+        "80 Peel Centre Dr. Brampton, L6T 4G8",
+        2006
+    ],
+    "2022": [
+        "BRAMPTON \u2013 BRAMALEA/SANDALWOOD",
+        "10585 Bramalea Rd., Bldg. D Brampton, L6R 0C1",
+        2022
+    ],
+    "2041": [
+        "BRAMPTON DISTRIBUTION CENTRE",
+        "69 First Gulf Blvd Brampton, L6W 4T8",
+        2041
+    ],
+    "2019": [
+        "FLETCHERS MEADOW",
+        "11 Worthington Ave. Brampton, L7A 2Y7",
+        2019
+    ],
+    "2005": [
+        "HEART LAKE",
+        "180 Sandalwood Pkwy. Brampton, L6Z 1Y4",
+        2005
+    ],
+    "2062": [
+        "HURONTARIO/STEELES",
+        "55 Charolais Blvd. Brampton, L6Y 1Z4",
+        2062
+    ],
+    "2014": [
+        "KINGSPOINT PLAZA (MAIN/VODDEN)",
+        "374 Main St. N. Brampton, L6V 1P8",
+        2014
+    ],
+    "2016": [
+        "NORTH PARK/MCKAY",
+        "932 North Park Dr. Brampton, L6S 3Y5",
+        2016
+    ],
+    "2002": [
+        "QUEEN ST.",
+        "198 Queen St. E. Brampton, L6V 1B7",
+        2002
+    ],
+    "3004": [
+        "BRANTFORD MALL (KING GEORGE)",
+        "300 King George Rd. Brantford, N3R 5L8",
+        3004
+    ],
+    "3011": [
+        "MARKET ST. S.",
+        "50 Market St. S. Brantford, N3S 2E5",
+        3011
+    ],
+    "3002": [
+        "MURRAY ST.",
+        "280 Murray St. Brantford, N3S 5S8",
+        3002
+    ],
+    "3003": [
+        "ST. GEORGE ST.",
+        "116 St. George St. Brantford, N3R 1V6",
+        3003
+    ],
+    "4705": [
+        "BRIDGENORTH",
+        "882 Ward St. Bridgenorth, K0L 1H0",
+        4705
+    ],
+    "4303": [
+        "BRIGHTON",
+        "72 Main St., PO Box 193 Brighton, K0K 1H0",
+        4303
+    ],
+    "4392": [
+        "BROCKVILLE",
+        "125 Stewart Blvd. Brockville, K6V 4W4",
+        4392
+    ],
+    "2116": [
+        "BROOKLIN",
+        "5929 Baldwin St. S., Bldg. M Brooklin, L1M 2J7",
+        2116
+    ],
+    "4066": [
+        "ELIZABETH ST.",
+        "396 Elizabeth St. Burlington, L7R 2L6",
+        4066
+    ],
+    "4077": [
+        "MAPLE MEWS",
+        "1235 Fairview St. Burlington, L7S 2H9",
+        4077
+    ],
+    "4076": [
+        "MILLCROFT",
+        "2020 Appleby Line Burlington, L7L 6M6",
+        4076
+    ],
+    "4068": [
+        "MT. FOREST DRIVE",
+        "2055 Mount Forest Dr. Burlington, L7P 1M4",
+        4068
+    ],
+    "4069": [
+        "NEW STREET",
+        "5051 New St. Burlington, L7L 1V1",
+        4069
+    ],
+    "4065": [
+        "SUPERCENTRE (GUELPH LINE)",
+        "2025 Guelph Line Burlington, L7P 4M8",
+        4065
+    ],
+    "4070": [
+        "CALEDONIA",
+        "272 Argyle St. S. Caledonia, N3W 1K7",
+        4070
+    ],
+    "4158": [
+        "CHOPIN ST. S. (PRESTON)",
+        "140 Chopin St. S. Cambridge, N3H 1J5",
+        4158
+    ],
+    "4157": [
+        "S. CAMBRIDGE MALL (HWY 97)",
+        "200 Franklin Blvd. Cambridge, N1R 5S2",
+        4157
+    ],
+    "4162": [
+        "TRICITY CENTRE",
+        "150 Holiday Inn Dr. Cambridge, N3C 0A1",
+        4162
+    ],
+    "4161": [
+        "WESTGATE PLAZA (CEDAR ST.)",
+        "130 Cedar St., Unit 52 Cambridge, N1S 1W4",
+        4161
+    ],
+    "4706": [
+        "CAMPBELLFORD",
+        "80 Centre St. Campbellford, K0L 1L0",
+        4706
+    ],
+    "4658": [
+        "CARLETON PLACE",
+        "575 McNeely Avenue Carleton Place, K7C 0A8",
+        4658
+    ],
+    "3591": [
+        "CHAPLEAU",
+        "59 Lisgar St. Chapleau, P0M 1K0",
+        3591
+    ],
+    "3053": [
+        "RICHMOND STREET",
+        "132 Richmond St. Chatham, N7M 1N9",
+        3053
+    ],
+    "3052": [
+        "ST.CLAIR AVENUE",
+        "445 St. Clair St. Chatham, N7L 3K6",
+        3052
+    ],
+    "3607": [
+        "CHELMSFORD",
+        "199 Aurore St. Chelmsford, P0M 1L0",
+        3607
+    ],
+    "3203": [
+        "CLINTON",
+        "30 Mill St. Clinton, N0M 1L0",
+        3203
+    ],
+    "4554": [
+        "COBOCONK",
+        "6716 Hwy. #35, PO Box 269 Coboconk, K0M 1K0",
+        4554
+    ],
+    "2141": [
+        "COBOURG",
+        "476 Division St. Cobourg, K9A 3S2",
+        2141
+    ],
+    "3741": [
+        "COCHRANE",
+        "8 James Bay Rd. Cochrane, P0L 1C0",
+        3741
+    ],
+    "3410": [
+        "COLDWATER",
+        "Array Sturgeon Bay Rd., PO Box 118 Coldwater, L0K 1E0",
+        3410
+    ],
+    "3441": [
+        "COLLINGWOOD",
+        "415 First St. Collingwood, L9Y 1B7",
+        3441
+    ],
+    "3613": [
+        "CONISTON MALL",
+        "24 Amanda St. Coniston, P0M 1M0",
+        3613
+    ],
+    "4352": [
+        "BRIDGE STORE (2ND ST. E.)",
+        "1396 2nd St. E. Cornwall, K6H 2B8",
+        4352
+    ],
+    "4353": [
+        "BROOKDALE AVE.",
+        "960 Brookdale Ave., Unit 7 Cornwall, K6J 4P5",
+        4353
+    ],
+    "4351": [
+        "SYDNEY ST.",
+        "838 Sydney St. Cornwall, K6H 3J8",
+        4351
+    ],
+    "3154": [
+        "CORUNNA",
+        "195 St. Clair Blvd. Corunna, N0N 1G0",
+        3154
+    ],
+    "4652": [
+        "DEEP RIVER",
+        "3322 5 Hwy. #17 Deep River, K0J 1P0",
+        4652
+    ],
+    "3005": [
+        "DELHI",
+        "64 Argyle Ave. Delhi, N4B 1J3",
+        3005
+    ],
+    "3119": [
+        "DORCHESTER",
+        "4367 Hamilton Rd. Dorchester, N0L 1G3",
+        3119
+    ],
+    "3490": [
+        "DRYDEN",
+        "79 Queen St Dryden, P8N 1A6",
+        3490
+    ],
+    "4071": [
+        "DUNDAS",
+        "55 Cootes Dr. Dundas, L9H 1B5",
+        4071
+    ],
+    "4216": [
+        "DUNNVILLE",
+        "240 Main St. E. Dunnville, N1A 2X1",
+        4216
+    ],
+    "4102": [
+        "DURHAM",
+        "626 Garafraxa Hwy. #6, PO Box 1047 Durham, N0G 1R0",
+        4102
+    ],
+    "3415": [
+        "YONGE ST. N.",
+        "18307 Yonge St. East Gwillimbury, L9N 0A2",
+        3415
+    ],
+    "2402": [
+        "DONLANDS/O\u2019CONNOR",
+        "380 Donlands Ave. East York, M4J 3S3",
+        2402
+    ],
+    "2407": [
+        "WOODBINE/BARKER",
+        "1270 Woodbine Ave. East York, M4C 4E6",
+        2407
+    ],
+    "4653": [
+        "EGANVILLE",
+        "8647 Hwy. #60 Eganville, K0J 1T0",
+        4653
+    ],
+    "3556": [
+        "ELLIOT LAKE",
+        "12 Hillside Dr. S. Elliot Lake, P5A 1M6",
+        3556
+    ],
+    "4159": [
+        "ELMIRA",
+        "6 Wyatt St. E. Elmira, N3B 2H5",
+        4159
+    ],
+    "4168": [
+        "ELORA",
+        "2-6458 Wellington Rd. 7 Elora, N0B 1S0",
+        4168
+    ],
+    "4621": [
+        "EMBRUN",
+        "753 Notre Dame St. Embrun, K0A 1W0",
+        4621
+    ],
+    "4008": [
+        "ERIN",
+        "140 Main St. Erin, N0B 1T0",
+        4008
+    ],
+    "3642": [
+        "ESPANOLA",
+        "124 Station Rd. Espanola, P5E 1E9",
+        3642
+    ],
+    "3265": [
+        "ESSEX",
+        "160 Talbot St. N. Essex, N8M 2C7",
+        3265
+    ],
+    "2362": [
+        "ALBION MALL (ALBION/KIPLING)",
+        "1530 Albion Rd. Etobicoke, M9V 1B4",
+        2362
+    ],
+    "2320": [
+        "BURNHAMTHORPE/SATURN",
+        "666 Burnhamthorpe Rd. Etobicoke, M9C 2Z4",
+        2320
+    ],
+    "2313": [
+        "CLOVERDALE (EAST MALL)",
+        "10 The East Mall Cres. Etobicoke, M9B 3Y5",
+        2313
+    ],
+    "2360": [
+        "KIPLING/DIXON",
+        "1735 Kipling Ave. Etobicoke, M9R 2Y8",
+        2360
+    ],
+    "2308": [
+        "LONG BRANCH",
+        "1-3560 Lakeshore Blvd. W. Etobicoke, M8W 1N6",
+        2308
+    ],
+    "3155": [
+        "EXETER",
+        "78 Main St. N. Exeter, N0M 1S0",
+        3155
+    ],
+    "4555": [
+        "FENELON FALLS",
+        "125 Lindsay St. Fenelon Falls, K0M 1N0",
+        4555
+    ],
+    "4005": [
+        "FERGUS",
+        "720 St. David St. N. Fergus, N1M 2W8",
+        4005
+    ],
+    "4217": [
+        "PELHAM (FONTHILL)",
+        "20 Hwy. #20 E. Fonthill, L0S 1E0",
+        4217
+    ],
+    "3156": [
+        "FOREST",
+        "89 Main St. S. Forest, N0N 1J0",
+        3156
+    ],
+    "4242": [
+        "FORT ERIE",
+        "194 Garrison Rd. Fort Erie, L2A 1M9",
+        4242
+    ],
+    "3492": [
+        "FORT FRANCES",
+        "343 Fifth St. E. Fort Frances, P9A 1V1",
+        3492
+    ],
+    "4507": [
+        "GANANOQUE",
+        "580 King St. E. Gananoque, K7G 1H2",
+        4507
+    ],
+    "3614": [
+        "GARSON",
+        "3098 Falconbridge Hwy. Garson, P3L 1P5",
+        3614
+    ],
+    "2008": [
+        "GEORGETOWN",
+        "236 Guelph St. Georgetown, L7G 4B1",
+        2008
+    ],
+    "3691": [
+        "GERALDTON",
+        "101 First St. W. Geraldton, P0T 1M0",
+        3691
+    ],
+    "4618": [
+        "BLAIR PLACE",
+        "2018 Ogilvie Rd. Gloucester, K1J 7N9",
+        4618
+    ],
+    "3204": [
+        "GODERICH",
+        "395 Huron Rd. Goderich, N7A 3A4",
+        3204
+    ],
+    "3191": [
+        "GRAND BEND",
+        "21 Ontario St. N. Grand Bend, N0M 1T0",
+        3191
+    ],
+    "3442": [
+        "GRAVENHURST",
+        "230 David St. Gravenhurst, P1P 1J5",
+        3442
+    ],
+    "4072": [
+        "GRIMSBY",
+        "44 Livingston Ave. Grimsby, L3M 1L1",
+        4072
+    ],
+    "4003": [
+        "MUNICIPAL ST.",
+        "15 Municipal St. Guelph, N1G 1G8",
+        4003
+    ],
+    "4009": [
+        "SOUTH GUELPH",
+        "63 Clair Rd. E. Guelph, N1L 0J4",
+        4009
+    ],
+    "4007": [
+        "WILLOW WEST MALL",
+        "111 Silvercreek Pkwy. N. Guelph, N1H 3T2",
+        4007
+    ],
+    "4040": [
+        "WOOLWICH ST.",
+        "710 Woolwich St. Guelph, N1H 3Z1",
+        4040
+    ],
+    "3006": [
+        "HAGERSVILLE",
+        "55 Main St. N. Hagersville, N0A 1H0",
+        3006
+    ],
+    "4556": [
+        "HALIBURTON",
+        "15 Hops Dr. Haliburton, K0M 1S0",
+        4556
+    ],
+    "4075": [
+        "BARTON/MARY",
+        "150 Barton St. E. Hamilton, L8L 2W5",
+        4075
+    ],
+    "4057": [
+        "BARTON/OTTAWA",
+        "1111 Barton St. E. Hamilton, L8H 2V2",
+        4057
+    ],
+    "4055": [
+        "DUNDURN ST.S.",
+        "229 Dundurn St. S. Hamilton, L8P 4K8",
+        4055
+    ],
+    "4060": [
+        "EASTGATE (QUEENSTON/HWY. #20)",
+        "75 Centennial Pkwy. N. Hamilton, L8E 2P2",
+        4060
+    ],
+    "4059": [
+        "GAGE/FENNELL",
+        "959 Fennell Ave. E. Hamilton, L8T 1R1",
+        4059
+    ],
+    "4078": [
+        "HAMILTON",
+        "1408 Upper James St. Hamilton, L9B 1K3",
+        4078
+    ],
+    "4054": [
+        "MAIN ST. E.",
+        "1462 Main St. E. Hamilton, L8K 1C6",
+        4054
+    ],
+    "4062": [
+        "MOHAWK RD. E.",
+        "499 Mohawk Rd. E. Hamilton, L8V 2J4",
+        4062
+    ],
+    "4056": [
+        "PARKDALE N.",
+        "282 Parkdale Ave. N. Hamilton, L8H 5X7",
+        4056
+    ],
+    "4079": [
+        "RYMAL AND UPPER CENTENNIAL",
+        "2297 Rymal Rd. E., Bldg A Hamilton, L8J 2V8",
+        4079
+    ],
+    "4058": [
+        "UPPER JAMES ST.",
+        "673 Upper James St. Hamilton, L9C 5R8",
+        4058
+    ],
+    "4063": [
+        "WESTCLIFFE MALL (MOHAWK W.)",
+        "584 Mohawk Rd. W. Hamilton, L9C 1X6",
+        4063
+    ],
+    "3610": [
+        "HANMER",
+        "5085 Municipal Rd. #80 Hanmer, P3P 1R2",
+        3610
+    ],
+    "4140": [
+        "HANOVER",
+        "576 11th St. Hanover, N4N 1T5",
+        4140
+    ],
+    "3266": [
+        "HARROW",
+        "398 King St. W., PO Box 249 Harrow, N0R 1G0",
+        3266
+    ],
+    "4707": [
+        "HASTINGS",
+        "23 Front St. E. Hastings, K0L 1Y0",
+        4707
+    ],
+    "4708": [
+        "HAVELOCK",
+        "28 Ottawa St. Havelock, K0L 1Z0",
+        4708
+    ],
+    "4641": [
+        "HAWKESBURY",
+        "1036 Lansdowne Rd. Hawkesbury, K6A 1H7",
+        4641
+    ],
+    "3742": [
+        "HEARST",
+        "1106 Front St. Hearst, P0L 1N0",
+        3742
+    ],
+    "3541": [
+        "HUNTSVILLE",
+        "18 Hanes Rd. Huntsville, P1H 0A2",
+        3541
+    ],
+    "3205": [
+        "INGERSOLL",
+        "62 Charles St. W. Ingersoll, N5C 2L6",
+        3205
+    ],
+    "3743": [
+        "IROQUOIS FALLS",
+        "227 Cambridge Ave., PO Box 547 Iroquois Falls, P0K 1E0",
+        3743
+    ],
+    "4630": [
+        "EAGLESON SOUTH CENTRE",
+        "720 Eagleson Rd. Kanata, K2M 2G9",
+        4630
+    ],
+    "4622": [
+        "SIGNATURE CENTRE",
+        "499 Terry Fox Dr., Unit #5 Kanata, K2T 1H7",
+        4622
+    ],
+    "3744": [
+        "KAPUSKASING",
+        "25 Government Rd. Kapuskasing, P5N 2X4",
+        3744
+    ],
+    "4627": [
+        "KEMPTVILLE",
+        "330 Colonnade Dr. Kemptville, K0G 1J0",
+        4627
+    ],
+    "3493": [
+        "KENORA",
+        "560 Railway St. Kenora, P9N 1A1",
+        3493
+    ],
+    "4557": [
+        "KESWICK",
+        "443 The Queensway S. Keswick, L4P 3J4",
+        4557
+    ],
+    "4103": [
+        "KINCARDINE",
+        "427 Broadway St. Kincardine, N2Z 2G5",
+        4103
+    ],
+    "4503": [
+        "BATH RD.",
+        "1675 Bath Rd. Kingston, K7M 4X2",
+        4503
+    ],
+    "4502": [
+        "CONCESSION ST.",
+        "290 Concession St. Kingston, K7L 2C1",
+        4502
+    ],
+    "4511": [
+        "DALTON AVE",
+        "88 Dalton Ave. Kingston, K7K 0C4",
+        4511
+    ],
+    "4510": [
+        "KINGSTON NW WALMART",
+        "1090 Midland Ave. Kingston, K7P 2X9",
+        4510
+    ],
+    "4505": [
+        "PRINCESS ST.",
+        "500 Princess St. Kingston, K7L 1C5",
+        4505
+    ],
+    "3267": [
+        "KINGSVILLE",
+        "251 Main St. W. Kingsville, N9Y 1H8",
+        3267
+    ],
+    "3745": [
+        "KIRKLAND LAKE",
+        "25 Station Rd. Kirkland Lake, P2N 3L1",
+        3745
+    ],
+    "4156": [
+        "BLEAMS ROAD",
+        "250 Bleams Rd. Kitchener, N2C 2K6",
+        4156
+    ],
+    "4154": [
+        "DOW STORE (KING W.)",
+        "400 King St. W. Kitchener, N2G 1C8",
+        4154
+    ],
+    "4151": [
+        "KING ST. E.",
+        "1255 Weber St. E. Kitchener, N2A 1C2",
+        4151
+    ],
+    "4166": [
+        "SUPERCENTRE (HIGHLAND RD.)",
+        "875 Highland Rd. W., Unit 80 Kitchener, N2N 2Y2",
+        4166
+    ],
+    "4167": [
+        "VICTORIA ST.",
+        "1120 Victoria St. N. Kitchener, N2B 3T2",
+        4167
+    ],
+    "4709": [
+        "LAKEFIELD",
+        "102 Queen St., PO Box 520 Lakefield, K0L 2H0",
+        4709
+    ],
+    "3259": [
+        "LASALLE",
+        "1539 Front Rd. LaSalle, N9J 2B5",
+        3259
+    ],
+    "3291": [
+        "LEAMINGTON",
+        "255 Erie St. S. Leamington, N8H 3C3",
+        3291
+    ],
+    "3611": [
+        "LEVACK",
+        "3rd Ave. & Main St. Levack, P0M 2C0",
+        3611
+    ],
+    "4590": [
+        "LINDSAY",
+        "370 Kent St. W. Lindsay, K9V 6G8",
+        4590
+    ],
+    "4104": [
+        "LISTOWEL",
+        "850 Wallace Ave. N. Listowel, N4W 3H2",
+        4104
+    ],
+    "3641": [
+        "LITTLE CURRENT",
+        "53 Meredith St. E., PO Box 210 Little Current, P0P 1K0",
+        3641
+    ],
+    "3612": [
+        "LIVELY",
+        "8th Ave. & Main St. Lively, P0M 2E0",
+        3612
+    ],
+    "3640": [
+        "SUDBURY DISTRIBUTION CENTRE",
+        "50 Vagnini Crt. Lively, P3Y 1K8",
+        3640
+    ],
+    "3102": [
+        "ADELAIDE/LORNE",
+        "514 Adelaide St. London, N6B 3J4",
+        3102
+    ],
+    "3106": [
+        "CLARKE ROAD",
+        "155 Clarke Rd. London, N5W 5C9",
+        3106
+    ],
+    "3105": [
+        "DUNDAS ST. E.",
+        "1600 Dundas St. E. London, N5W 3C2",
+        3105
+    ],
+    "3103": [
+        "HAMILTON/SACKVILLE",
+        "552 Hamilton Rd. London, N5Z 1S6",
+        3103
+    ],
+    "3112": [
+        "HURON/ADELAIDE",
+        "1080 Adelaide St. N. London, N5Y 2N1",
+        3112
+    ],
+    "3140": [
+        "LONDON DISTRIBUTION CENTRE",
+        "280 Sovereign Road London, N6M 1B3",
+        3140
+    ],
+    "3114": [
+        "MEDWAY (WONDERLAND RD. N.)",
+        "1225 Wonderland Rd. N. London, N6G 2B9",
+        3114
+    ],
+    "3108": [
+        "OAKRIDGE MALL (OXFORD ST. W)",
+        "1199 Oxford St. W. London, N6H 1V8",
+        3108
+    ],
+    "3104": [
+        "PICCADILLY ST.",
+        "250 Piccadilly St. London, N6A 1S4",
+        3104
+    ],
+    "3117": [
+        "THE HYLAND CENTRE",
+        "1727 Richmond St. London, N5X 3Y2",
+        3117
+    ],
+    "3113": [
+        "WELLINGTON ROAD",
+        "1005 Wellington Rd. S. London, N6E 1W4",
+        3113
+    ],
+    "3110": [
+        "WESTMOUNT (WONDERLAND RD.)",
+        "3069 Wonderland Rd. S. London, N6L 1R4",
+        3110
+    ],
+    "3107": [
+        "WHARNCLIFFE RD.S.",
+        "414 Wharncliffe Rd. S. London, N6J 2M5",
+        3107
+    ],
+    "4304": [
+        "MADOC",
+        "46 Wellington St. Madoc, K0K 2K0",
+        4304
+    ],
+    "4623": [
+        "MANOTICK",
+        "1160 Beaverwood Rd. Manotick, K4M 1A2",
+        4623
+    ],
+    "3692": [
+        "MARATHON",
+        "2 Ontario St. Marathon, P0T 2E0",
+        3692
+    ],
+    "4105": [
+        "MARKDALE",
+        "33 Argyle St. Markdale, N0C 1H0",
+        4105
+    ],
+    "2472": [
+        "HWY #7",
+        "5804 Hwy. #7 Markham, L3P 1A6",
+        2472
+    ],
+    "2483": [
+        "MARKHAM RD",
+        "9780 Markham Rd. Markham, L6E 0H8",
+        2483
+    ],
+    "4305": [
+        "MARMORA",
+        "100 Forsythe St. Marmora, K0K 2M0",
+        4305
+    ],
+    "3504": [
+        "MATTAWA",
+        "511 Valois Dr, PO Box 628 Mattawa, P0H 1V0",
+        3504
+    ],
+    "3412": [
+        "MEAFORD",
+        "320 Sykes St. S. Meaford, N4L 1C7",
+        3412
+    ],
+    "3443": [
+        "MIDLAND",
+        "9350 Hwy. #93, Box 17 Midland, L4R 4K4",
+        3443
+    ],
+    "3413": [
+        "MIDLAND AVE.",
+        "291 Midland Ave. Midland, L4R 3K5",
+        3413
+    ],
+    "2009": [
+        "MILTON",
+        "51 Millside Dr. Milton, L9T 1S8",
+        2009
+    ],
+    "2020": [
+        "MILTON",
+        "1071 Maple Ave. Milton, L9T 0A5",
+        2020
+    ],
+    "2021": [
+        "MILTON",
+        "1015 Bronte St. S. Milton, L9T 8X3",
+        2021
+    ],
+    "4558": [
+        "MINDEN",
+        "12325 Hwy. #35 Minden, K0M 2K0",
+        4558
+    ],
+    "2056": [
+        "CLARKSON (TRUSCOTT DR.)",
+        "2425 Truscott Dr. Mississauga, L5J 2B4",
+        2056
+    ],
+    "2322": [
+        "COOKSVILLE",
+        "3154 Hurontario St. Mississauga, L5B 1N9",
+        2322
+    ],
+    "2326": [
+        "DIXIE/BURNHAMTHORPE",
+        "4141 Dixie Rd. Mississauga, L4W 1V5",
+        2326
+    ],
+    "2057": [
+        "DUNDAS ST.W.(HWY 5)",
+        "2458 Dundas St. W. Mississauga, L5K 1R8",
+        2057
+    ],
+    "2325": [
+        "ERINDALE STATION/DUNDAS",
+        "3030 Erindale Station Rd. Mississauga, L5C 2T3",
+        2325
+    ],
+    "2060": [
+        "HEARTLAND MALL",
+        "5800 McLaughlin Rd. Mississauga, L5R 4B7",
+        2060
+    ],
+    "2012": [
+        "MALTON (WESTWOOD MALL)",
+        "3535 Etude Dr. Mississauga, L4T 1T7",
+        2012
+    ],
+    "2011": [
+        "MEADOWVALE",
+        "6780 Town Centre Circle Mississauga, L5N 4B7",
+        2011
+    ],
+    "2333": [
+        "MISSISSAUGA \u2013 DIXIE/DUNDAS",
+        "1550 Dundas St. E. Mississauga, L4X 1L4",
+        2333
+    ],
+    "2801": [
+        "MOBILE STORE # 1",
+        "5900 Explorer Dr. Mississauga, L4W 5L2",
+        2801
+    ],
+    "2802": [
+        "MOBILE STORE # 2",
+        "5900 Explorer Dr. Mississauga, L4W 5L2",
+        2802
+    ],
+    "2328": [
+        "PORT CREDIT",
+        "420 Lakeshore Rd. E. Mississauga, L5G 1H5",
+        2328
+    ],
+    "2010": [
+        "STREETSVILLE",
+        "65 Queen St. N. Mississauga, L5N 1A4",
+        2010
+    ],
+    "2059": [
+        "WINSTON CHURCHILL/EGLINTON",
+        "2925 Eglinton Ave. W. Mississauga, L5M 6J3",
+        2059
+    ],
+    "3206": [
+        "MITCHELL",
+        "215 St. George St. Mitchell, N0K 1N0",
+        3206
+    ],
+    "4356": [
+        "MORRISBURG",
+        "111 Main St. Morrisburg, K0C 1X0",
+        4356
+    ],
+    "4106": [
+        "MOUNT FOREST",
+        "429 Main St. N. Mount Forest, N0G 2L0",
+        4106
+    ],
+    "4306": [
+        "NAPANEE",
+        "450 Centre St. Napanee, K7R 1P8",
+        4306
+    ],
+    "4620": [
+        "NEPEAN",
+        "3500 Fallowfield Rd. Nepean, K2J 4A7",
+        4620
+    ],
+    "4163": [
+        "NEW HAMBURG",
+        "112 Burns St., PO Box 2240 New Hamburg, N3A 1R3",
+        4163
+    ],
+    "3542": [
+        "NEW LISKEARD",
+        "50 Jaffray St. New Liskeard, P0J 1P0",
+        3542
+    ],
+    "3414": [
+        "DAVIS/LESLIE",
+        "1100 Davis Dr. Newmarket, L3Y 8W8",
+        3414
+    ],
+    "3423": [
+        "NEWMARKET",
+        "16715 Yonge St. Newmarket, L3X 1X4",
+        3423
+    ],
+    "4208": [
+        "BRIDGE ST.",
+        "4670 Bridge St. Niagara Falls, L2E 2R8",
+        4208
+    ],
+    "4209": [
+        "LUNDY\u2019S LANE",
+        "6757 Lundy's Lane Niagara Falls, L2G 1V4",
+        4209
+    ],
+    "4210": [
+        "STAMFORD (PORTAGE RD.)",
+        "3739 Portage Rd. N. Niagara Falls, L2J 2K8",
+        4210
+    ],
+    "3693": [
+        "NIPIGON",
+        "154 Railway St., PO Box 640 Nipigon, P0T 2J0",
+        3693
+    ],
+    "3505": [
+        "NOELVILLE",
+        "142 St. David St. N. N\u00f6elville, P0M 2N0",
+        3505
+    ],
+    "3503": [
+        "CASSELLS ST.",
+        "2035 Cassells St. North Bay, P1B 4E1",
+        3503
+    ],
+    "3502": [
+        "LAKESHORE DRIVE",
+        "390 Lakeshore Dr. North Bay, P1A 2C7",
+        3502
+    ],
+    "3540": [
+        "NORTH BAY",
+        "1065 Main St. W. North Bay, P1B 2W2",
+        3540
+    ],
+    "2379": [
+        "BILLY BISHOP",
+        "81 Billy Bishop Way, Unit D3 North York, M3K 2C8",
+        2379
+    ],
+    "2454": [
+        "CENTREPOINT (YONGE/STEELES)",
+        "6212 Yonge St. North York, M2M 3X4",
+        2454
+    ],
+    "2369": [
+        "FINCHDALE PLAZA (WESTON)",
+        "2568 Finch Ave. W. North York, M9M 2G3",
+        2369
+    ],
+    "2372": [
+        "JANE/FINCH",
+        "2005 Finch Ave. W. North York, M3N 2V3",
+        2372
+    ],
+    "2467": [
+        "PEANUT PLAZA (DON MILLS RD.)",
+        "3078 Don Mills Rd. North York, M2J 3C1",
+        2467
+    ],
+    "2356": [
+        "WILSON/JANE (DALLNER)",
+        "1718 Wilson Ave. North York, M3L 1A6",
+        2356
+    ],
+    "4307": [
+        "NORTHBROOK",
+        "12334 Hwy. #41, PO Box 17 Northbrook, K0H 2G0",
+        4307
+    ],
+    "3010": [
+        "NORWICH",
+        "49 Stover St. S. Norwich, N0J 1P0",
+        3010
+    ],
+    "2058": [
+        "GLEN ABBEY PLAZA",
+        "1500 Upper Middle Rd. Oakville, L6M 3G3",
+        2058
+    ],
+    "2090": [
+        "LAKESHORE RD/KERR ST",
+        "104 Lakeshore Rd. W. Oakville, L6K 1E3",
+        2090
+    ],
+    "2053": [
+        "REBECCA STREET",
+        "1431 Rebecca St. Oakville, L6L 1Z6",
+        2053
+    ],
+    "2061": [
+        "TRAFALGAR AND DUNDAS",
+        "290 Hays Blvd. Oakville, L6H 7P3",
+        2061
+    ],
+    "2055": [
+        "UPPER MIDDLE ROAD",
+        "1011 Upper Middle Rd. Oakville, L6H 4L2",
+        2055
+    ],
+    "4006": [
+        "ORANGEVILLE",
+        "270 Broadway St. Orangeville, L9W 1L1",
+        4006
+    ],
+    "3416": [
+        "MUSKOKA ROAD",
+        "426 Muskoka Rd. Orillia, L3V 4G7",
+        3416
+    ],
+    "3444": [
+        "ORILLIA",
+        "275 Atherly Rd. Orillia, L3V 1N7",
+        3444
+    ],
+    "4626": [
+        "10TH LINE",
+        "2276 Tenth Line Rd., Unit B1 Orleans, K1E 3P6",
+        4626
+    ],
+    "4624": [
+        "CONVENT GLEN (JEANNE D\u2019ARC)",
+        "6485 Jeanne D'Arc Blvd. Orleans, K1C 2R1",
+        4624
+    ],
+    "2105": [
+        "KING ST. E.",
+        "650 King St. E. Oshawa, L1H 1G5",
+        2105
+    ],
+    "2103": [
+        "MIDTOWN DRIVE",
+        "150 Midtown Dr. Oshawa, L1H 7L9",
+        2103
+    ],
+    "2337": [
+        "OSHAWA CROSSDOCK",
+        "1050 Farewell St OSHAWA, L1H 6N6",
+        2337
+    ],
+    "2101": [
+        "RITSON ROAD",
+        "200 Ritson Rd. N., Unit B Oshawa, L1G 1Z7",
+        2101
+    ],
+    "2104": [
+        "TAUNTON RD. E.",
+        "285 Taunton Rd. E. Oshawa, L1G 3V2",
+        2104
+    ],
+    "2102": [
+        "WENTWORTH ST. W.",
+        "257 Wentworth St. W. Oshawa, L1J 1M9",
+        2102
+    ],
+    "4610": [
+        "2144 CARLING AVE.",
+        "2144 Carling Ave. Ottawa, K2A 1H1",
+        4610
+    ],
+    "4614": [
+        "BELLS CORNERS (NORTH SIDE RD.)",
+        "82 North Side Rd. Ottawa, K2H 5Z6",
+        4614
+    ],
+    "4603": [
+        "COLLEGE SQUARE",
+        "1984 Baseline Rd. Ottawa, K2C 0C6",
+        4603
+    ],
+    "4617": [
+        "ELMVALE(ST. LAURENT)",
+        "1910 St. Laurent Blvd. Ottawa, K1G 1A4",
+        4617
+    ],
+    "4615": [
+        "MERIVALE RD.",
+        "1669 Merivale Rd. Ottawa, K2G 3K2",
+        4615
+    ],
+    "4607": [
+        "MONTREAL RD.",
+        "548 Montreal Rd. Ottawa, K1K 0T9",
+        4607
+    ],
+    "4601": [
+        "OTTAWA",
+        "1860 Bank St. Ottawa, K1V 7Z8",
+        4601
+    ],
+    "4643": [
+        "OTTAWA DISTRIBUTION CENTRE",
+        "2750 Swansea Crescent Ottawa, K1G 6R8",
+        4643
+    ],
+    "4606": [
+        "SCOTT STREET",
+        "1546 Scott St. Ottawa, K1Y 2N5",
+        4606
+    ],
+    "4609": [
+        "SOMERSET ST. W.",
+        "515 Somerset St. W. Ottawa, K1R 5J9",
+        4609
+    ],
+    "4604": [
+        "VANIER (SELKIRK ST.)",
+        "7 Selkirk St. Ottawa, K1L 6N1",
+        4604
+    ],
+    "4107": [
+        "OWEN SOUND",
+        "1155 First Ave. E. Owen Sound, N4K 2E2",
+        4107
+    ],
+    "4115": [
+        "OWEN SOUND",
+        "965 10th St. W. Owen Sound, N4K 5S2",
+        4115
+    ],
+    "3007": [
+        "PARIS",
+        "28 Silver St. Paris, N3L 3G2",
+        3007
+    ],
+    "3543": [
+        "PARRY SOUND",
+        "17 William Street Parry Sound, P2A 1V2",
+        3543
+    ],
+    "4690": [
+        "PEMBROKE DC (NELSON ST)",
+        "311 Nelson St Pembroke, K8A 3N5",
+        4690
+    ],
+    "3417": [
+        "PENETANG",
+        "15 Main St., PO Box 6010 Penetang, L9M 1S6",
+        3417
+    ],
+    "4628": [
+        "PERTH",
+        "100 Wilson St. W. Perth, K7H 2P3",
+        4628
+    ],
+    "4654": [
+        "PETAWAWA",
+        "3 Renfrew St. Petawawa, K8H 2X2",
+        4654
+    ],
+    "4710": [
+        "LANSDOWNE",
+        "1900 Lansdowne St. W. Peterborough, K9J 3K7",
+        4710
+    ],
+    "4701": [
+        "LANSDOWNE/MONAGHAN",
+        "570 Lansdowne St. W. Peterborough, K9J 6Z8",
+        4701
+    ],
+    "4702": [
+        "MARKET PLAZA",
+        "139 George St. N. Peterborough, K9J 3G6",
+        4702
+    ],
+    "4703": [
+        "PORTAGE PLACE",
+        "1154 Chemong Rd. Peterborough, K9H 7J6",
+        4703
+    ],
+    "3157": [
+        "PETROLIA",
+        "4355 Petrolia St. E., PO Box 1597 Petrolia, N0N 1R0",
+        3157
+    ],
+    "2474": [
+        "KINGSTON ROAD",
+        "1355 Kingston Rd. Pickering, L1V 1B8",
+        2474
+    ],
+    "2478": [
+        "KINGSTON/WHITES",
+        "705 Kingston Rd. Pickering, L1V 6K3",
+        2478
+    ],
+    "4308": [
+        "PICTON",
+        "412 Picton Main St. Picton, K0K 2T0",
+        4308
+    ],
+    "4218": [
+        "PORT COLBORNE",
+        "420 Catharine St. Port Colborne, L3K 4L5",
+        4218
+    ],
+    "3008": [
+        "PORT DOVER",
+        "120 Andrew St. Port Dover, N0A 1N0",
+        3008
+    ],
+    "4108": [
+        "PORT ELGIN",
+        "355 Goderich St. Port Elgin, N0H 2C0",
+        4108
+    ],
+    "2108": [
+        "PORT HOPE",
+        "55 Peter St. Port Hope, L1A 1C2",
+        2108
+    ],
+    "2109": [
+        "PORT PERRY",
+        "677 Queen St. Port Perry, L9L 1K6",
+        2109
+    ],
+    "3009": [
+        "PORT ROWAN",
+        "26 College Rd. Port Rowan, N0E 1M0",
+        3009
+    ],
+    "3506": [
+        "POWASSAN",
+        "760 Main St. Powassan, P0H 1Z0",
+        3506
+    ],
+    "4358": [
+        "PRESCOTT",
+        "970 Edward St. N. Prescott, K0E 1T0",
+        4358
+    ],
+    "3494": [
+        "RED LAKE",
+        "35 Birks Dr. Red Lake, P0V 2M0",
+        3494
+    ],
+    "4655": [
+        "RENFREW",
+        "252 Veteran's Memorial Blvd. Renfrew, K7V 4B4",
+        4655
+    ],
+    "2485": [
+        "OAK RIDGES",
+        "13469 Yonge St. Richmond Hill, L4E 0L2",
+        2485
+    ],
+    "2475": [
+        "YONGE ST. N.",
+        "10375 Yonge St. N. Richmond Hill, L4C 3C2",
+        2475
+    ],
+    "2481": [
+        "YONGE/HIGH TECH",
+        "8825 Yonge St. Richmond Hill, L4C 6Z1",
+        2481
+    ],
+    "3056": [
+        "RIDGETOWN",
+        "Array Erie St. S., #21 Hwy. Ridgetown, N0P 2C0",
+        3056
+    ],
+    "4219": [
+        "RIDGEWAY",
+        "265 Ridge Rd. Ridgeway, L0S 1N0",
+        4219
+    ],
+    "4625": [
+        "ROCKLAND",
+        "2729 Laurier St. Rockland, K4K 1A3",
+        4625
+    ],
+    "3057": [
+        "RODNEY",
+        "167 Queen St., PO Box 224 Rodney, N0L 2C0",
+        3057
+    ],
+    "3151": [
+        "CONFEDERATION ST.",
+        "1107 Confederation St. Sarnia, N7T 7H9",
+        3151
+    ],
+    "3153": [
+        "LAMBTON MALL (LONDON RD.)",
+        "1380 London Rd. Sarnia, N7S 1P8",
+        3153
+    ],
+    "3152": [
+        "MAXWELL ST.",
+        "210 Maxwell St. Sarnia, N7T 5C3",
+        3152
+    ],
+    "4109": [
+        "SAUBLE BEACH",
+        "704 Main St. Sauble Beach, N0H 1P0",
+        4109
+    ],
+    "3551": [
+        "BRUCE ST.",
+        "250 Bruce St. Sault Ste. Marie, P6B 1P1",
+        3551
+    ],
+    "3553": [
+        "CHURCHILL BLVD.",
+        "150 Churchill Blvd. Sault Ste. Marie, P6A 3Z9",
+        3553
+    ],
+    "3554": [
+        "GREAT NORTHERN RD.",
+        "486 Great Northern Rd. Sault Ste. Marie, P6B 4Z9",
+        3554
+    ],
+    "3552": [
+        "MARKET MALL (2ND LINE)",
+        "275 2nd Line Sault Ste. Marie, P6C 2J4",
+        3552
+    ],
+    "3590": [
+        "SAULT STE MARIE DC (BRUCE ST)",
+        "250 Bruce Street Sault STE. Marie, P6B 1P1",
+        3590
+    ],
+    "2409": [
+        "BRIMLEY/EGLINTON",
+        "2727 Eglinton Ave. E. Scarborough, M1K 2S2",
+        2409
+    ],
+    "2460": [
+        "CEDARBRAE (LAWRENCE/MARKHAM)",
+        "3561 Lawrence Ave. E. Scarborough, M1H 1B2",
+        2460
+    ],
+    "2457": [
+        "ELLESMERE/VICTORIA PARK",
+        "40 Ellesmere Rd. Scarborough, M1R 4C1",
+        2457
+    ],
+    "2471": [
+        "FINCH/MCCOWAN (SANDHURST)",
+        "1001 Sandhurst Circle Scarborough, M1V 1Z6",
+        2471
+    ],
+    "2421": [
+        "HENLEY GARDENS",
+        "1089 Kingston Rd. Scarborough, M1N 4E4",
+        2421
+    ],
+    "2466": [
+        "KENNEDY/SHEPPARD",
+        "2360 Kennedy Rd. Scarborough, M1T 3H1",
+        2466
+    ],
+    "2456": [
+        "KINGSTON RD/MORNINGSIDE",
+        "4479 Kingston Rd., Unit 1 Scarborough, M1E 2N7",
+        2456
+    ],
+    "2459": [
+        "LAWRENCE/KENNEDY",
+        "2300 Lawrence Ave. E. Scarborough, M1P 2R2",
+        2459
+    ],
+    "2469": [
+        "LAWRENCE/PORT UNION",
+        "5544 Lawrence Ave. E. Scarborough, M1C 3B2",
+        2469
+    ],
+    "2405": [
+        "MACEY/DANFORTH",
+        "3130 Danforth Ave. Scarborough, M1L 1B2",
+        2405
+    ],
+    "2486": [
+        "MILNER & MORNINGSIDE",
+        "871 Milner Ave. Scarborough, M1B 5N6",
+        2486
+    ],
+    "2416": [
+        "ST. CLAIR/BIRCHMOUNT",
+        "3431 St. Clair Ave. E. Scarborough, M1L 1W6",
+        2416
+    ],
+    "2470": [
+        "VICTORIA PARK/FINCH",
+        "2934 Finch Ave. E. Scarborough, M1W 2T4",
+        2470
+    ],
+    "2412": [
+        "VICTORIA PK/EGLINTON",
+        "1437 Victoria Park Ave. Scarborough, M4A 2M5",
+        2412
+    ],
+    "3427": [
+        "SCHOMBERG",
+        "17250 Hwy. #27 Schomberg, L0G 1T0",
+        3427
+    ],
+    "4311": [
+        "SHARBOT LAKE",
+        "24585B Hwy. #7, PO Box 10 Sharbot Lake, K0H 2P0",
+        4311
+    ],
+    "4110": [
+        "HWY #89 & 124",
+        "802 Main St. E. Shelburne, L0N 1S4",
+        4110
+    ],
+    "3041": [
+        "SIMCOE",
+        "454 Norfolk St. S. Simcoe, N3Y 2X3",
+        3041
+    ],
+    "3495": [
+        "SIOUX LOOKOUT",
+        "41 Front St. Sioux Lookout, P8T 1A3",
+        3495
+    ],
+    "4642": [
+        "SMITHS FALLS",
+        "75 Lombard St. Smiths Falls, K7A 4Y9",
+        4642
+    ],
+    "3703": [
+        "SOUTH PORCUPINE",
+        "4145 Harold Ave. South Porcupine, P0N 1H0",
+        3703
+    ],
+    "3507": [
+        "SOUTH RIVER",
+        "310 Hwy. #124, PO Box 160 South River, P0A 1X0",
+        3507
+    ],
+    "4111": [
+        "SOUTHAMPTON",
+        "330 Railway St., PO Box 2312 Southhampton, N0H 2L0",
+        4111
+    ],
+    "4201": [
+        "DIEPPE ROAD",
+        "99 Dieppe Rd. St. Catharines, L2M 7N6",
+        4201
+    ],
+    "4204": [
+        "LAKEPORT",
+        "150 Lakeport Rd. St. Catharines, L2N 4R3",
+        4204
+    ],
+    "4206": [
+        "SCOTT ST.",
+        "446 Scott St. St. Catharines, L2M 3W6",
+        4206
+    ],
+    "4203": [
+        "TREMONT SQUARE",
+        "2D Tremont Dr. St. Catharines, L2T 3B2",
+        4203
+    ],
+    "4205": [
+        "WELLAND AVENUE",
+        "120 Welland Ave. St. Catharines, L2R 2N3",
+        4205
+    ],
+    "3208": [
+        "ST. MARYS",
+        "571 Queen St. W. St. Marys, N4X 1B7",
+        3208
+    ],
+    "3139": [
+        "ST. THOMAS",
+        "1014 Talbot St. St. Thomas, N5P 1G3",
+        3139
+    ],
+    "3422": [
+        "STAYNER",
+        "7380 Hwy. #26 Stayner, L0M 1S0",
+        3422
+    ],
+    "4629": [
+        "CARP ROAD",
+        "1140 Carp Rd. Stittsville, K2S 1B9",
+        4629
+    ],
+    "4073": [
+        "STONEY CREEK",
+        "135 #8 Hwy. Stoney Creek, L8G 1C1",
+        4073
+    ],
+    "4091": [
+        "STONEY CREEK DC",
+        "414 Dewitt Road Stoney Creek, L8E 4B7",
+        4091
+    ],
+    "2476": [
+        "STOUFFVILLE",
+        "5779 Main St..Unit 109 Stouffville, L4A 4R2",
+        2476
+    ],
+    "3202": [
+        "STRATFORD",
+        "260 C.H. Meier Blvd. Stratford, N5A 6W5",
+        3202
+    ],
+    "3240": [
+        "STRATFORD",
+        "429 Huron St. Stratford, N5A 5T8",
+        3240
+    ],
+    "3116": [
+        "STRATHROY",
+        "112 Metcalfe St. W. Strathroy, N7G 1M8",
+        3116
+    ],
+    "3418": [
+        "STROUD",
+        "7947 Yonge St. Stroud, L9S 1L1",
+        3418
+    ],
+    "3544": [
+        "STURGEON FALLS",
+        "100 Front St. Sturgeon Falls, P2B 2H2",
+        3544
+    ],
+    "3601": [
+        "LORNE ST.",
+        "42 Lorne St. Sudbury, P3C 4N8",
+        3601
+    ],
+    "3603": [
+        "NOTRE DAME AVE.",
+        "891 Notre Dame Ave. Sudbury, P3A 2T5",
+        3603
+    ],
+    "3604": [
+        "PARIS ST.",
+        "1889 Paris St. Sudbury, P3E 3C5",
+        3604
+    ],
+    "3602": [
+        "SUPERMALL",
+        "1485 Lasalle Blvd. Sudbury, P3A 5H7",
+        3602
+    ],
+    "4591": [
+        "SUTTON WEST",
+        "20903 Dalton Rd. Sutton West, L0E 1R0",
+        4591
+    ],
+    "3268": [
+        "TECUMSEH",
+        "12022 Tecumseh Rd. Tecumseh, N8N 1L9",
+        3268
+    ],
+    "3159": [
+        "THEDFORD",
+        "121 Main St., PO Box 401 Thedford, N0M 2N0",
+        3159
+    ],
+    "4213": [
+        "THOROLD",
+        "78 Ormond St. S. Thorold, L2V 3Y9",
+        4213
+    ],
+    "3655": [
+        "EDWARD ST. N.",
+        "417 Edward St. N. Thunder Bay, P7C 4P5",
+        3655
+    ],
+    "3653": [
+        "FORT WILLIAM RD",
+        "911 Fort William Rd., Unit 1 Thunder Bay, P7B 3A6",
+        3653
+    ],
+    "3656": [
+        "N. CUMBERLAND",
+        "212 N. Cumberland St. Thunder Bay, P7A 4N1",
+        3656
+    ],
+    "3652": [
+        "RED RIVER ROAD",
+        "806 Red River Rd. Thunder Bay, P7B 1K2",
+        3652
+    ],
+    "3690": [
+        "THUNDER BAY DISTRIBUTION CENTR",
+        "490 Maureen Street Unit 500 Thunder Bay, P7B 6T2",
+        3690
+    ],
+    "3654": [
+        "WEST GORE ST.",
+        "145 West Gore St. Thunder Bay, P7E 3R3",
+        3654
+    ],
+    "3058": [
+        "TILBURY",
+        "2 Queen St. S., PO Box 135 Tilbury, N0P 2L0",
+        3058
+    ],
+    "3042": [
+        "TILLSONBURG",
+        "114 Concession St. E. Tillsonburg, N4G 1P7",
+        3042
+    ],
+    "3702": [
+        "ALGONQUIN BLVD.W.",
+        "230 Algonquin Blvd. W. Timmins, P4N 7C9",
+        3702
+    ],
+    "3740": [
+        "TIMMINS DISTRIBUTION CENTRE",
+        "326 Knox Avenue Timmins, P4N 1K7",
+        3740
+    ],
+    "2452": [
+        "BAYVIEW/ROEHAMPTON",
+        "609 Roehampton Ave. Toronto, M4P 1S7",
+        2452
+    ],
+    "2321": [
+        "BLOOR/SPADINA",
+        "720 Spadina Ave. Toronto, M5S 2T9",
+        2321
+    ],
+    "2303": [
+        "COLLEGE/BATHURST",
+        "452 Bathurst St. Toronto, M5T 2S6",
+        2303
+    ],
+    "2376": [
+        "CROSSROADS",
+        "2625A Weston Rd. Toronto, M9N 3V8",
+        2376
+    ],
+    "2423": [
+        "DANFORTH/GREENWOOD",
+        "636 Greenwood Ave. Toronto, M4J 4B2",
+        2423
+    ],
+    "2431": [
+        "DISTILLERY DISTRICT",
+        "41 Mill St. Toronto, M5A 3R6",
+        2431
+    ],
+    "2455": [
+        "DON MILLS RD/BARBER GREEN RD",
+        "900A Don Mills Rd., Unit #100 Toronto, M3C 1V6",
+        2455
+    ],
+    "2311": [
+        "DUFFERIN MALL BLOOR/DUFFERIN",
+        "904 Dufferin St. Toronto, M6H 4A9",
+        2311
+    ],
+    "2306": [
+        "DUNDAS/RONCESVALLES",
+        "2135 Dundas St. W. Toronto, M6R 1X1",
+        2306
+    ],
+    "2487": [
+        "Eastern Avenue",
+        "400 Eastern Ave. Toronto, M4M 1B9",
+        2487
+    ],
+    "2419": [
+        "GERRARD/SEATON",
+        "227 Gerrard St. E. Toronto, M5A 2E9",
+        2419
+    ],
+    "2415": [
+        "LEASIDE VILLAGE",
+        "89 Laird Dr., Unit 1 Toronto, M4G 3T7",
+        2415
+    ],
+    "2413": [
+        "PARLIAMENT/WINCHESTR",
+        "534 Parliament St. Toronto, M4X 1P5",
+        2413
+    ],
+    "2302": [
+        "QUEEN/EUCLID",
+        "761 Queen St. W. Toronto, M6J 1E5",
+        2302
+    ],
+    "2410": [
+        "QUEEN/RIVER",
+        "28 River St. Toronto, M5A 3N9",
+        2410
+    ],
+    "2371": [
+        "STOCKYARDS",
+        "2153 St. Clair Ave. Toronto, M6N 1K5",
+        2371
+    ],
+    "2318": [
+        "SYMINGTON/DUPONT",
+        "323 Symington Ave. Toronto, M6P 3X1",
+        2318
+    ],
+    "2330": [
+        "TORONTO (QUEENS QUAY)",
+        "350 Queens Quay W. Toronto, M5V 3A7",
+        2330
+    ],
+    "2432": [
+        "YONGE/DUNDAS",
+        "10 Dundas St. E., Suite B-1 Toronto, M5B 2G9",
+        2432
+    ],
+    "3419": [
+        "TOTTENHAM",
+        "55 Queen St. Tottenham, L0G 1W0",
+        3419
+    ],
+    "4309": [
+        "TRENTON",
+        "49 Byron St. Trenton, K8V 2X5",
+        4309
+    ],
+    "4310": [
+        "TWEED",
+        "58B Victoria St. Tweed, K0K 3J0",
+        4310
+    ],
+    "2473": [
+        "UNIONVILLE",
+        "4681 Hwy. #7 Unionville, L3R 1M6",
+        2473
+    ],
+    "2110": [
+        "UXBRIDGE",
+        "178 Main St. N. Uxbridge, L9P 1C6",
+        2110
+    ],
+    "2378": [
+        "DUFFERIN AND MAJOR MACKENZIE",
+        "1470 Major Mackenzie Dr., Bldg. F Vaughan, L6A 4H6",
+        2378
+    ],
+    "2374": [
+        "MAPLE",
+        "9771 Jane St. Vaughan, L6A 3N9",
+        2374
+    ],
+    "2018": [
+        "WOODBRIDGE",
+        "7850 Weston Rd. Vaughan, L4L 9N8",
+        2018
+    ],
+    "4112": [
+        "WALKERTON",
+        "430 Durham St. Walkerton, N0G 2V0",
+        4112
+    ],
+    "3059": [
+        "WALLACEBURG",
+        "64 McNaughton St. Wallaceburg, N8A 1R9",
+        3059
+    ],
+    "3420": [
+        "WASAGA BEACH",
+        "100 Mosely St., PO Box 6 Wasaga Beach, L9Z 1A2",
+        3420
+    ],
+    "4074": [
+        "WATERDOWN",
+        "70 Hamilton St. N. Waterdown, L0R 1H0",
+        4074
+    ],
+    "4169": [
+        "ERB/IRA NEEDLES",
+        "659 Erb St. W. Waterloo, N2J 3Z4",
+        4169
+    ],
+    "4170": [
+        "KING STREET NORTH",
+        "624 King St. N. Waterloo, N2V 2J5",
+        4170
+    ],
+    "4164": [
+        "WEBER ST.",
+        "70 Weber St. N. Waterloo, N2J 3G7",
+        4164
+    ],
+    "3593": [
+        "WAWA",
+        "156 Mission Rd. Wawa, P0S 1K0",
+        3593
+    ],
+    "4214": [
+        "LINCOLN ST. E.",
+        "390 Lincoln St. E. Welland, L3B 4N4",
+        4214
+    ],
+    "4215": [
+        "THOROLD RD. E.",
+        "23 Thorold Rd. E. Welland, L3C 3T3",
+        4215
+    ],
+    "4509": [
+        "WESTPORT",
+        "77 Bedford St. Westport, K0G 1X0",
+        4509
+    ],
+    "2111": [
+        "301 DUNDAS ST. E.",
+        "301 Dundas St. E. Whitby, L1N 2J2",
+        2111
+    ],
+    "2114": [
+        "BROCK ST. N.",
+        "3950 Brock St. N. Whitby, L1R 3E1",
+        2114
+    ],
+    "2112": [
+        "KENDALWOOD",
+        "1801 Dundas St. E. Whitby, L1N 7C5",
+        2112
+    ],
+    "2142": [
+        "WHITBY DISTRIBUTION CENTRE",
+        "1655 Tricont Avenue Whitby, L1N 7N5",
+        2142
+    ],
+    "4113": [
+        "WIARTON",
+        "690 Berford St., PO Box 202 Wiarton, N0H 2T0",
+        4113
+    ],
+    "3262": [
+        "1050 WALKER ROAD",
+        "1050 Walker Rd. Windsor, N8Y 2N5",
+        3262
+    ],
+    "3254": [
+        "COLLEGE/CAMPBELL",
+        "1780 College Ave. Windsor, N9B 1M3",
+        3254
+    ],
+    "3256": [
+        "GATEWAY PLAZA (DOUGALL RD.)",
+        "3240 Dougall Rd., Unit 15 Windsor, N9E 1S6",
+        3256
+    ],
+    "3253": [
+        "GOYEAU @ ELLIOTT STREET",
+        "790 Goyeau St. Windsor, N9A 1H6",
+        3253
+    ],
+    "3260": [
+        "HURON CHURCH/MALDEN",
+        "1818 Huron Church Rd. Windsor, N9C 2L5",
+        3260
+    ],
+    "3255": [
+        "JEFFERSON/TECUMSEH",
+        "2451 Jefferson Blvd. Windsor, N8T 2W5",
+        3255
+    ],
+    "3252": [
+        "RIVERSIDE (WYANDOTTE E.)",
+        "5455 Wyandotte St. E. Windsor, N8S 1L8",
+        3252
+    ],
+    "3258": [
+        "TECUMSEH/LAUZON",
+        "8150 Tecumseh Blvd. E. Windsor, N8R 1A2",
+        3258
+    ],
+    "3251": [
+        "WALKER RD/YPRES",
+        "2380 Walker Rd. Windsor, N8W 3P6",
+        3251
+    ],
+    "4114": [
+        "WINGHAM",
+        "482 Josephine St. Wingham, N0G 2W0",
+        4114
+    ],
+    "2013": [
+        "WOODBRIDGE(ISLINGTON/HWY #7)",
+        "7676 Islington Ave. W. Woodbridge, L4L 1W3",
+        2013
+    ],
+    "3209": [
+        "DUNDAS ST. E.",
+        "911 Dundas St. Woodstock, N4S 1G7",
+        3209
+    ],
+    "3241": [
+        "WOODSTOCK",
+        "86 Beale St. Woodstock, N4S 6X4",
+        3241
+    ],
+    "2314": [
+        "DUNDAS/JANE",
+        "3524 Dundas St. W. York, M6S 2S1",
+        2314
+    ],
+    "2353": [
+        "KEELE/LAVENDER",
+        "1515 Keele St. York, M6N 3E8",
+        2353
+    ],
+    "2354": [
+        "OAKWOOD/VAUGHAN",
+        "529 Oakwood Ave. York, M6E 2X2",
+        2354
+    ]
+}

@@ -14,7 +14,7 @@ if __name__ == '__main__':
 	out_msg: str
 
 	# Search and select store
-	with open('store_ids.json', 'r') as infile:
+	with open('json/store_ids.json', 'r') as infile:
 		json_stores = json.load(infile)
 
 	selected_store = input('Search for preferred store: ')
@@ -34,7 +34,7 @@ if __name__ == '__main__':
 	##############################################################
 	
 	# Search and select beer
-	with open('beer_ids.json', 'r') as infile:
+	with open('json/beer_ids.json', 'r') as infile:
 		json_beers = json.load(infile)
 
 	selected_beer = input('Search for a beer: ')
