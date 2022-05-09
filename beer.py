@@ -8,8 +8,24 @@ class Beer:
         self.stock = stock
         self.__inStock__ = stock != 0
         self.onSale = onSale
-        self.dollarPerMl = self.price / float(self.quantity) * float(self.serving)
-        self.mlPerDollar = float(self.quantity) * float(self.serving) / self.price
 
-    def sortBy(self):
-        return self.mlPerDollar
+    def __lt__(self, obj):
+        return self.mlPerDollar() < obj.mlPerDollar()
+
+    def __gt__(self, obj):
+        return self.mlPerDollar() > obj.mlPerDollar()
+
+    def __le__(self, obj):
+        return self.mlPerDollar() <= obj.mlPerDollar()
+
+    def __ge__(self, obj):
+        return self.mlPerDollar() >= obj.mlPerDollar()
+    
+    def __eq__(self, obj):
+        return self.mlPerDollar() == obj.mlPerDollar()
+
+    def dollarPerMl(self) -> float:
+        return self.price / float(self.quantity) * float(self.serving)
+
+    def mlPerDollar(self) -> float:
+        return float(self.quantity) * float(self.serving) / self.price
