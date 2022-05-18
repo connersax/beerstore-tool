@@ -1,4 +1,3 @@
-from itertools import count
 import json
 
 import requests
@@ -95,17 +94,12 @@ if __name__ == '__main__':
     all_beer.sort(reverse=True)
 
     # for beer in all_beer:
-    #     out_msg = (
-    #         '\n'
-    #         f'{beer_name}{" (On Sale)" if beer.onSale else ""}\n'
-    #         f'Best: {beer.quantity} {beer.type} \u00d7 {beer.serving}ml at ${beer.price:.2f}\n'
-    #         f'{beer.mlPerDollar():.2f}ml/$\n'
-    #     )
-    #     print(out_msg)
+    #     print(f'\n{beer}')
 
     bestOption: Beer
+    beer: Beer
     for beer in all_beer:
-        if (beer.__inStock__):
+        if (beer.inStock()):
             bestOption = beer
             break
 
@@ -115,10 +109,8 @@ if __name__ == '__main__':
         out_msg = f'There was no {beer_name} in stock, looks like you\'ll have to try another beer.'
     else:
         out_msg = (
-            '\n'
-            f'{beer_name}{" (On Sale)" if bestOption.onSale else ""}\n'
-            f'Best: {bestOption.quantity} {bestOption.type} \u00d7 {bestOption.serving}ml at ${bestOption.price:.2f}\n'
-            f'{bestOption.mlPerDollar():.2f}ml/$\n'
+            'Best Option:\n'
+            f'{bestOption}'
         )
 
-print(out_msg)
+    print(out_msg)
