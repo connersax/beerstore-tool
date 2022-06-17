@@ -1,64 +1,69 @@
-import json
+import pickle
 
 import requests
 from bs4 import BeautifulSoup
 
 from beer import Beer
+from beerid import beerid
+from storeid import storeid
 
 
 if __name__ == '__main__':
     beerstore_url = 'https://www.thebeerstore.ca/beers/'
-    json_stores: dict
-    json_beers: dict
+    stores = list()
+    beers = list()
     out_msg: str
 
     # Search and select store
-    with open('json/store_ids.json', 'r') as infile:
-        json_stores = json.load(infile)
+    with open('data/store_ids.pkl', 'rb') as infile:
+        stores = pickle.load(infile)
 
-    selected_store = input('Search for preferred store: ')
+    search_store_str = input('Search for preferred store: ')
     searched_stores = dict()
     
     counter = 1
-    for store in json_stores.values():
-        if selected_store.lower() in store[0].lower() or selected_store.lower() in store[1].lower():
+    store: storeid
+    for store in stores:
+        if search_store_str.lower() in store.name.lower() or search_store_str.lower() in store.address.lower():
             searched_stores.update({counter: store})
-            print(f'{counter}. {store[1]}')
+            print(f'{counter}. {store.address}')
             counter += 1
 
-    selected_store = input('Select a store by number: ')
-    selected_store = searched_stores.get(int(selected_store))[2]
+    selected_store_index = int(input('Select a store by number: '))
+    selected_store: storeid = searched_stores.get(selected_store_index)
 
-    print(f'Store {json_stores.get(str(selected_store))[0]}, at {json_stores.get(str(selected_store))[1]} selected!\n')
+    print(f'Store {selected_store.name}, at {selected_store.address} selected!\n')
     ##############################################################
     
     # Search and select beer
-    with open('json/beer_ids.json', 'r') as infile:
-        json_beers = json.load(infile)
+    with open('data/beer_ids.pkl', 'rb') as infile:
+        beers = pickle.load(infile)
 
-    selected_beer = input('Search for a beer: ')
+    searched_beer_str = input('Search for a beer: ')
     searched_beers = dict()
 
     counter = 1
-    for beer in json_beers.values():
-        if selected_beer.lower() in beer.get('name').lower() or selected_beer.lower() in beer.get('company').lower():
-            searched_beers.update({counter: beer})
-            print(f'{counter}. {beer.get("name")}')
+    beerval: beerid
+    for beerval in beers:
+        if searched_beer_str.lower() in beerval.name.lower() or searched_beer_str.lower() in beerval.brewer.lower():
+            searched_beers.update({counter: beerval})
+            print(f'{counter}. {beerval.name}')
             counter += 1
 
-    selected_beer = input('Select a beer by number: ')
-    selected_beer = searched_beers.get(int(selected_beer)).get('link')
+    searched_beers_index = int(input('Select a beer by number: '))
+    print(searched_beers_index)
+    selected_beer: beerid = searched_beers.get(searched_beers_index)
 
-    print(f'Beer {json_beers.get(selected_beer).get("name")} selected!\n')
+    print(f'Beer {selected_beer.name} selected!\n')
     ##############################################################
 
     headers = {
         'User-Agent': '',
-        'Cookie': f'beer_home_store={selected_store}',
+        'Cookie': f'beer_home_store={selected_store.id}',
     }
 
 
-    request = requests.get(beerstore_url + selected_beer, headers=headers)
+    request = requests.get(beerstore_url + selected_beer.link, headers=headers)
     status = request.status_code
     soup = BeautifulSoup(request.content, 'html.parser')
 
